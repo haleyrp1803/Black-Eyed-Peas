@@ -6,6 +6,7 @@
 
 <param ve-config 
        title="Basilica dei Santi Cosma e Damiano"
+       eid=""Q185372"
        author="JSTOR Labs team"
        banner="https://upload.wikimedia.org/wikipedia/commons/f/fd/Palatine_view_of_temple_of_romulus.jpg" 
        layout="vertical">
