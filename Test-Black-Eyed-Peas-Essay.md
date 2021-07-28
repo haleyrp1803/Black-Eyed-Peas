@@ -12,12 +12,10 @@
 # Black-eyed Peas
 
 Black-eyed peas or cowpeas (Vigna unguiculata L. Walp) are both an ancient crop and a food of the future. Also known as crowder pea, caupi, southern pea, alubia carilla, neibe and frijole, as well as chowlee in India, gubgub in the West Indies and akkerboon in South Africa; its many names reflect its worldwide appeal. These nourishing, easily-grown legumes are closely related to mung beans, adzuki beans and bambara groundnuts.
-<62 words>
 
 ## A pea by many names
 
 The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. Linnaeus (L.) gave this plant the scientific name Dolichos unguiculatus in his Species Plantarum of 1753 from a specimen from Barbados, but this African plant was formally renamed in 1974 as Vigna unguiculata subsp.unguiculata. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 
-<115 words>
 			   
 <param ve-image 
        label="The International Institute of Tropical Agriculture i Nigeria (IITA)" 
@@ -26,21 +24,23 @@ The recording of these many monikers reveals much about the pea’s widespread u
        url="https://upload.wikimedia.org/wikipedia/commons/1/19/Nigeria_Cowpea_fro_F_IITA.jpg">
                        
 ## An easy, useful crop
+
 Cowpeas grow best in semi-arid conditions, poor soils and with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest within 100 days. Grown since ancient times, these (mainly annual) leguminous plants (in the plant family Fabaceae) have now become a staple part of the diets of hundreds of millions of people around the world. It is not just the seeds (the beans or peas as we call them) that are harvested however – the leaves and pods of this reliable plant are also edible and used as a vegetable, or can be used for cattle fodder or hay, and, being legumes, they also enrich the soil through the presence of around 21 different (bradyrhizobial) symbiotic nitrogen-fixing bacteria in nodules on their roots.
-o   <128 words>
 
 Herbarium specimen of Vigna unguiculata collected in Nigeria
 (RBG Kew) 
 
 Vigna unguiculata (as Dolichos sinesis) by W. Herbert, in Curtis’s Botanical Magazine vol.48 1821, courtesy of Missouri Botanical Garden
 From: http://www.plantillustrations.org/illustration.php?id_illustration=9217	
-<have asked Taylor about whether a scan of “Dolichos” page of Species Plantarum 1753 is possible>
-Food in the Deep Past
-Genomic sequencing suggests that humans domesticated an earlier wild relative independently in two regions: in West Africa, with vegetation zones [1] that change based on latitude, and East Africa, with vegetation zones that change based on altitude. Even to the present day, ecotones are valuable sites for settlement because they allow for mixed food systems: wild gathering, hunting, fishing and aquaculture, keeping small livestock and/or building larger herds, agroforestry, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.  Because cowpeas mature quickly and produce reliably with only a little land and labor, they are useful crops the whole year round! <120 words>
-Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in historical linguistics have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the Bantu Expansions. Comparing today’s languages with each other lets scientists reconstruct the languages of the past. Watch as the root for ‘cowpea,’ *-kunde, appears in languages across the continent. [2] <83 words>
+(have asked Taylor about whether a scan of “Dolichos” page of Species Plantarum 1753 is possible)
+
+## Food in the Deep Past
+
+Genomic sequencing suggests that humans domesticated an earlier wild relative independently in two regions: in West Africa, with vegetation zones [1] that change based on latitude, and East Africa, with vegetation zones that change based on altitude. Even to the present day, ecotones are valuable sites for settlement because they allow for mixed food systems: wild gathering, hunting, fishing and aquaculture, keeping small livestock and/or building larger herds, agroforestry, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.  Because cowpeas mature quickly and produce reliably with only a little land and labor, they are useful crops the whole year round! 
+
+Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in historical linguistics have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the Bantu Expansions. Comparing today’s languages with each other lets scientists reconstruct the languages of the past. Watch as the root for ‘cowpea,’ kunde, appears in languages across the continent.
 
 By 1500 BCE this faithful friend had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent. Ancient Greek physician Dioscorides’ herbal De Materia Medica dubs the cowpea phasiolos. This name referred to any sort of bean or pea (these terms used interchangeably in Dioscoride’s time). 
-
 
 Map visualizations: 
 Vegetation zones, curtain compare images between way, way back, then against ca. 1000 BCE, 1000 CE, 2000 CE
@@ -51,23 +51,24 @@ QUESTION:
 There’s a big jump from the very, very distant past to the advent of printed books. I’m going to try to bridge that gap with a few little snippets that connect to Central Asia, Indian Subcontinent, Arabian peninsula, reaching out to colleagues who specialize there. I don’t know what I’ll find yet (art, recipes, archaeology, who knows?) but please let me know what you think about this idea?
 
 ## 16th-18th
-As we’ve seen, cowpeas had been consumed for millennia, especially in the Mediterranean, but many Northern European botanists were writing based on others’ descriptions or on specimens entering their collection in unfamiliar conditions. Botanist Carolus Clusius’s influential 1601 Rariorum Plantarum Historia (History of Rare Plants) refers to cowpea as Phaseolus peregrinus. Peregrinus comes from the Latin peregre ‘abroad’—literally per- ‘through’ + ager ‘field’—and Clusius communicates to his reader that the pea comes from a foreign, distant place. In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the Juliana Anicia Codex—the oldest surviving copy of Dioscorides’ herbal. He notes that the Spanish have knowledge of the plant. Christopher Columbus observed kidney beans in the Americas—a white variety with a black center—perhaps introduced confusion on the bean’s origin. (f/u on this section, what’s the claim, source, etc?). <139 words>
-For example, in a 1636 edition of English botanist John Gerard’s Herball, or Generall historie of plants, the author references Phaseolus peregrinus IIII, describing it as the “Indian Kidney bean with small white fruit.” <34 words> [Indian Kidney Bean from Herball, or Generall historieof plants, p  1213]
+As we’ve seen, cowpeas had been consumed for millennia, especially in the Mediterranean, but many Northern European botanists were writing based on others’ descriptions or on specimens entering their collection in unfamiliar conditions. Botanist Carolus Clusius’s influential 1601 Rariorum Plantarum Historia (History of Rare Plants) refers to cowpea as Phaseolus peregrinus. Peregrinus comes from the Latin peregre ‘abroad’—literally per- ‘through’ + ager ‘field’—and Clusius communicates to his reader that the pea comes from a foreign, distant place. In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the Juliana Anicia Codex—the oldest surviving copy of Dioscorides’ herbal. He notes that the Spanish have knowledge of the plant. Christopher Columbus observed kidney beans in the Americas—a white variety with a black center—perhaps introduced confusion on the bean’s origin. (f/u on this section, what’s the claim, source, etc?).
+For example, in a 1636 edition of English botanist John Gerard’s Herball, or Generall historie of plants, the author references Phaseolus peregrinus IIII, describing it as the “Indian Kidney bean with small white fruit.” (Indian Kidney Bean from Herball, or Generall historieof plants, p  1213)
 
-[Vigna unguiculata from Dioscorides manuscript Codex Vindobonensis Med. Gr. I, or Codex Aniciae Julianae, folio 370v. Pigment on parchment, c. 512 A.D. ​​Österreichische Nationalbibliothek, Vienna. Österreichische Nationalbibliothek, Vienna. https://es.wikipedia.org/wiki/Archivo:Phasiolos_370v_Dioscoride_Vienne.png] 
+(Vigna unguiculata from Dioscorides manuscript Codex Vindobonensis Med. Gr. I, or Codex Aniciae Julianae, folio 370v. Pigment on parchment, c. 512 A.D. ​​Österreichische Nationalbibliothek, Vienna. Österreichische Nationalbibliothek, Vienna. https://es.wikipedia.org/wiki/Archivo:Phasiolos_370v_Dioscoride_Vienne.png) 
+
 In fact, the cowpea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the ‘Columbian Exchange’. Black-eyed peas were one of the primary foodstuffs during the transatlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman Sir Hans Sloane notes the pea in Jamaica around 1687. It was in Virginia by at least 1666, and Florida by around 1700.
 
-[Image of document with Sloane’s observations]
+(Image of document with Sloane’s observations)
 
 The hard labor of enslaved peoples ensured that the black-eyed pea was grown and cultivated as a crop largely for livestock throughout the United States, most especially in the South. Black-eyed peas were also a fixture in gardens of enslaved peoples, these beans a hearty supplement to the meagre meals allotted on plantations. The cowpea became “the third most important food crop produced on Carolina plantations between 1730 and 1776.” Thomas Jefferson and George Washington both had black-eyed peas planted on their expansive plantations, and Washington corresponded with friends and acquaintances about growth and cultivation of the plant. By the nineteenth century black-eyed peas achieved new cultural cache and graced the tables of the white ruling class. Enslaved cooks played an important role in bringing this food into rarefied homes.
 
-[Images of letters from Washington, Jefferson]
+(Images of letters from Washington, Jefferson)
  
-Throughout the Civil War, cowpeas remained an important food for all people throughout the U.S. In the late nineteenth century, American subsistence farmers [Q2787508] were encouraged to grow cowpea even if their local climate meant they didn’t get an abundant crop of beans. Its usefulness as a soil improver, for erosion control, and as a nutritious fodder for livestock meant that this easy-to-grow crop was a valuable addition to the US farming landscape. Cowpea was, and still is, mainly grown in southern hotter states and California, as the warm, dry conditions are more favourable for bean production there.
+Throughout the Civil War, cowpeas remained an important food for all people throughout the U.S. In the late nineteenth century, American subsistence farmers (Q2787508) were encouraged to grow cowpea even if their local climate meant they didn’t get an abundant crop of beans. Its usefulness as a soil improver, for erosion control, and as a nutritious fodder for livestock meant that this easy-to-grow crop was a valuable addition to the US farming landscape. Cowpea was, and still is, mainly grown in southern hotter states and California, as the warm, dry conditions are more favourable for bean production there.
 
 A Farmers Bulletin of 1920 gives official advice on growing cowpeas in the US. Morse, W. J. (William Joseph). (1920). Cowpeas: utilization. Washington, D.C.: U.S. Dept. of Agriculture. From Hathi Trust: https://hdl.handle.net/2027/uiug.30112019280418
 
-[The black-eyed pea is here labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant [...], 1604. https://archive.org/details/indiaeorientalis00mare_1/page/n170/mode/1up]
+(The black-eyed pea is here labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant [...], 1604. https://archive.org/details/indiaeorientalis00mare_1/page/n170/mode/1up)
 
 Globally, black-eyed peas grow in at least 33 <I think its more like 100? Let’s check> countries, this widespread embrace of the bean uniting geographically disparate peoples, places, and cultures. As acclaimed food historian and chef Michael Twitty points out, “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories. Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is fundamental to any discussion of food as widely used across culinary traditions as black-eyed peas.
 
@@ -75,8 +76,8 @@ Globally, black-eyed peas grow in at least 33 <I think its more like 100? Let’
 In the American South, the vibrant legacies of African culinary traditions preserved by enslaved peoples and their descendants define the region’s cuisine and have inspired countless delicious variations of black-eyed pea-based dishes. That recipe books such as the Southern Heritage Vegetables Cookbook has an entire section dedicated solely to pea recipes, eight of them black-eyed, speaks to their primacy. They are key ingredients for everything from stews to salads to savory beans and rice dishes.
 
 Black-eyed peas are perhaps most iconic for their modern associations with New Year’s. Hoppin’ John is a popular rice, bean, and pork dish that brings good luck and prosperity for the New Year. It is often served with greens to symbolize wealth and is an absolute must for any southern New Year’s celebration. Brazil’s national dish, feijoada completa, has a similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed feijoada “out of scarcity and poverty” made with the black-eyed peas used to feed plantation livestock boiled with discarded pork. Today, however, it is a special and celebratory meal for every level of society, “which requires multiple days to prepare and, served with rice and greens, constitutes an entire meal.” In both cases of the Hoppin’ John and feijoada completa, what was originally a means for survival became a meal for prosperity and celebration, a transformation so tied to Twitty’s concept of identity cooking that it deserves a narrative of its own.    
-[Edit/expand this whole section w/ other cultural associations between eating Vigna ung at the beginning of the new year]
-[link to Twitty film; or recipe for akara balls or Hoppin John!]
+(Edit/expand this whole section w/ other cultural associations between eating Vigna ung at the beginning of the new year)
+(link to Twitty film; or recipe for akara balls or Hoppin John!)
 
 Bean-based dishes may feature more in our diets in the future.
 Image by: jeffreyw, CC BY 2.0 via Wikimedia Commons
@@ -93,14 +94,13 @@ Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as
 A map showing the native and introduced distribution of cowpea. RBG Kew, from:http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1127257-2
 
 ## A food of the future
-The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be more familiar with it. Legumes are emerging as ‘foods of the future’ due to their very nature of being highly nutritious and relatively easy to grow. They will play an important part in future food security – providing food in a changing climate and will continue to help small-scale farmers combat poverty and hunger and improve their livelihoods. As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, and as more people aim to eat less meat, legume crops such as cowpeas, with their many virtues, will contribute to the diets of more people. 
-<117 words>
+The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be more familiar with it. Legumes are emerging as ‘foods of the future’ due to their very nature of being highly nutritious and relatively easy to grow. They will play an important part in future food security – providing food in a changing climate and will continue to help small-scale farmers combat poverty and hunger and improve their livelihoods. As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, and as more people aim to eat less meat, legume crops such as cowpeas, with their many virtues, will contribute to the diets of more people.
 
 However, even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild relatives of the cowpea may hold genes that will allow this crop to survive hotter, drier conditions. If these genes can be bred into agricultural varieties then the future may look even brighter for the cowpea. The global Crop Wild Relatives Project (CWRP) has been aiming to do just that in partnership with 33 countries and seed banks such as Kew’s Millennium Seed Bank in the UK. In a telling quote from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be an unfailing friend even while the climate crisis is affecting production.”     <156 words> 
 
 Wild and cultivated cowpea seeds showing variation 
 Tom Rulkens CC BY-SA 2.0 via Wikimedia Commons
-<can annotate to show which is which!>
+(can annotate to show which is which!)
 
 # Proposal for Interactive Elements:
                         
