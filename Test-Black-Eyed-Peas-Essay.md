@@ -3,10 +3,10 @@
 ## Use this link to preview: https://juncture-digital.org/haleyrp1803/Black-Eyed-Peas
 
 <param ve-config 
-       title="Basilica dei Santi Cosma e Damiano"
-       eid=""Q185372"
-       author="JSTOR Labs team"
-       banner="https://upload.wikimedia.org/wikipedia/commons/f/fd/Palatine_view_of_temple_of_romulus.jpg" 
+       title="."
+       author="."
+       banner="https://upload.wikimedia.org/wikipedia/commons/d/d0/BlackEyedPeas.JPG" 
+	license="CC BY-SA 3.0 Toby Hudson via Wikimedia Commons"
        layout="vertical">
 
 # Black-eyed Peas
@@ -18,14 +18,13 @@ Black-eyed peas or cowpeas (Vigna unguiculata L. Walp) are both an ancient crop 
 
 The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. Linnaeus (L.) gave this plant the scientific name Dolichos unguiculatus in his Species Plantarum of 1753 from a specimen from Barbados, but this African plant was formally renamed in 1974 as Vigna unguiculata subsp.unguiculata. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 
 <115 words>
-
-Intro: https://upload.wikimedia.org/wikipedia/commons/1/19/Nigeria_Cowpea_fro_F_IITA.jpg
-The International Institute of Tropical Agriculture i Nigeria (IITA)
- 
-Banner
-CC BY-SA 3.0 Toby Hudson via Wikimedia Commons
-https://upload.wikimedia.org/wikipedia/commons/d/d0/BlackEyedPeas.JPG
-
+			   
+<param ve-image 
+       label="The International Institute of Tropical Agriculture i Nigeria (IITA)" 
+       description="." 
+       license="." 
+       url="https://upload.wikimedia.org/wikipedia/commons/1/19/Nigeria_Cowpea_fro_F_IITA.jpg">
+                       
 ## An easy, useful crop
 Cowpeas grow best in semi-arid conditions, poor soils and with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest within 100 days. Grown since ancient times, these (mainly annual) leguminous plants (in the plant family Fabaceae) have now become a staple part of the diets of hundreds of millions of people around the world. It is not just the seeds (the beans or peas as we call them) that are harvested however – the leaves and pods of this reliable plant are also edible and used as a vegetable, or can be used for cattle fodder or hay, and, being legumes, they also enrich the soil through the presence of around 21 different (bradyrhizobial) symbiotic nitrogen-fixing bacteria in nodules on their roots.
 o   <128 words>
