@@ -2,6 +2,8 @@
 
 ## Use this link to preview: https://juncture-digital.org/haleyrp1803/Black-Eyed-Peas
 
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
 <param ve-config 
        banner="https://upload.wikimedia.org/wikipedia/commons/d/d0/BlackEyedPeas.JPG" 
        license="CC BY-SA 3.0 Toby Hudson via Wikimedia Commons"
