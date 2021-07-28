@@ -3,10 +3,8 @@
 ## Use this link to preview: https://juncture-digital.org/haleyrp1803/Black-Eyed-Peas
 
 <param ve-config 
-       title="."
-       author="."
        banner="https://upload.wikimedia.org/wikipedia/commons/d/d0/BlackEyedPeas.JPG" 
-	license="CC BY-SA 3.0 Toby Hudson via Wikimedia Commons"
+       license="CC BY-SA 3.0 Toby Hudson via Wikimedia Commons"
        layout="vertical">
 
 # Black-eyed Peas
@@ -19,8 +17,6 @@ The recording of these many monikers reveals much about the pea’s widespread u
 			   
 <param ve-image 
        label="The International Institute of Tropical Agriculture i Nigeria (IITA)" 
-       description="." 
-       license="." 
        url="https://upload.wikimedia.org/wikipedia/commons/1/19/Nigeria_Cowpea_fro_F_IITA.jpg">
                        
 ## An easy, useful crop
@@ -54,7 +50,7 @@ There’s a big jump from the very, very distant past to the advent of printed b
 As we’ve seen, cowpeas had been consumed for millennia, especially in the Mediterranean, but many Northern European botanists were writing based on others’ descriptions or on specimens entering their collection in unfamiliar conditions. Botanist Carolus Clusius’s influential 1601 Rariorum Plantarum Historia (History of Rare Plants) refers to cowpea as Phaseolus peregrinus. Peregrinus comes from the Latin peregre ‘abroad’—literally per- ‘through’ + ager ‘field’—and Clusius communicates to his reader that the pea comes from a foreign, distant place. In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the Juliana Anicia Codex—the oldest surviving copy of Dioscorides’ herbal. He notes that the Spanish have knowledge of the plant. Christopher Columbus observed kidney beans in the Americas—a white variety with a black center—perhaps introduced confusion on the bean’s origin. (f/u on this section, what’s the claim, source, etc?).
 For example, in a 1636 edition of English botanist John Gerard’s Herball, or Generall historie of plants, the author references Phaseolus peregrinus IIII, describing it as the “Indian Kidney bean with small white fruit.” (Indian Kidney Bean from Herball, or Generall historieof plants, p  1213)
 
-(Vigna unguiculata from Dioscorides manuscript Codex Vindobonensis Med. Gr. I, or Codex Aniciae Julianae, folio 370v. Pigment on parchment, c. 512 A.D. ​​Österreichische Nationalbibliothek, Vienna. Österreichische Nationalbibliothek, Vienna. https://es.wikipedia.org/wiki/Archivo:Phasiolos_370v_Dioscoride_Vienne.png) 
+(Vigna unguiculata from Dioscorides manuscript Codex Vindobonensis Med. Gr. I, or Codex Aniciae Julianae, folio 370v. Pigment on parchment, c. 512 A.D. Österreichische Nationalbibliothek, Vienna. Österreichische Nationalbibliothek, Vienna. https://es.wikipedia.org/wiki/Archivo:Phasiolos_370v_Dioscoride_Vienne.png) 
 
 In fact, the cowpea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the ‘Columbian Exchange’. Black-eyed peas were one of the primary foodstuffs during the transatlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman Sir Hans Sloane notes the pea in Jamaica around 1687. It was in Virginia by at least 1666, and Florida by around 1700.
 
