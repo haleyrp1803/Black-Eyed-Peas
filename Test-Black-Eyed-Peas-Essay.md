@@ -129,15 +129,20 @@ Michael Twitty has several YouTube videos where he cooks authentic historical re
 ## Primary
 
 Wilbert Jones, The Healthy Soul Food Cookbook (Carol Pub. Group, 1998), http://archive.org/details/healthysoulfoodc00jone. This is a modern cookbook that offers healthier versions of  traditional African American soul food recipes.
+	
 Kathy Hester and Renee Comet, The Great Vegan Bean Book, Illustrated edition (Beverly, Massachusetts: Fair Winds Press, 2013). This cookbooks is all vegan bean recipes. It uses black-eyed peas all throughout and represents multiple culinary traditions. 
+	
 Angela Shelf Medearis, The Ethnic Vegetarian : Traditional and Modern Recipes from Africa, America, and the Caribbean (Emmaus, Penn. : RODALE, 2004), http://archive.org/details/isbn_9781579546182. Another cookbook with bean recipes from multiple cultures.
+	
 The Southern Heritage Vegetables Cookbook (Birmingham, Ala. : Oxmoor House, 1983), http://archive.org/details/southernheritage0000unse. A cookbook with recipes from the American South, with an entire section on peas/beans.
 
 
 ## Secondary
 
 Michael W. Twitty, “Afroculinaria – Exploring Culinary Traditions of Africa, African America and the African Diaspora,” accessed July 23, 2021, https://afroculinaria.com/. The blog of a historian, teacher, and chef who specializes in culinary history of Africa, African America and the African Diaspora. He offers insights on food history as well as food’s connection to culture and identity. 
+	
 Michael W. Twitty, “Why Black Eyed Peas? Why Greens?,” Afroculinaria (blog), January 1, 2012, https://afroculinaria.com/2012/01/01/why-black-eyed-peas-why-greens/. Twitty offers a brief explanation of the New Year’s celebratory foods Hoppin’ John and a side of greens. He gives a recipe, explains what foods historically might have been used, and notes the meaning of each dish in New Year’s traditions.
+	
 Olivia Ware Terenzio, “Feijoada and Hoppin’ John: Dishing the African Diaspora in Brazil and the United States,” Southern Cultures 25, 4 (2019): 162-164. This essay thoroughly examines the history of Feijoada and Hoppin’ John, two celebratory meals created by enslaved peoples in the Americas with black-eyed peas. 
 
 # Full bibliography
