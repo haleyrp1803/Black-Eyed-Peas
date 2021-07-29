@@ -105,8 +105,12 @@ Black-eyed peas are perhaps most iconic for their modern associations with New Y
 (Edit/expand this whole section w/ other cultural associations between eating Vigna ung at the beginning of the new year)
 (link to Twitty film; or recipe for akara balls or Hoppin John!)
 
-Bean-based dishes may feature more in our diets in the future.
-Image by: jeffreyw, CC BY 2.0 via Wikimedia Commons
+<param ve-image
+       label="Bean-based dishes may become a much bigger part of our diets soon"
+       license="CC BY 2.0 via Wikimedia Commons"
+       author="jeffreyw"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Black_eyed_peas_%2816167751712%29.jpg">
+
 
 ## A Colonial Crop
 Although black-eyed pea was not grown as a crop in Britain (it being far too cold and wet), its inclusion in the Economic Botany Collection of the <span eid="Q18748726"> Royal Botanic Gardens Kew </span> is telling.  Here, over a hundred different collections of seeds, pods, ‘fibre’ and even models of cowpea are kept, mean that it was obviously studied as a useful colonial crop plant. Donations are as diverse as from Nigeria, India, Laos, China and Japan, but also from imperial exhibitions where plant products were displayed such as the <span eid="Q5148408"> Colonial and India Exhibition of 1886 </span>, the Japan/British Exhibition of 1910, the British Industries Fair of 1930, as well as the <span eid="Q10534945"> India Museum </span>, the Imperial Institute, the Jamaica Agricultural Society, and colonial expeditions including <span eid="Q183567"> Dr WB Baikie's </span> Niger Expedition of 1859. One undated individual collection was even donated by the HRH the Prince of Wales, from the ‘East Indies’. 
