@@ -13,14 +13,8 @@
 
 ## Black-eyed Peas
 
-Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient crop and a food of the future. Also known as crowder pea, caupi, southern pea, alubia carilla, neibe and frijole, as well as chowlee in India, gubgub in the West Indies and akkerboon in South Africa; its many names reflect its worldwide appeal. These nourishing, easily-grown <span eid="Q145909"> legumes </span> are closely related to mung beans, adzuki beans and bambara groundnuts.
+Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient crop and a food of the future. Also known as crowder pea, caupi, southern pea, alubia carilla, neibe and frijole, as well as chowlee in India, gubgub in the West Indies and akkerboon in South Africa; its many names reflect its worldwide appeal. These nourishing, easily-grown <span eid="Q145909"> legumes </span> are closely related to mung beans, adzuki beans and bambara groundnuts.=
 
-<param ve-image 
-       label="Black-eyed peas are small distinctive white beans"
-       author="The International Institute of Tropical Agriculture in Nigeria via Wikimedia Commons"
-       license="CC BY-SA 2.0"
-       url="https://upload.wikimedia.org/wikipedia/commons/1/19/Nigeria_Cowpea_fro_F_IITA.jpg">
-       
 ## A pea by many names
 
 The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. <span eid="Q1043"> Linnaeus (L.) </span>  gave this plant the scientific name _Dolichos unguiculatus_ in his <span eid="Q849308"> _Species Plantarum_ </span> of 1753 from a specimen from Barbados, but this African plant was formally renamed in 1974 as _Vigna unguiculata_ subsp._unguiculata_. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 
