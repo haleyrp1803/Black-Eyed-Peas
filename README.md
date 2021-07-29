@@ -11,7 +11,7 @@
        author="Emily Kamm, Sarah Mallory, Haley Price, Christina Hourigan"
        layout="vertical">
 
-# Black-eyed Peas
+## Black-eyed Peas
 
 Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient crop and a food of the future. Also known as crowder pea, caupi, southern pea, alubia carilla, neibe and frijole, as well as chowlee in India, gubgub in the West Indies and akkerboon in South Africa; its many names reflect its worldwide appeal. These nourishing, easily-grown <span eid="Q145909"> legumes </span> are closely related to mung beans, adzuki beans and bambara groundnuts.
 
@@ -127,7 +127,7 @@ Wild and cultivated cowpea seeds showing variation
 Tom Rulkens CC BY-SA 2.0 via Wikimedia Commons
 (can annotate to show which is which!)
 
-# Proposal for Interactive Elements:
+## Proposal for Interactive Elements:
                         
 ## Interactive digital game: 
                         
@@ -146,7 +146,7 @@ In addition to the more specific map suggested above, we will have a more genera
 Michael Twitty has several YouTube videos where he cooks authentic historical recipes of the antebellum American South and discusses their history and significance.. We would like to add one of them to our section on the black-eyed pea’s culinary history.
 
 
-# Annotated Bibliography:
+## Annotated Bibliography:
 ## Primary
 
 Wilbert Jones, The Healthy Soul Food Cookbook (Carol Pub. Group, 1998), http://archive.org/details/healthysoulfoodc00jone. This is a modern cookbook that offers healthier versions of  traditional African American soul food recipes.
@@ -166,7 +166,7 @@ Michael W. Twitty, “Why Black Eyed Peas? Why Greens?,” Afroculinaria (blog),
 	
 Olivia Ware Terenzio, “Feijoada and Hoppin’ John: Dishing the African Diaspora in Brazil and the United States,” Southern Cultures 25, 4 (2019): 162-164. This essay thoroughly examines the history of Feijoada and Hoppin’ John, two celebratory meals created by enslaved peoples in the Americas with black-eyed peas. 
 
-# Full bibliography
+## Full bibliography
 
 Afroculinaria – Exploring Culinary Traditions of Africa, African America and the African Diaspora. https://afroculinaria.com/. Accessed 23 July 2021.
 	
