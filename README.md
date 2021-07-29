@@ -23,8 +23,7 @@ Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient cro
 
 ## A pea by many names
 
-The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. <span eid="Q1043"> Linnaeus (L.) </span>  gave this plant the scientific name _Dolichos unguiculatus_ in his <span eid="Q849308"> _Species Plantarum_ </span> of 1753 from a specimen from Barbados, but this African plant was formally renamed in 1974 as _Vigna unguiculata_ subsp._unguiculata_. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 
-			   
+The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. <span eid="Q1043"> Linnaeus (L.) </span>  gave this plant the scientific name _Dolichos unguiculatus_ in his <span eid="Q849308"> _Species Plantarum_ </span> of 1753 from a specimen from Barbados, but this African plant was formally renamed in 1974 as _Vigna unguiculata_ subsp._unguiculata_. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 	   
 <param ve-image fit="contain"
        label="Vigna unguiculata F. von Scheidl, 1776"
        author="Wellcome Collection" 
@@ -50,6 +49,10 @@ Genomic sequencing suggests that humans domesticated an earlier wild relative in
        url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Drying_cowpeas.jpg">
 
 Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in historical linguistics have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the Bantu Expansions. Comparing today’s languages with each other lets scientists reconstruct the languages of the past. Watch as the root for ‘cowpea,’ kunde, appears in languages across the continent.
+<param ve-iframe
+       label="Filler for interactive Black-Eyed Pea image/game"
+       id="game_drop"
+       src="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1127257-2#source-KBD"
 
 By 1500 BCE this faithful friend had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent. Ancient Greek physician Dioscorides’ herbal De Materia Medica dubs the cowpea phasiolos. This name referred to any sort of bean or pea (these terms used interchangeably in Dioscoride’s time). 
 
