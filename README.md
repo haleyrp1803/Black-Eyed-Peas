@@ -62,6 +62,8 @@ In fact, the cowpea was one of thousands of organisms that crossed from Eurasia 
 
 (Image of document with Sloane’s observations)
 
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.bm000589657">
+
 The hard labor of enslaved peoples ensured that the black-eyed pea was grown and cultivated as a crop largely for livestock throughout the United States, most especially in the South. Black-eyed peas were also a fixture in gardens of enslaved peoples, these beans a hearty supplement to the meagre meals allotted on plantations. The cowpea became “the third most important food crop produced on Carolina plantations between 1730 and 1776.” Thomas Jefferson and George Washington both had black-eyed peas planted on their expansive plantations, and Washington corresponded with friends and acquaintances about growth and cultivation of the plant. By the nineteenth century black-eyed peas achieved new cultural cache and graced the tables of the white ruling class. Enslaved cooks played an important role in bringing this food into rarefied homes.
 
 (Images of letters from Washington, Jefferson)
