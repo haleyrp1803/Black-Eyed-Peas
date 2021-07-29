@@ -7,15 +7,17 @@
 <param ve-config 
        banner="https://upload.wikimedia.org/wikipedia/commons/d/d0/BlackEyedPeas.JPG" 
        license="CC BY-SA 3.0 Toby Hudson via Wikimedia Commons"
+       title="Our unfailing friend"
+       author="Emily Kamm, Sarah Mallory, Haley Price, Christina Hourigan"
        layout="vertical">
 
 # Black-eyed Peas
 
-Black-eyed peas or cowpeas (Vigna unguiculata L. Walp) are both an ancient crop and a food of the future. Also known as crowder pea, caupi, southern pea, alubia carilla, neibe and frijole, as well as chowlee in India, gubgub in the West Indies and akkerboon in South Africa; its many names reflect its worldwide appeal. These nourishing, easily-grown legumes are closely related to mung beans, adzuki beans and bambara groundnuts.
+Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient crop and a food of the future. Also known as crowder pea, caupi, southern pea, alubia carilla, neibe and frijole, as well as chowlee in India, gubgub in the West Indies and akkerboon in South Africa; its many names reflect its worldwide appeal. These nourishing, easily-grown legumes are closely related to mung beans, adzuki beans and bambara groundnuts.
 
 ## A pea by many names
 
-The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. Linnaeus (L.) gave this plant the scientific name Dolichos unguiculatus in his Species Plantarum of 1753 from a specimen from Barbados, but this African plant was formally renamed in 1974 as Vigna unguiculata subsp.unguiculata. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 
+The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. Linnaeus (L.) gave this plant the scientific name _Dolichos unguiculatus_ in his _Species Plantarum_ of 1753 from a specimen from Barbados, but this African plant was formally renamed in 1974 as Vigna unguiculata subsp.unguiculata. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 
 			   
 <param ve-image 
        label="The International Institute of Tropical Agriculture i Nigeria (IITA)" 
