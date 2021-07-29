@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Larger cultivated variety of cowpea seed",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/487b088388f66becc070100c66eb7336150edac1bec4f1b90aaa01166225fbf9",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:726.1470336914062,149.35812377929688,469.79730224609375,291.4983215332031"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#166665ea-9122-49d6-922b-27200e02fc6e"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Smaller wild cowpea seed",
         "purpose": "commenting"
       }
