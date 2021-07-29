@@ -92,7 +92,7 @@ A Farmers Bulletin of 1920 gives official advice on growing cowpeas in the US. M
        label="label"
        license="license"
        author="author" 
-       url="https://es.wikipedia.org/wiki/Archivo:Phasiolos_370v_Dioscoride_Vienne.pnghttps://hdl.handle.net/2027/uiug.30112019280418"> 
+       url="https://es.wikipedia.org/wiki/Archivo:Phasiolos_370v_Dioscoride_Vienne.png"> 
 
 (The black-eyed pea is here labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant, 1604. 
 <param ve-image
