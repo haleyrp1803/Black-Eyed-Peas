@@ -21,7 +21,6 @@ Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient cro
        license="CC BY-SA 2.0"
        url="https://upload.wikimedia.org/wikipedia/commons/1/19/Nigeria_Cowpea_fro_F_IITA.jpg">
        
-
 ## A pea by many names
 
 The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. <span eid="Q1043"> Linnaeus (L.) </span>  gave this plant the scientific name _Dolichos unguiculatus_ in his <span eid="Q849308"> _Species Plantarum_ </span> of 1753 from a specimen from Barbados, but this African plant was formally renamed in 1974 as _Vigna unguiculata_ subsp._unguiculata_. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 
@@ -36,11 +35,11 @@ The recording of these many monikers reveals much about the pea’s widespread u
 
 Cowpeas grow best in semi-arid conditions, poor soils and with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest within 100 days. Grown since ancient times, these (mainly annual) leguminous plants (in the plant family Fabaceae) have now become a staple part of the diets of hundreds of millions of people around the world. It is not just the seeds (the beans or peas as we call them) that are harvested however – the leaves and pods of this reliable plant are also edible and used as a vegetable, or can be used for cattle fodder or hay, and, being legumes, they also enrich the soil through the presence of around 21 different (bradyrhizobial) symbiotic <span eid="Q15098397"> nitrogen-fixing bacteria in nodules </span> on their roots.
 
-<param ve-image 
-       url="http://www.plantillustrations.org/illustration.php?id_illustration=9217">
-
-Herbarium specimen of Vigna unguiculata collected in Nigeria (RBG Kew) 
-Vigna unguiculata (as Dolichos sinesis) by W. Herbert, in Curtis’s Botanical Magazine vol.48 1821, courtesy of Missouri Botanical Garden
+<param ve-image
+       label="Drying cowpeas in Ghana"
+       author="TreeAid via Wikimedia Commons"
+       license="CC BY-SA 2.0"
+       url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Drying_cowpeas.jpg">
 
 ## Food in the Deep Past
 
