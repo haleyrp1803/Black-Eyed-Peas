@@ -49,24 +49,13 @@ Genomic sequencing suggests that humans domesticated an earlier wild relative in
        url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Drying_cowpeas.jpg">
 
 Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in historical linguistics have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the Bantu Expansions. Comparing today’s languages with each other lets scientists reconstruct the languages of the past. Watch as the root for ‘cowpea,’ kunde, appears in languages across the continent.
-<param ve-iframe
-       label="Filler for interactive Black-Eyed Pea image/game"
-       id="game_drop"
-       src="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1127257-2#source-KBD"
 
 By 1500 BCE this faithful friend had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent. Ancient Greek physician Dioscorides’ herbal De Materia Medica dubs the cowpea phasiolos. This name referred to any sort of bean or pea (these terms used interchangeably in Dioscoride’s time). 
-
-Map visualizations: 
-Vegetation zones, curtain compare images between way, way back, then against ca. 1000 BCE, 1000 CE, 2000 CE
-
-Custom layer and/or animation of Africa where the word for cowpea in different-but-related languages appear on the map in the order of the approximate date to which they’ve been reconstructed.
-
-QUESTION: 
-There’s a big jump from the very, very distant past to the advent of printed books. I’m going to try to bridge that gap with a few little snippets that connect to Central Asia, Indian Subcontinent, Arabian peninsula, reaching out to colleagues who specialize there. I don’t know what I’ll find yet (art, recipes, archaeology, who knows?) but please let me know what you think about this idea?
+<param ve-map 
+       description="Vegetation zones, curtain compare images between way, way back, then against ca. 1000 BCE, 1000 CE, 2000 CE. Custom layer and/or animation of Africa where the word for cowpea in different-but-related languages appear on the map in the order of the approximate date to which they’ve been reconstructed."
 
 ## 16th-18th
 As we’ve seen, cowpeas had been consumed for millennia, especially in the Mediterranean, but many Northern European botanists were writing based on others’ descriptions or on specimens entering their collection in unfamiliar conditions. Botanist Carolus Clusius’s influential 1601 Rariorum Plantarum Historia (History of Rare Plants) refers to cowpea as Phaseolus peregrinus. Peregrinus comes from the Latin peregre ‘abroad’—literally per- ‘through’ + ager ‘field’—and Clusius communicates to his reader that the pea comes from a foreign, distant place. In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the Juliana Anicia Codex—the oldest surviving copy of Dioscorides’ herbal. He notes that the Spanish have knowledge of the plant. Christopher Columbus observed kidney beans in the Americas—a white variety with a black center—perhaps introduced confusion on the bean’s origin. (f/u on this section, what’s the claim, source, etc?).
-
 <param ve-image fit="contain"
        label="Vigna unguiculata from Codex Aniciae Julianae c.512 AD"
        license="Public Domain via Wikipedia"
@@ -159,6 +148,11 @@ Tom Rulkens CC BY-SA 2.0 via Wikimedia Commons
 (can annotate to show which is which!)
 
 # Annotated Bibliography:
+<param ve-image fit="contain"
+       label="Vigna unguiculata (cowpea) - Vigna unguiculata in flower (Photo: ITTA Image Library)"
+       license="Public Domain via Wikipedia"
+       url="http://storage.googleapis.com/powop-assets/kew_profiles/KPPCONT_085087_fullsize.jpg">
+	
 ## Primary
 
 Wilbert Jones, The Healthy Soul Food Cookbook (Carol Pub. Group, 1998), http://archive.org/details/healthysoulfoodc00jone. This is a modern cookbook that offers healthier versions of  traditional African American soul food recipes.
