@@ -7,7 +7,7 @@
 <param ve-config 
        banner="https://upload.wikimedia.org/wikipedia/commons/d/d0/BlackEyedPeas.JPG" 
        license="CC BY-SA 3.0 Toby Hudson via Wikimedia Commons"
-       title="Our unfailing friend"
+       title="Black-Eyed Peas: Our Unfailing Friend"
        author="Emily Kamm, Sarah Mallory, Haley Price, Christina Hourigan"
        layout="vertical">
 
@@ -120,12 +120,11 @@ Cowpeas were displayed at colonial exhibitions including the Colonial and India 
 
 ## Modern production
 Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as cultivation is still mainly in the hands of small-holder farmers, but also because they are such a staple food that most harvests are used locally rather than being exported. The centres of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s cowpea crop. It is estimated that it is grown on more than 12 million hectares in around 100 <check> different countries, where it is often intercropped with grains. It is the third most important pulse worldwide, feeding hundreds of millions of people. 
-	
 <param ve-entity
        label="A map showing the native and introduced distribution of cowpea. RBG Kew,"
 	url="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1127257-2">
 
-## A food of the future
+## A food of the future 
 The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be more familiar with it. Legumes are emerging as ‘foods of the future’ due to their very nature of being highly nutritious and relatively easy to grow. They will play an important part in future food security – providing food in a changing climate and will continue to help small-scale farmers combat poverty and hunger and improve their livelihoods. As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, and as more people aim to eat less meat, legume crops such as cowpeas, with their many virtues, will contribute to the diets of more people.
 
 <param ve-image
@@ -142,26 +141,7 @@ Wild and cultivated cowpea seeds showing variation
 Tom Rulkens CC BY-SA 2.0 via Wikimedia Commons
 (can annotate to show which is which!)
 
-## Proposal for Interactive Elements:
-                        
-## Interactive digital game: 
-                        
-We will make an interactive image of a pea plant that presents a description of each plant part when you mouse over them. This can be made by isolating the various parts of a pea plant image through Photoshop and making an interactive “game” in Unity. When the user mouses over the leaves, flower, or pod, a pop-up will appear with a description of the part and its uses. Ron has confirmed that this can be easily embedded in a Juncture essay.
-                        
-## Map w/ linguistics
-                        
-We will make a Geo JSON map showing where the word for black-eyed pea/cowpea entered Bantu languages in Africa over time. This way, we can show the spread of the plant itself throughout Africa over time.
-                        
-## Map w/ plant distribution over time
-
-In addition to the more specific map suggested above, we will have a more general map showing where black-eyed peas are grown throughout the world and the estimated year cultivation began in that region. 
-                        
-## Embed video of Michael Twitty’s recipe
-                        
-Michael Twitty has several YouTube videos where he cooks authentic historical recipes of the antebellum American South and discusses their history and significance.. We would like to add one of them to our section on the black-eyed pea’s culinary history.
-
-
-## Annotated Bibliography:
+# Annotated Bibliography:
 ## Primary
 
 Wilbert Jones, The Healthy Soul Food Cookbook (Carol Pub. Group, 1998), http://archive.org/details/healthysoulfoodc00jone. This is a modern cookbook that offers healthier versions of  traditional African American soul food recipes.
