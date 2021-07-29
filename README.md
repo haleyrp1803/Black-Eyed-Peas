@@ -59,6 +59,12 @@ There’s a big jump from the very, very distant past to the advent of printed b
 
 ## 16th-18th
 As we’ve seen, cowpeas had been consumed for millennia, especially in the Mediterranean, but many Northern European botanists were writing based on others’ descriptions or on specimens entering their collection in unfamiliar conditions. Botanist Carolus Clusius’s influential 1601 Rariorum Plantarum Historia (History of Rare Plants) refers to cowpea as Phaseolus peregrinus. Peregrinus comes from the Latin peregre ‘abroad’—literally per- ‘through’ + ager ‘field’—and Clusius communicates to his reader that the pea comes from a foreign, distant place. In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the Juliana Anicia Codex—the oldest surviving copy of Dioscorides’ herbal. He notes that the Spanish have knowledge of the plant. Christopher Columbus observed kidney beans in the Americas—a white variety with a black center—perhaps introduced confusion on the bean’s origin. (f/u on this section, what’s the claim, source, etc?).
+
+<param ve-image
+       label="Vigna unguiculata from Codex Aniciae Julianae c.512 AD"
+       license="Public Domain via Wikipedia"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Phasiolos_370v_Dioscoride_Vienne.png">
+       
 For example, in a 1636 edition of English botanist John Gerard’s Herball, or Generall historie of plants, the author references Phaseolus peregrinus IIII, describing it as the “Indian Kidney bean with small white fruit.” (Indian Kidney Bean from Herball, or Generall historieof plants, p  1213)
 
 (Vigna unguiculata from Dioscorides manuscript Codex Vindobonensis Med. Gr. I, or Codex Aniciae Julianae, folio 370v. Pigment on parchment, c. 512 A.D. Österreichische Nationalbibliothek, Vienna. Österreichische Nationalbibliothek, Vienna. 
