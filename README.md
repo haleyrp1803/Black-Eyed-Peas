@@ -30,7 +30,7 @@ The recording of these many monikers reveals much about the pea’s widespread u
        label="Vigna unguiculata F. von Scheidl, 1776"
        author="Wellcome Collection" 
        license="Public Domain"
-       url="https://wellcomecollection.org/works/rx6v7fbt/items">
+       url="https://iiif.wellcomecollection.org/image/V0042955ER/full/full/0/default.jpg">
                        
 ## An easy, useful crop
 
