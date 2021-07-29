@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Smaller wild cowpea seed",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/487b088388f66becc070100c66eb7336150edac1bec4f1b90aaa01166225fbf9",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:614.6514892578125,535.1509399414062,318.66387939453125,338.468505859375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#687ac472-77b6-46f0-98f9-d28d653906c9"
+  }
+]
