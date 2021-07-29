@@ -54,7 +54,7 @@ By 1500 BCE this faithful friend had spread through North Africa and beyond: out
 <param ve-map zoom="2">
 <param ve-map-layer geojson 
        title="Black-Eyed Pea Distribution" 
-       url="Introduced.geojson"> 
+       url="Distribution_Finished.geojson"> 
        description="Vegetation zones, curtain compare images between way, way back, then against ca. 1000 BCE, 1000 CE, 2000 CE. Custom layer and/or animation of Africa where the word for cowpea in different-but-related languages appear on the map in the order of the approximate date to which they’ve been reconstructed."
 
 ## 16th-18th
