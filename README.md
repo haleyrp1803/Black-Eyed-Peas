@@ -128,6 +128,12 @@ Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as
 ## A food of the future
 The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be more familiar with it. Legumes are emerging as ‘foods of the future’ due to their very nature of being highly nutritious and relatively easy to grow. They will play an important part in future food security – providing food in a changing climate and will continue to help small-scale farmers combat poverty and hunger and improve their livelihoods. As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, and as more people aim to eat less meat, legume crops such as cowpeas, with their many virtues, will contribute to the diets of more people.
 
+<param ve-image
+       label="wild and cultivated cowpeas"
+       license="CC BY-SA 2.0"
+       author="Tom Rulkens"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/67/Wild_and_cultivated_cowpea_%287856427546%29.jpg">
+
 However, even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the cowpea may hold genes that will allow this crop to survive hotter, drier conditions. If these genes can be bred into agricultural varieties then the future may look even brighter for the cowpea. The global Crop Wild Relatives Project (CWRP) has been aiming to do just that in partnership with 33 countries and seed banks such as <span eid="Q2603353"> Kew’s Millennium Seed Bank </span> in the UK. In a telling quote from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be an unfailing friend even while the climate crisis is affecting production.”
 	
 <param ve-video id="https://vimeo.com/67899663">	
