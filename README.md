@@ -87,6 +87,7 @@ A Farmers Bulletin of 1920 gives official advice on growing cowpeas in the US. M
        url="https://archive.org/details/indiaeorientalis00mare_1/page/n170/mode/1up">
 
 Globally, black-eyed peas grow in at least 33 <I think its more like 100? Let’s check> countries, this widespread embrace of the bean uniting geographically disparate peoples, places, and cultures. As acclaimed food historian and chef Michael Twitty points out, “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories. Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is fundamental to any discussion of food as widely used across culinary traditions as black-eyed peas.
+<param ve-video id="R6l8jRF-eGA&t=1s">
 
 ## Cross-Cultural Celebrations
 In the American South, the vibrant legacies of African culinary traditions preserved by enslaved peoples and their descendants define the region’s cuisine and have inspired countless delicious variations of black-eyed pea-based dishes. That recipe books such as the Southern Heritage Vegetables Cookbook has an entire section dedicated solely to pea recipes, eight of them black-eyed, speaks to their primacy. They are key ingredients for everything from stews to salads to savory beans and rice dishes.
