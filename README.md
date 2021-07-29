@@ -25,7 +25,7 @@ Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient cro
 
 The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. <span eid="Q1043"> Linnaeus (L.) </span>  gave this plant the scientific name _Dolichos unguiculatus_ in his <span eid="Q849308"> _Species Plantarum_ </span> of 1753 from a specimen from Barbados, but this African plant was formally renamed in 1974 as _Vigna unguiculata_ subsp._unguiculata_. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 
 			   
-<param ve-image 
+<param ve-image fit="contain"
        label="Vigna unguiculata F. von Scheidl, 1776"
        author="Wellcome Collection" 
        license="Public Domain"
@@ -60,7 +60,7 @@ There’s a big jump from the very, very distant past to the advent of printed b
 ## 16th-18th
 As we’ve seen, cowpeas had been consumed for millennia, especially in the Mediterranean, but many Northern European botanists were writing based on others’ descriptions or on specimens entering their collection in unfamiliar conditions. Botanist Carolus Clusius’s influential 1601 Rariorum Plantarum Historia (History of Rare Plants) refers to cowpea as Phaseolus peregrinus. Peregrinus comes from the Latin peregre ‘abroad’—literally per- ‘through’ + ager ‘field’—and Clusius communicates to his reader that the pea comes from a foreign, distant place. In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the Juliana Anicia Codex—the oldest surviving copy of Dioscorides’ herbal. He notes that the Spanish have knowledge of the plant. Christopher Columbus observed kidney beans in the Americas—a white variety with a black center—perhaps introduced confusion on the bean’s origin. (f/u on this section, what’s the claim, source, etc?).
 
-<param ve-image
+<param ve-image fit="contain"
        label="Vigna unguiculata from Codex Aniciae Julianae c.512 AD"
        license="Public Domain via Wikipedia"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Phasiolos_370v_Dioscoride_Vienne.png">
