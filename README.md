@@ -65,7 +65,7 @@ For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Ge
 (Insert image: Indian Kidney Bean from Herball, or Generall historie of plants, p  1213)<!--https://www.biodiversitylibrary.org/item/285804#page/1259/mode/1up-->
 
 <param ve-iframe 
-       src="https://books.google.co.uk/books?id=aHlVAAAAcAAJ&pg=PA725#v=onepage&q&f=false">
+       src="https://www.archive.org/download/herballorgeneral1633gera/page/n1258_w392">
 
 In fact, the cowpea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the <span eid="Q767253"> ‘Columbian Exchange’</span>. Black-eyed peas were one of the primary foodstuffs during the trans-Atlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman <span eid="Q310326"> Sir Hans Sloane </span> notes the pea in Jamaica around 1687 and created this plant herbarium specimen there. The cowpea was in Virginia by at least 1666, and Florida by around 1700. 
 
