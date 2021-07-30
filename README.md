@@ -25,7 +25,7 @@ Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient cro
 ## A pea by many names
 
 The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. <span eid="Q1043"> Linnaeus (L.) </span>  gave this plant the scientific name _Dolichos unguiculatus_ in his <span eid="Q849308"> _Species Plantarum_ </span> of 1753 from a specimen from Barbados, but this African plant was formally renamed in 1974 as _Vigna unguiculata_ subsp._unguiculata_. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 	   
-<param ve-image fit="contain"
+<param ve-image fit="cover"
        label="Vigna unguiculata, Franz von Scheidl, 1776"
        description="A botanical illustration of black-eyed pea painted in 1776 by Franz von Scheidl"
        author="Wellcome Collection" 
@@ -47,6 +47,7 @@ Genomic sequencing suggests that humans domesticated an earlier wild relative in
 <param ve-image
        label="Drying cowpeas in Ghana"
        description="A farmer in Ghana turns a pile of black-eyed pea pods to dry them"
+       fit="cover"
        author="TreeAid via Wikimedia Commons"
        license="CC BY-SA 2.0"
        url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Drying_cowpeas.jpg">
@@ -62,7 +63,7 @@ By 1500 BCE this unfailing friend had spread through North Africa and beyond: ou
 
 ## Early Modern History
 As we’ve seen, cowpeas had been consumed for millennia, especially in the Mediterranean, but many Northern European botanists were writing based on others’ descriptions or on specimens entering their collection in unfamiliar conditions. Botanist <span eid="Q333372"> Carolus Clusius’s </span> influential 1601 _Rariorum Plantarum Historia_ (History of Rare Plants) refers to cowpea as _Phaseolus peregrinus_. 'Peregrinus' comes from the Latin _peregre_ ‘abroad’—literally per- ‘through’ + ager ‘field’—and Clusius communicates to his reader that the pea comes from a foreign, distant place. In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the <span eid="Q699363"> 'Juliana Anicia Codex' </span> — the oldest surviving copy of Dioscorides’ herbal. He notes that the Spanish have knowledge of the plant. <span eid="Q7322"> Christopher Columbus </span> observed kidney beans in the Americas — a white variety with a black center — perhaps introduced confusion on the bean’s origin.
-<param ve-image fit="contain"
+<param ve-image fit="cover"
        label="Vigna unguiculata from Codex Aniciae Julianae c.512 AD"
        description="An illustration of the black-eyed pea plant from the Vienna Dioscorides of 512 AD"
        license="Public Domain via Wikipedia"
@@ -80,7 +81,7 @@ For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Ge
 In fact, the cowpea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the <span eid="Q767253"> ‘Columbian Exchange’</span>. Black-eyed peas were one of the primary foodstuffs during the trans-Atlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman <span eid="Q310326"> Sir Hans Sloane </span> notes the pea in Jamaica around 1687. It was in Virginia by at least 1666, and Florida by around 1700.
 
 <param ve-plant-specimen
-       fit="contain"
+       fit="cover"
        label="A herbarium specimen of Vigna unguiculata made by Sir Hans Sloane in Jamaica"
        author="JSTOR Global Plants, courtesy of the Natural History Museum, London"
        jpid="10.5555/al.ap.specimen.bm000589657">
@@ -114,7 +115,8 @@ Black-eyed peas are perhaps most iconic for their modern associations with New Y
 (Edit/expand this whole section w/ other cultural associations between eating Vigna ung at the beginning of the new year)
 (link to Twitty film; or recipe for akara balls or Hoppin John!)
 <param ve-image
-       label="Bean-based dishes may become a much bigger part of our diets soon"
+       label="Bean-based dishes have become a culinary tradition in many countries"
+       description="Image showing a bean stew"
        license="CC BY 2.0 via Wikimedia Commons"
        author="jeffreyw"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Black_eyed_peas_%2816167751712%29.jpg">
