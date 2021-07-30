@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Cowpea can have an upright, trailing or even climbing habit",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/18bfc576ed53c3c9d58ab5cae5bc9aef40fec2d585b19423a75aec5816bbcf1c",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:850.010009765625,400.1454162597656,266.9483642578125,481.4855651855469"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#42f790d9-1e7c-440e-82d4-f7804cf4f798"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "This plant has the typical pea-like flower of the legume family",
         "purpose": "commenting"
       }
