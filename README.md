@@ -90,9 +90,9 @@ The hard labor of enslaved peoples ensured that the black-eyed pea or cowpea was
 
 (Images of letters from Washington, Jefferson)
  
-Throughout the <span eid="Q8676"> Civil War </span>, cowpeas remained an important food for all people throughout the U.S. In the late nineteenth century, American <span eid="Q2787508"> subsistence farmers </span> were encouraged to grow cowpea even if their local climate meant they didn’t get an abundant crop of beans. Its usefulness as a soil improver, for erosion control, and as a nutritious fodder for livestock meant that this easy-to-grow crop was a valuable addition to the US farming landscape. Cowpea was, and still is, mainly grown in southern hotter states and California, as the warm, dry conditions are more favourable for bean production there.
+Throughout the <span eid="Q8676"> Civil War </span>, cowpeas remained an important food for all people throughout the U.S. In the late nineteenth century, American <span eid="Q2787508"> subsistence farmers </span> were encouraged to grow cowpea even if their local climate meant they didn’t get an abundant crop of beans. Its usefulness as a soil improver, for erosion control, and as a nutritious fodder for livestock meant that this easy-to-grow crop was a valuable addition to the US farming landscape. A 'Farmers Bulletin' of 1920 gave specific official advice on [growing cowpeas](https://books.google.co.uk/books?id=QiOMV1jWGiQC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=true) in the US. Cowpea was, and still is, mainly grown in southern hotter states and California, as the warm, dry conditions are more favourable for bean production there.
 
-A 'Farmers Bulletin' of 1920 gives official advice on growing cowpeas in the US. Morse, W. J. (William Joseph). (1920). Cowpeas: utilization. Washington, D.C.: U.S. Dept. of Agriculture. <--From Hathi Trust--> <--see also https://books.google.co.uk/books?id=QiOMV1jWGiQC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=true --->
+ <Morse, W. J. (William Joseph). (1920). Cowpeas: utilization. Washington, D.C.: U.S. Dept. of Agriculture.> <--From Hathi Trust--> <--see also https://books.google.co.uk/books?id=QiOMV1jWGiQC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=true --->
 <param ve-image
        label="label"
        license="license"
