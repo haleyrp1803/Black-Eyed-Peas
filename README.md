@@ -41,13 +41,6 @@ Cowpeas grow best in semi-arid conditions, poor soils and with little help. They
 
 ## Food in the Deep Past
 Genomic sequencing suggests that humans domesticated an earlier wild relative independently in two regions: in West Africa, with vegetation zones [1] that change based on latitude, and East Africa, with vegetation zones that change based on altitude. Even to the present day, <span eid="Q55613"> ecotones </span> are valuable sites for settlement because they allow for mixed food systems: wild gathering, hunting, fishing and aquaculture, keeping small livestock and/or building larger herds, <span eid="Q397350"> agroforestry </span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.  Because cowpeas mature quickly and produce reliably with only a little land and labor, they are useful crops the whole year round!
-<param ve-image
-       label="Drying cowpeas in Ghana"
-       description="A farmer in Ghana turns a pile of black-eyed pea pods to dry them"
-       fit="cover"
-       author="TreeAid via Wikimedia Commons"
-       license="CC BY-SA 2.0"
-       url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Drying_cowpeas.jpg">
 
 Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in <span eid="Q190375"> historical linguistics </span> have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the <span eid="Q130251"> Bantu Expansions </span>. Comparing today’s languages with each other lets scientists reconstruct the languages of the past. Watch as the root for ‘cowpea,’ kunde, appears in languages across the continent.
 
@@ -69,7 +62,7 @@ As we’ve seen, cowpeas had been consumed for millennia, especially in the Medi
        
        
 For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Gerard’s _Herball_ </span>, or _Generall historie of plants_, the author references Phaseolus peregrinus IIII, describing it as the “Indian Kidney bean with small white fruit.” 
-(Insert image: Indian Kidney Bean from Herball, or Generall historie of plants, p  1213)
+(Insert image: Indian Kidney Bean from Herball, or Generall historie of plants, p  1213)<!--https://www.biodiversitylibrary.org/item/285804#page/1259/mode/1up-->
 
 In fact, the cowpea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the <span eid="Q767253"> ‘Columbian Exchange’</span>. Black-eyed peas were one of the primary foodstuffs during the trans-Atlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman <span eid="Q310326"> Sir Hans Sloane </span> notes the pea in Jamaica around 1687 and created this plant specimen there. It was in Virginia by at least 1666, and Florida by around 1700. 
 
@@ -86,12 +79,12 @@ The hard labor of enslaved peoples ensured that the black-eyed pea or cowpea was
  
 Throughout the <span eid="Q8676"> Civil War </span>, cowpeas remained an important food for all people throughout the U.S. In the late nineteenth century, American <span eid="Q2787508"> subsistence farmers </span> were encouraged to grow cowpea even if their local climate meant they didn’t get an abundant crop of beans. Its usefulness as a soil improver, for erosion control, and as a nutritious fodder for livestock meant that this easy-to-grow crop was a valuable addition to the US farming landscape. A 'Farmers Bulletin' of 1920 gave specific official advice on [growing cowpeas](https://books.google.co.uk/books?id=QiOMV1jWGiQC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=true) in the US. Cowpea was, and still is, mainly grown in southern hotter states and California, as the warm, dry conditions are more favourable for bean production there.
        
-(The black-eyed pea is here labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant, 1604. 
+<!--Label for image -The black-eyed pea is here labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant, 1604--> 
 <param ve-image
        label="label"
        license="license"
        author="author"
-       url="https://archive.org/details/indiaeorientalis00mare_1/page/n170/mode/1up">
+       url="https://archive.org/details/indiaeorientalis00mare_1/page/n170/mode/1up"> <!--need an image link here-->
 
 Globally, cowpeas are grown commerically in at least 33 countries, this widespread embrace of the bean uniting geographically disparate peoples, places, and cultures. As acclaimed food historian and chef Michael Twitty points out, “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories. Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is fundamental to any discussion of food as widely used across culinary traditions as black-eyed peas.
 <param ve-video
@@ -110,8 +103,8 @@ In the American South, the vibrant legacies of African culinary traditions prese
        url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Black_eyed_peas_%2816167751712%29.jpg">
 
 Black-eyed peas are perhaps most iconic for their modern associations with New Year’s. <span eid="Q1763911"> Hoppin’ John </span> is a popular rice, bean, and pork dish that brings good luck and prosperity for the New Year. It is often served with greens to symbolize wealth and is an absolute must for any southern New Year’s celebration. Brazil’s national dish, <span eid="Q878189"> feijoada completa </span>, has a similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed feijoada “out of scarcity and poverty” made with the black-eyed peas used to feed plantation livestock boiled with discarded pork. Today, however, it is a special and celebratory meal for every level of society, “which requires multiple days to prepare and, served with rice and greens, constitutes an entire meal.” In both cases of the Hoppin’ John and feijoada completa, what was originally a means for survival became a meal for prosperity and celebration, a transformation so tied to Twitty’s concept of identity cooking that it deserves a narrative of its own.    
-(Edit/expand this whole section w/ other cultural associations between eating Vigna ung at the beginning of the new year)
-(link to Twitty film; or recipe for akara balls or Hoppin John!)
+<!--Edit/expand this whole section w/ other cultural associations between eating Vigna ung at the beginning of the new year-->
+<!--link to Twitty film; or recipe for akara balls or Hoppin John-->
 
 <param ve-video id="https://www.youtube.com/watch?v=ELtVi9ZrvAA">
 
@@ -128,11 +121,13 @@ Although black-eyed pea was not grown as a crop in Britain (it being far too col
 ## Modern production
 Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as cultivation is still mainly in the hands of small-holder farmers, but also because they are such a staple food that most harvests are used locally rather than being exported. The centres of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s cowpea crop. It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains. It is the third most important pulse worldwide, feeding hundreds of millions of people. 
 <param ve-image
-       label="A map showing the native and introduced distribution of cowpea"
-       license="license"
-       author="RBG Kew"
-       url="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1127257-2">
-
+       label="Smallholder farmer drying cowpeas in Ghana"
+       description="A farmer in Ghana turns a pile of black-eyed pea pods to dry them"
+       fit="cover"
+       author="TreeAid via Wikimedia Commons"
+       license="CC BY-SA 2.0"
+       url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Drying_cowpeas.jpg">
+       
 ## A food of the future 
 The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be more familiar with it. Legumes are emerging as ‘foods of the future’ due to their very nature of being highly nutritious and relatively easy to grow. They will play an important part in future food security – providing food in a changing climate and will continue to help small-scale farmers combat poverty and hunger and improve their livelihoods. As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, and as more people aim to eat less meat, legume crops such as cowpeas, with their many virtues, will contribute to the diets of more people.
 
