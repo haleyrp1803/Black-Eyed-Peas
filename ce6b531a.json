@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This plant has the typical pea-like flower of the legume family",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/18bfc576ed53c3c9d58ab5cae5bc9aef40fec2d585b19423a75aec5816bbcf1c",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:297.9143371582031,219.60870361328125,322.3112487792969,236.86166381835938"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c1c085e7-349a-4ed1-bf99-36863c292d38"
+  }
+]
