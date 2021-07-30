@@ -30,7 +30,12 @@ The recording of these many monikers reveals much about the pea’s widespread u
        author="Wellcome Collection" 
        license="Public Domain"
        url="https://iiif.wellcomecollection.org/image/V0042955ER/full/full/0/default.jpg">
-                       
+
+<param ve-iframe
+       label="Linnaeus' Species Plantarum page detailing Dolichos unguiculatus"
+       src="https://books.google.co.uk/books?id=aHlVAAAAcAAJ&pg=PA725&output=embed">
+      
+		       
 ## An easy, useful crop
 Cowpeas grow best in semi-arid conditions, poor soils and with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest within 100 days. Grown since ancient times, these (mainly annual) leguminous plants (in the plant family Fabaceae) have now become a staple part of the diets of hundreds of millions of people around the world. It is not just the seeds (the beans or peas as we call them) that are harvested however – the leaves and pods of this reliable plant are also edible and used as a vegetable, or can be used for cattle fodder or hay, and, being legumes, they also enrich the soil through the presence of around 21 different (bradyrhizobial) symbiotic <span eid="Q15098397"> nitrogen-fixing bacteria in nodules </span> on their roots.
 <param ve-iframe
