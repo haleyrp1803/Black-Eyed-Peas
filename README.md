@@ -23,9 +23,8 @@ Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient cro
        
 
 ## A pea by many names
-
 The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. <span eid="Q1043"> Linnaeus (L.) </span>  gave this plant the scientific name _Dolichos unguiculatus_ in his <span eid="Q849308"> _Species Plantarum_ </span> of 1753 from a specimen from Barbados, but this African plant was formally renamed in 1974 as _Vigna unguiculata_ subsp._unguiculata_. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 	   
-<param ve-image fit="cover"
+<param ve-image fit="contain"
        label="Vigna unguiculata, Franz von Scheidl, 1776"
        description="A botanical illustration of black-eyed pea painted in 1776 by Franz von Scheidl"
        author="Wellcome Collection" 
@@ -33,7 +32,6 @@ The recording of these many monikers reveals much about the pea’s widespread u
        url="https://iiif.wellcomecollection.org/image/V0042955ER/full/full/0/default.jpg">
                        
 ## An easy, useful crop
-
 Cowpeas grow best in semi-arid conditions, poor soils and with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest within 100 days. Grown since ancient times, these (mainly annual) leguminous plants (in the plant family Fabaceae) have now become a staple part of the diets of hundreds of millions of people around the world. It is not just the seeds (the beans or peas as we call them) that are harvested however – the leaves and pods of this reliable plant are also edible and used as a vegetable, or can be used for cattle fodder or hay, and, being legumes, they also enrich the soil through the presence of around 21 different (bradyrhizobial) symbiotic <span eid="Q15098397"> nitrogen-fixing bacteria in nodules </span> on their roots.
 <param ve-iframe
        label="Filler for interactive Black-Eyed Pea image/game"
@@ -42,7 +40,6 @@ Cowpeas grow best in semi-arid conditions, poor soils and with little help. They
        allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr">
 
 ## Food in the Deep Past
-
 Genomic sequencing suggests that humans domesticated an earlier wild relative independently in two regions: in West Africa, with vegetation zones [1] that change based on latitude, and East Africa, with vegetation zones that change based on altitude. Even to the present day, <span eid="Q55613"> ecotones </span> are valuable sites for settlement because they allow for mixed food systems: wild gathering, hunting, fishing and aquaculture, keeping small livestock and/or building larger herds, <span eid="Q397350"> agroforestry </span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.  Because cowpeas mature quickly and produce reliably with only a little land and labor, they are useful crops the whole year round!
 <param ve-image
        label="Drying cowpeas in Ghana"
@@ -63,25 +60,20 @@ By 1500 BCE this unfailing friend had spread through North Africa and beyond: ou
 
 ## Early Modern History
 As we’ve seen, cowpeas had been consumed for millennia, especially in the Mediterranean, but many Northern European botanists were writing based on others’ descriptions or on specimens entering their collection in unfamiliar conditions. Botanist <span eid="Q333372"> Carolus Clusius’s </span> influential 1601 _Rariorum Plantarum Historia_ (History of Rare Plants) refers to cowpea as _Phaseolus peregrinus_. 'Peregrinus' comes from the Latin _peregre_ ‘abroad’—literally per- ‘through’ + ager ‘field’—and Clusius communicates to his reader that the pea comes from a foreign, distant place. In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the <span eid="Q699363"> 'Juliana Anicia Codex' </span> — the oldest surviving copy of Dioscorides’ herbal. He notes that the Spanish have knowledge of the plant. <span eid="Q7322"> Christopher Columbus </span> observed kidney beans in the Americas — a white variety with a black center — perhaps introduced confusion on the bean’s origin.
+(Vigna unguiculata from Dioscorides manuscript Codex Vindobonensis Med. Gr. I, or Codex Aniciae Julianae, folio 370v. Pigment on parchment, c. 512 A.D. Österreichische Nationalbibliothek, Vienna. Österreichische Nationalbibliothek, Vienna.) 
 <param ve-image fit="cover"
        label="Vigna unguiculata from Codex Aniciae Julianae c.512 AD"
        description="An illustration of the black-eyed pea plant from the Vienna Dioscorides of 512 AD"
        license="Public Domain via Wikipedia"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Phasiolos_370v_Dioscoride_Vienne.png">
        
-For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Gerard’s _Herball_ </span>, or _Generall historie of plants_, the author references Phaseolus peregrinus IIII, describing it as the “Indian Kidney bean with small white fruit.” (Indian Kidney Bean from Herball, or Generall historie of plants, p  1213)
+       
+For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Gerard’s _Herball_ </span>, or _Generall historie of plants_, the author references Phaseolus peregrinus IIII, describing it as the “Indian Kidney bean with small white fruit.” 
+(Insert image: Indian Kidney Bean from Herball, or Generall historie of plants, p  1213)
 
-(Vigna unguiculata from Dioscorides manuscript Codex Vindobonensis Med. Gr. I, or Codex Aniciae Julianae, folio 370v. Pigment on parchment, c. 512 A.D. Österreichische Nationalbibliothek, Vienna. Österreichische Nationalbibliothek, Vienna. 
-<param ve-image
-       label="label"
-       license="license"
-       author="author"
-       url="https://es.wikipedia.org/wiki/Archivo:Phasiolos_370v_Dioscoride_Vienne.png"> 
-
-In fact, the cowpea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the <span eid="Q767253"> ‘Columbian Exchange’</span>. Black-eyed peas were one of the primary foodstuffs during the trans-Atlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman <span eid="Q310326"> Sir Hans Sloane </span> notes the pea in Jamaica around 1687. It was in Virginia by at least 1666, and Florida by around 1700.
+In fact, the cowpea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the <span eid="Q767253"> ‘Columbian Exchange’</span>. Black-eyed peas were one of the primary foodstuffs during the trans-Atlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman <span eid="Q310326"> Sir Hans Sloane </span> notes the pea in Jamaica around 1687 and created this plant specimen there. It was in Virginia by at least 1666, and Florida by around 1700. 
 
 <param ve-plant-specimen
-       fit="cover"
        label="A herbarium specimen of Vigna unguiculata made by Sir Hans Sloane in Jamaica"
        author="JSTOR Global Plants, courtesy of the Natural History Museum, London"
        jpid="10.5555/al.ap.specimen.bm000589657">
@@ -109,11 +101,7 @@ Globally, cowpeas are grown commerically in at least 33 countries, this widespre
         author="PBS NewsHour">
 
 ## Cross-Cultural Celebrations
-In the American South, the vibrant legacies of African culinary traditions preserved by enslaved peoples and their descendants define the region’s cuisine and have inspired countless delicious variations of black-eyed pea-based dishes. That recipe books such as the _Southern Heritage Vegetables Cookbook_ has an entire section dedicated solely to pea recipes, eight of them black-eyed, speaks to their primacy. They are key ingredients for everything from stews to salads to savory beans and rice dishes.
-
-Black-eyed peas are perhaps most iconic for their modern associations with New Year’s. <span eid="Q1763911"> Hoppin’ John </span> is a popular rice, bean, and pork dish that brings good luck and prosperity for the New Year. It is often served with greens to symbolize wealth and is an absolute must for any southern New Year’s celebration. Brazil’s national dish, <span eid="Q878189"> feijoada completa </span>, has a similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed feijoada “out of scarcity and poverty” made with the black-eyed peas used to feed plantation livestock boiled with discarded pork. Today, however, it is a special and celebratory meal for every level of society, “which requires multiple days to prepare and, served with rice and greens, constitutes an entire meal.” In both cases of the Hoppin’ John and feijoada completa, what was originally a means for survival became a meal for prosperity and celebration, a transformation so tied to Twitty’s concept of identity cooking that it deserves a narrative of its own.    
-(Edit/expand this whole section w/ other cultural associations between eating Vigna ung at the beginning of the new year)
-(link to Twitty film; or recipe for akara balls or Hoppin John!)
+In the American South, the vibrant legacies of African culinary traditions preserved by enslaved peoples and their descendants define the region’s cuisine and have inspired countless delicious variations of black-eyed pea-based dishes. That recipe books such as the _Southern Heritage Vegetables Cookbook_ have entire sections dedicated solely to pea recipes, in this case - eight of them black-eyed, speaks to their primacy. They are key ingredients for everything from stews to salads to savory beans and rice dishes.
 <param ve-image
        label="Bean-based dishes have become a culinary tradition in many countries"
        description="Image showing a bean stew"
@@ -121,6 +109,11 @@ Black-eyed peas are perhaps most iconic for their modern associations with New Y
        author="jeffreyw"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Black_eyed_peas_%2816167751712%29.jpg">
 
+Black-eyed peas are perhaps most iconic for their modern associations with New Year’s. <span eid="Q1763911"> Hoppin’ John </span> is a popular rice, bean, and pork dish that brings good luck and prosperity for the New Year. It is often served with greens to symbolize wealth and is an absolute must for any southern New Year’s celebration. Brazil’s national dish, <span eid="Q878189"> feijoada completa </span>, has a similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed feijoada “out of scarcity and poverty” made with the black-eyed peas used to feed plantation livestock boiled with discarded pork. Today, however, it is a special and celebratory meal for every level of society, “which requires multiple days to prepare and, served with rice and greens, constitutes an entire meal.” In both cases of the Hoppin’ John and feijoada completa, what was originally a means for survival became a meal for prosperity and celebration, a transformation so tied to Twitty’s concept of identity cooking that it deserves a narrative of its own.    
+(Edit/expand this whole section w/ other cultural associations between eating Vigna ung at the beginning of the new year)
+(link to Twitty film; or recipe for akara balls or Hoppin John!)
+
+<param ve-video id="https://www.youtube.com/watch?v=ELtVi9ZrvAA">
 
 ## A Colonial Crop
 Although black-eyed pea was not grown as a crop in Britain (it being far too cold and wet), its inclusion in the [Economic Botany Collection](https://www.kew.org/science/collections-and-resources/collections/economic-botany-collection) of the <span eid="Q18748726"> Royal Botanic Gardens Kew </span> is telling.  Here, over a hundred different collections of [seeds](https://ecbot.science.kew.org/main_image.php?imageid=EBC_68901), pods, ‘fibre’ and even a [model](https://ecbot.science.kew.org/read_ecbot.php?catno=61536&search_term=vigna%20unguiculata&search_type=name&imagechecklist=Images) of cowpea are kept, mean that it was obviously studied as a useful colonial crop plant. Donations are as diverse as from Nigeria, India, Laos, China and Japan, but also from imperial exhibitions where plant products were displayed such as the <span eid="Q5148408"> Colonial and India Exhibition of 1886 </span>, the Japan/British Exhibition of 1910, the British Industries Fair of 1930, as well as the <span eid="Q10534945"> India Museum </span>, the Imperial Institute, the Jamaica Agricultural Society, and colonial expeditions including <span eid="Q183567"> Dr WB Baikie's </span> Niger Expedition of 1859. One undated individual collection was even donated by the HRH the Prince of Wales, from the ‘East Indies’. 
@@ -135,9 +128,9 @@ Although black-eyed pea was not grown as a crop in Britain (it being far too col
 ## Modern production
 Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as cultivation is still mainly in the hands of small-holder farmers, but also because they are such a staple food that most harvests are used locally rather than being exported. The centres of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s cowpea crop. It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains. It is the third most important pulse worldwide, feeding hundreds of millions of people. 
 <param ve-image
-       label="A map showing the native and introduced distribution of cowpea. RBG Kew,"
+       label="A map showing the native and introduced distribution of cowpea"
        license="license"
-       author="author"
+       author="RBG Kew"
        url="http://www.plantsoftheworldonline.org/taxon/urn:lsid:ipni.org:names:1127257-2">
 
 ## A food of the future 
