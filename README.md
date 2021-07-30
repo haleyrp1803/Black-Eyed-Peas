@@ -39,12 +39,12 @@ Cowpeas grow best in semi-arid conditions, poor soils and with little help. They
        src="https://v6p9d9t4.ssl.hwcdn.net/html/3509641/index.html"
        allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr">
 
-## Food in the Deep Past
+## Food in the Deep Past <!--images needed?-->
 Genomic sequencing suggests that humans domesticated an earlier wild relative independently in two regions: in West Africa, with vegetation zones [1] that change based on latitude, and East Africa, with vegetation zones that change based on altitude. Even to the present day, <span eid="Q55613"> ecotones </span> are valuable sites for settlement because they allow for mixed food systems: wild gathering, hunting, fishing and aquaculture, keeping small livestock and/or building larger herds, <span eid="Q397350"> agroforestry </span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.  Because cowpeas mature quickly and produce reliably with only a little land and labor, they are useful crops the whole year round!
 
 Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in <span eid="Q190375"> historical linguistics </span> have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the <span eid="Q130251"> Bantu Expansions </span>. Comparing today’s languages with each other lets scientists reconstruct the languages of the past. Watch as the root for ‘cowpea,’ kunde, appears in languages across the continent.
 
-By 1500 BCE this unfailing friend had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent. Ancient Greek physician <span eid="Q297776"> Dioscorides’ herbal _De Materia Medica_ </span> dubs the cowpea "phasiolos". This name referred to any sort of bean or pea (these terms used interchangeably in Dioscorides' time). 
+By 1500 BCE this unfailing friend had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent. Ancient Greek physician <span eid="Q297776"> Dioscorides’ herbal _De Materia Medica_ </span> dubs the cowpea "phasiolos". This name referred to any sort of bean or pea (these terms used interchangeably in Dioscorides' time). <!--image of de Materia Media?-->
 <param ve-map zoom="2">
 <param ve-map-layer geojson 
        title="Black-Eyed Pea Distribution" 
@@ -138,6 +138,7 @@ The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be
        author="Tom Rulkens"
        url="https://upload.wikimedia.org/wikipedia/commons/6/67/Wild_and_cultivated_cowpea_%287856427546%29.jpg">
 
+## Crop wild relatives
 However, even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the cowpea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions. If these genes can be bred into agricultural varieties then the future may look even brighter for the cowpea. The global Crop Wild Relatives Project (CWRP) has been aiming to do just that in partnership with 33 countries and [seed banks](https://vimeo.com/67899663), including <span eid="Q2603353"> Kew’s Millennium Seed Bank </span> in the UK. In a telling [quote](https://www.cwrdiversity.org/cowpea/) from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be an unfailing friend even while the climate crisis is affecting production.”
 	
 	
