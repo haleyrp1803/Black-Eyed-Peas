@@ -51,7 +51,7 @@ Genomic sequencing suggests that humans domesticated an earlier wild relative in
        license="CC BY-SA 2.0"
        url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Drying_cowpeas.jpg">
 
-Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in <span eid="Q190375"> historical linguistics </span> have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the <span eid="Q130251" Bantu Expansions </span>. Comparing today’s languages with each other lets scientists reconstruct the languages of the past. Watch as the root for ‘cowpea,’ kunde, appears in languages across the continent.
+Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in <span eid="Q190375"> historical linguistics </span> have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the <span eid="Q130251"> Bantu Expansions </span>. Comparing today’s languages with each other lets scientists reconstruct the languages of the past. Watch as the root for ‘cowpea,’ kunde, appears in languages across the continent.
 
 By 1500 BCE this unfailing friend had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent. Ancient Greek physician <span eid="Q297776"> Dioscorides’ herbal _De Materia Medica_ </span> dubs the cowpea "phasiolos". This name referred to any sort of bean or pea (these terms used interchangeably in Dioscorides' time). 
 <param ve-map zoom="2">
@@ -80,6 +80,7 @@ For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Ge
 In fact, the cowpea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the <span eid="Q767253"> ‘Columbian Exchange’</span>. Black-eyed peas were one of the primary foodstuffs during the trans-Atlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman <span eid="Q310326"> Sir Hans Sloane </span> notes the pea in Jamaica around 1687. It was in Virginia by at least 1666, and Florida by around 1700.
 
 <param ve-plant-specimen
+       fit="contain"
        label="A herbarium specimen of Vigna unguiculata made by Sir Hans Sloane in Jamaica"
        author="JSTOR Global Plants, courtesy of the Natural History Museum, London"
        jpid="10.5555/al.ap.specimen.bm000589657">
@@ -91,15 +92,7 @@ The hard labor of enslaved peoples ensured that the black-eyed pea or cowpea was
 (Images of letters from Washington, Jefferson)
  
 Throughout the <span eid="Q8676"> Civil War </span>, cowpeas remained an important food for all people throughout the U.S. In the late nineteenth century, American <span eid="Q2787508"> subsistence farmers </span> were encouraged to grow cowpea even if their local climate meant they didn’t get an abundant crop of beans. Its usefulness as a soil improver, for erosion control, and as a nutritious fodder for livestock meant that this easy-to-grow crop was a valuable addition to the US farming landscape. A 'Farmers Bulletin' of 1920 gave specific official advice on [growing cowpeas](https://books.google.co.uk/books?id=QiOMV1jWGiQC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=true) in the US. Cowpea was, and still is, mainly grown in southern hotter states and California, as the warm, dry conditions are more favourable for bean production there.
-
- <Morse, W. J. (William Joseph). (1920). Cowpeas: utilization. Washington, D.C.: U.S. Dept. of Agriculture.> <--From Hathi Trust--> <--see also https://books.google.co.uk/books?id=QiOMV1jWGiQC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=true --->
-<param ve-image
-       label="label"
-       license="license"
-       author="author" 
-       url="https://es.wikipedia.org/wiki/Archivo:Phasiolos_370v_Dioscoride_Vienne.png"> 
        
-
 (The black-eyed pea is here labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant, 1604. 
 <param ve-image
        label="label"
@@ -128,8 +121,13 @@ Black-eyed peas are perhaps most iconic for their modern associations with New Y
 
 
 ## A Colonial Crop
-Although black-eyed pea was not grown as a crop in Britain (it being far too cold and wet), its inclusion in the 'Economic Botany Collection' of the <span eid="Q18748726"> Royal Botanic Gardens Kew </span> is telling.  Here, over a hundred different collections of seeds, pods, ‘fibre’ and even models of cowpea are kept, mean that it was obviously studied as a useful colonial crop plant. Donations are as diverse as from Nigeria, India, Laos, China and Japan, but also from imperial exhibitions where plant products were displayed such as the <span eid="Q5148408"> Colonial and India Exhibition of 1886 </span>, the Japan/British Exhibition of 1910, the British Industries Fair of 1930, as well as the <span eid="Q10534945"> India Museum </span>, the Imperial Institute, the Jamaica Agricultural Society, and colonial expeditions including <span eid="Q183567"> Dr WB Baikie's </span> Niger Expedition of 1859. One undated individual collection was even donated by the HRH the Prince of Wales, from the ‘East Indies’. _(Cowpeas were displayed at colonial exhibitions including the Colonial and India Exhibition of 1886 in London; this image shows the stand for produce of Jamaica. )_
+Although black-eyed pea was not grown as a crop in Britain (it being far too cold and wet), its inclusion in the [Economic Botany Collection](https://www.kew.org/science/collections-and-resources/collections/economic-botany-collection) of the <span eid="Q18748726"> Royal Botanic Gardens Kew </span> is telling.  Here, over a hundred different collections of [seeds](https://ecbot.science.kew.org/main_image.php?imageid=EBC_68901), pods, ‘fibre’ and even a [model](https://ecbot.science.kew.org/read_ecbot.php?catno=61536&search_term=vigna%20unguiculata&search_type=name&imagechecklist=Images) of cowpea are kept, mean that it was obviously studied as a useful colonial crop plant. Donations are as diverse as from Nigeria, India, Laos, China and Japan, but also from imperial exhibitions where plant products were displayed such as the <span eid="Q5148408"> Colonial and India Exhibition of 1886 </span>, the Japan/British Exhibition of 1910, the British Industries Fair of 1930, as well as the <span eid="Q10534945"> India Museum </span>, the Imperial Institute, the Jamaica Agricultural Society, and colonial expeditions including <span eid="Q183567"> Dr WB Baikie's </span> Niger Expedition of 1859. One undated individual collection was even donated by the HRH the Prince of Wales, from the ‘East Indies’. 
+
 <param ve-image 
+       label="The Colonial and India Exhibition of 1886, Jamaica stand"
+       description="An engraving showing the Jamaica stand at the 1886 Colonial and India Exhibition in London"
+       fit="contain"
+       license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Jamaica_at_the_Colonial_and_Indian_Exhibition%2C_London_1886.jpg">
 
 ## Modern production
@@ -144,18 +142,19 @@ Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as
 The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be more familiar with it. Legumes are emerging as ‘foods of the future’ due to their very nature of being highly nutritious and relatively easy to grow. They will play an important part in future food security – providing food in a changing climate and will continue to help small-scale farmers combat poverty and hunger and improve their livelihoods. As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, and as more people aim to eat less meat, legume crops such as cowpeas, with their many virtues, will contribute to the diets of more people.
 
 <param ve-image
-       label="wild and cultivated cowpeas"
+       label="Wild and cultivated cowpea beans"
+       description="small wild cowpeas shown next to larger cultivated cowpea beans"
        license="CC BY-SA 2.0"
        author="Tom Rulkens"
        url="https://upload.wikimedia.org/wikipedia/commons/6/67/Wild_and_cultivated_cowpea_%287856427546%29.jpg">
 
-However, even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the cowpea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions. If these genes can be bred into agricultural varieties then the future may look even brighter for the cowpea. The global Crop Wild Relatives Project (CWRP) has been aiming to do just that in partnership with 33 countries and seed banks such as <span eid="Q2603353"> Kew’s Millennium Seed Bank </span> in the UK. In a telling quote from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be an unfailing friend even while the climate crisis is affecting production.”
+However, even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the cowpea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions. If these genes can be bred into agricultural varieties then the future may look even brighter for the cowpea. The global Crop Wild Relatives Project (CWRP) has been aiming to do just that in partnership with 33 countries and [seed banks](https://vimeo.com/67899663), including <span eid="Q2603353"> Kew’s Millennium Seed Bank </span> in the UK. In a telling [quote](https://www.cwrdiversity.org/cowpea/) from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be an unfailing friend even while the climate crisis is affecting production.”
 	
-<param ve-video id="https://vimeo.com/67899663">	
-
-Wild and cultivated cowpea seeds showing variation 
-Tom Rulkens CC BY-SA 2.0 via Wikimedia Commons
-(can annotate to show which is which!)
+	
+	
+	
+	
+	
 
 # Annotated Bibliography:
 <param ve-image fit="contain"
