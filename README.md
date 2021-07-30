@@ -140,6 +140,12 @@ The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be
 
 ## Crop wild relatives
 However, even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the cowpea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions. If these traits can be bred into agricultural varieties then the future may look even brighter for the cowpea. The global Crop Wild Relatives Project (CWRP) has been aiming to do just that in partnership with 33 countries and [seed banks](https://vimeo.com/67899663), including the International Institute of Tropical Agriculture (IITA)and <span eid="Q2603353"> Kew’s Millennium Seed Bank </span>. There are eleven primary wild relatives of the cowpea being researched. Their importance demonstrates how vital it is to protect wild plants and wild habitats for the future. In a telling [quote](https://www.cwrdiversity.org/cowpea/) from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be an unfailing friend even while the climate crisis is affecting production.”
+
+<param ve-image
+       label="Black-eyed bean pods"
+       license="CC BY-SA 3.0"
+       author="HeraldDesa"
+       url="https://upload.wikimedia.org/wikipedia/commons/0/08/Lobia.jpg"
 	
 	
 	
