@@ -71,7 +71,7 @@ In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the pl
        label="Vigna unguiculata from Codex Aniciae Julianae c.512 AD"
        description="An illustration from folio 370v of the black-eyed pea plant from the Vienna Dioscorides of 512 AD, Österreichische Nationalbibliothek, Vienna"
        license="Public Domain via Wikipedia"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carracci_-_Der_Bohnenesser.jpeg/2589px-Carracci_-_Der_Bohnenesser.jpeg">
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Phasiolos_370v_Dioscoride_Vienne.png">
        
 For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Gerard’s _Herball_ </span>, or _Generall historie of plants_, the author references Phaseolus peregrinus IIII, describing it as the “Indian Kidney bean with small white fruit.”* 
 (Insert image: Indian Kidney Bean from Herball, or Generall historie of plants, p  1213)<!--https://www.biodiversitylibrary.org/item/285804#page/1259/mode/1up-->
