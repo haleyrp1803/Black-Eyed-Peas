@@ -63,7 +63,7 @@ As we’ve seen, cowpeas had been consumed for millennia, especially in the Medi
        label="Carracci's Bean Eater"
        description="Painting"
        license="Public Domain via Wikipedia"
-       url="https://en.wikipedia.org/wiki/The_Beaneater#/media/File:Carracci_-_Der_Bohnenesser.jpeg">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carracci_-_Der_Bohnenesser.jpeg/1295px-Carracci_-_Der_Bohnenesser.jpeg">
 
 In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the <span eid="Q699363"> 'Juliana Anicia Codex' </span> — the oldest surviving copy of Dioscorides’ herbal. He notes that the Spanish have knowledge of the plant. <span eid="Q7322"> Christopher Columbus </span> observed kidney beans in the Americas — a white variety with a black center - which was easily confused with the black-eyed pea. Such ideas circulated throughout the seventeenth century. 
 <param ve-image fit="cover"
