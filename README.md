@@ -65,13 +65,6 @@ In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the pl
        description="An illustration from folio 370v of the black-eyed pea plant from the Vienna Dioscorides of 512 AD, Österreichische Nationalbibliothek, Vienna"
        license="Public Domain via Wikipedia"
        url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Phasiolos_370v_Dioscoride_Vienne.png">
-
-<!--Label for image -The black-eyed pea is here labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant, 1604--> 
-<param ve-image
-       label="label"
-       license="license"
-       author="author"
-       url="https://archive.org/details/indiaeorientalis00mare_1/page/n170/mode/1up"> <!--need an image link here-->
        
 For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Gerard’s _Herball_ </span>, or _Generall historie of plants_, the author references Phaseolus peregrinus IIII, describing it as the “Indian Kidney bean with small white fruit.”* 
 (Insert image: Indian Kidney Bean from Herball, or Generall historie of plants, p  1213)<!--https://www.biodiversitylibrary.org/item/285804#page/1259/mode/1up-->
@@ -88,8 +81,7 @@ In fact, the cowpea was one of thousands of organisms that crossed from Eurasia 
 
 The hard labor of enslaved peoples ensured that the black-eyed pea or cowpea was grown and cultivated as a crop largely for livestock throughout the United States, most especially in the South. Black-eyed peas were also a fixture in gardens of enslaved peoples, these beans a hearty supplement to the meagre meals allotted on plantations. The cowpea became “the third most important food crop produced on Carolina plantations between 1730 and 1776.”* <span eid="Q11812"> Thomas Jefferson </span> and <span eid="Q23"> George Washington </span> both had black-eyed peas planted on their expansive plantations, and Washington corresponded with friends and acquaintances about growth and cultivation of the plant. By the nineteenth century black-eyed peas achieved new cultural cache and graced the tables of the white ruling class. Enslaved cooks played an important role in bringing this food into rarefied homes.
 
-<param ve-image
-       
+<param ve-iframe src="https://founders.archives.gov/documents/Washington/04-05-02-0442">
  
 Throughout the <span eid="Q8676"> Civil War </span>, cowpeas remained an important food for all people throughout the U.S. In the late nineteenth century, American <span eid="Q2787508"> subsistence farmers </span> were encouraged to grow cowpea even if their local climate meant they didn’t get an abundant crop of beans. Its usefulness as a soil improver, for erosion control, and as a nutritious fodder for livestock meant that this easy-to-grow crop was a valuable addition to the US farming landscape. A 'Farmers Bulletin' of 1920 gave specific official advice on [growing cowpeas](https://books.google.co.uk/books?id=QiOMV1jWGiQC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=true) in the US. Cowpea was, and still is, mainly grown in southern hotter states and California, as the warm, dry conditions are more favourable for bean production there.
        
