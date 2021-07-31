@@ -59,14 +59,18 @@ By 1500 BCE this unfailing friend had spread through North Africa and beyond: ou
 ## Early Modern History
 As we’ve seen, cowpeas had been consumed for millennia, especially in the Mediterranean, but many Northern European botanists were somewhat uninformed about the plant, their knowledge based on others’ descriptions or on specimens entering their collection in unfamiliar conditions. Flemish Botanist <span eid="Q333372"> Carolus Clusius’s </span> influential 1601 _Rariorum Plantarum Historia_ (History of Rare Plants), for example, refers to cowpea as _Phaseolus peregrinus IIII_. This connoted a bean from the Americas considered foreign to Europe (peregrinus meaning stranger or foreigner, from the Latin _peregre_, literally per- ‘through’ + ager ‘field').Despite the millennia-old European presence of the cowpea, it was now understood there as an itinerant body. Informing such ideas was Dutchman Pieter de Marees’ 1602 book describing West Africa, which included an image of the black-eyed pea growing in the landscape.* Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean Eater_, which depicts a peasant eating a bowl of black-eyed peas, also acknowledges the cowpea's status as both familiar and foreign: the man's unrefined dress and manners, alongside his entirley typical and humble meal, make him a familar thought perhaps unruly part of late sixteenth-cetury Italian society. The beans, which were at least since the time of Pliny the Elder associated with excessive gas also sugges the food and the person eating it might be disruptive to the social fabric they inhabit. Despite the changing perceptions of the cowpea from familair to foreign, the pea also grew in some gardens throughout Northern Europe. A 1683 record of Edinburgh’s <span eid="Q7189541"> Physical Garden </span>, for example, contains a Phaseolus described as a “small white Kidney-bean with a black spot in the middle.”* 
 
-<param ve-image url="https://en.wikipedia.org/wiki/The_Beaneater#/media/File:Carracci_-_Der_Bohnenesser.jpeg">
+<param ve-image fit="cover"
+       label="Carracci's Bean Eater"
+       description="Painting"
+       license="Public Domain via Wikipedia"
+       url="https://en.wikipedia.org/wiki/The_Beaneater#/media/File:Carracci_-_Der_Bohnenesser.jpeg">
 
 In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the <span eid="Q699363"> 'Juliana Anicia Codex' </span> — the oldest surviving copy of Dioscorides’ herbal. He notes that the Spanish have knowledge of the plant. <span eid="Q7322"> Christopher Columbus </span> observed kidney beans in the Americas — a white variety with a black center - which was easily confused with the black-eyed pea. Such ideas circulated throughout the seventeenth century. 
 <param ve-image fit="cover"
        label="Vigna unguiculata from Codex Aniciae Julianae c.512 AD"
        description="An illustration from folio 370v of the black-eyed pea plant from the Vienna Dioscorides of 512 AD, Österreichische Nationalbibliothek, Vienna"
        license="Public Domain via Wikipedia"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Phasiolos_370v_Dioscoride_Vienne.png">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carracci_-_Der_Bohnenesser.jpeg/2589px-Carracci_-_Der_Bohnenesser.jpeg">
        
 For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Gerard’s _Herball_ </span>, or _Generall historie of plants_, the author references Phaseolus peregrinus IIII, describing it as the “Indian Kidney bean with small white fruit.”* 
 (Insert image: Indian Kidney Bean from Herball, or Generall historie of plants, p  1213)<!--https://www.biodiversitylibrary.org/item/285804#page/1259/mode/1up-->
