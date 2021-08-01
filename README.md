@@ -118,7 +118,10 @@ Black-eyed peas are perhaps most iconic for their modern associations with New Y
 <!--Edit/expand this whole section w/ other cultural associations between eating Vigna ung at the beginning of the new year-->
 <!--link to Twitty film; or recipe for akara balls or Hoppin John-->
 
-<param ve-video id="ELtVi9ZrvAA">
+<param ve-video 
+       id="ELtVi9ZrvAA"
+       title="Akara - A Fried Snack featuring Michael Twitty"
+       author="Townsends">
 
 ## A Colonial Crop
 Although black-eyed pea was not grown as a crop in Britain (it being far too cold and wet), its inclusion in the [Economic Botany Collection](https://www.kew.org/science/collections-and-resources/collections/economic-botany-collection) of the <span eid="Q18748726"> Royal Botanic Gardens Kew </span> is telling.  Here, over a hundred different collections of [seeds](https://ecbot.science.kew.org/main_image.php?imageid=EBC_68901), pods, ‘fibre’ and even a [model](https://ecbot.science.kew.org/read_ecbot.php?catno=61536&search_term=vigna%20unguiculata&search_type=name&imagechecklist=Images) of cowpea are kept, mean that it was obviously studied as a useful colonial crop plant. Donations are as diverse as from Nigeria, India, Laos, China and Japan, but also from imperial exhibitions where plant products were displayed such as the <span eid="Q5148408"> Colonial and India Exhibition of 1886 </span>, the Japan/British Exhibition of 1910, the British Industries Fair of 1930, as well as the <span eid="Q10534945"> India Museum </span>, the Imperial Institute, the Jamaica Agricultural Society, and colonial expeditions including <span eid="Q183567"> Dr WB Baikie's </span> Niger Expedition of 1859. One undated individual collection was even donated by the HRH the Prince of Wales, from the ‘East Indies’. 
