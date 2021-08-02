@@ -63,6 +63,12 @@ By 1500 BCE this unfailing friend had spread through North Africa and beyond: ou
 ## Early Modern History
 As we’ve seen, cowpeas had been consumed for millennia, especially in the Mediterranean, but many Northern European botanists were somewhat uninformed about the plant, their knowledge based on others’ descriptions or on specimens entering their collection in unfamiliar conditions. Flemish Botanist <span eid="Q333372"> Carolus Clusius’s </span> influential 1601 _Rariorum Plantarum Historia_ (History of Rare Plants), for example, refers to cowpea as _Phaseolus peregrinus IIII_. This connoted a bean from the Americas considered foreign to Europe (peregrinus meaning stranger or foreigner, from the Latin _peregre_, literally per- ‘through’ + ager ‘field').Despite the millennia-old European presence of the cowpea, it was now understood there as an itinerant body. Informing such ideas was Dutchman Pieter de Marees’ 1602 book describing West Africa, which included an image of the black-eyed pea growing in the landscape.* 
 
+<param ve-image
+       label="The black-eyed pea is here labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant, 1604"
+       license="Public Domain"
+       author="John Carter Brown Library via archive.org"
+       url="https://ia904500.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/indiaeorientalis00mare_1/indiaeorientalis00mare_1_jp2.zip&file=indiaeorientalis00mare_1_jp2/indiaeorientalis00mare_1_0171.jp2&id=indiaeorientalis00mare_1&scale=2&rotate=0"> 
+
 Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean Eater_, which depicts a peasant eating a bowl of black-eyed peas, also acknowledges the cowpea's status as both familiar and foreign: the man's unrefined dress and manners, alongside his entirley typical and humble meal, make him a familar though perhaps unruly part of late sixteenth-cetury Italian society. The beans, which were at least since the time of Pliny the Elder associated with excessive gas also suggest the food and the person eating it might be disruptive to the social fabric they inhabit. Despite the changing perceptions of the cowpea from familiar to foreign, the pea also grew in some gardens throughout Northern Europe. A 1683 record of Edinburgh’s <span eid="Q7189541"> Physical Garden </span>, for example, contains a Phaseolus described as a “small white Kidney-bean with a black spot in the middle.”* 
 <param ve-image fit="contain"
        label="Carracci's Bean Eater"
@@ -97,12 +103,8 @@ The hard labor of enslaved peoples ensured that the black-eyed pea or cowpea was
  
 Throughout the <span eid="Q8676"> Civil War </span>, cowpeas remained an important food for all people throughout the U.S. In the late nineteenth century, American <span eid="Q2787508"> subsistence farmers </span> were encouraged to grow cowpea even if their local climate meant they didn’t get an abundant crop of beans. Its usefulness as a soil improver, for erosion control, and as a nutritious fodder for livestock meant that this easy-to-grow crop was a valuable addition to the US farming landscape. A 'Farmers Bulletin' of 1920 gave specific official advice on [growing cowpeas](https://books.google.co.uk/books?id=QiOMV1jWGiQC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=true) in the US. Cowpea was, and still is, mainly grown in southern hotter states and California, as the warm, dry conditions are more favourable for bean production there.
        
-<!--Label for image -The black-eyed pea is here labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant, 1604--> 
-<param ve-image
-       label="The black-eyed pea is here labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant, 1604"
-       license="Public Domain"
-       author="John Carter Brown Library via archive.org"
-       url="https://ia904500.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/indiaeorientalis00mare_1/indiaeorientalis00mare_1_jp2.zip&file=indiaeorientalis00mare_1_jp2/indiaeorientalis00mare_1_0171.jp2&id=indiaeorientalis00mare_1&scale=2&rotate=0"> 
+<param ve-iframe
+       src="https://books.google.co.uk/books?id=QiOMV1jWGiQC&pg=PA1&output=embed">
 
 Globally, cowpeas are grown commerically in at least 33 countries, this widespread embrace of the bean uniting geographically disparate peoples, places, and cultures. As acclaimed food historian and chef Michael Twitty points out, “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories. Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is fundamental to any discussion of food as widely used across culinary traditions as black-eyed peas.
 <param ve-video 
