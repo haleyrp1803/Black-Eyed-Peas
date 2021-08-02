@@ -21,6 +21,10 @@ Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient cro
        license="CC BY-SA 2.0"
        url="https://upload.wikimedia.org/wikipedia/commons/1/19/Nigeria_Cowpea_fro_F_IITA.jpg">
        
+<param ve-image fit="contain"
+       label="The pink pea-like flowers of cowpea, Vigna unguiculata"
+       license="Public Domain via IITA and Wikipedia"
+       url="http://storage.googleapis.com/powop-assets/kew_profiles/KPPCONT_085087_fullsize.jpg">
 
 ## A pea by many names
 The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. <span eid="Q1043"> Linnaeus (L.) </span>  gave this plant the scientific name _Dolichos unguiculatus_ in his <span eid="Q849308"> _Species Plantarum_ </span> of 1753 from a specimen from Barbados, but this African plant was formally renamed in 1974 as _Vigna unguiculata_ subsp._unguiculata_. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 	   
@@ -165,19 +169,19 @@ However, even though the cowpea is considered a very hardy crop, it may struggle
     
 	
 	
-# References
+## References
        
-       [^ref 1]: Davis, D. W., et al. “Cowpea.” Alternative Crops Food Manual, https://hort.purdue.edu/newcrop/afcm/cowpea.html; Mabberley, David J. Mabberley’s Plant Book. 4th ed., Cambridge University Press; Production Guidelines for Cowpeas. Dept. of Agriculture, Forestry and Fisheries, Republic of South Africa, 2011, http://www.arc.agric.za/arc-gci/Fact%20Sheets%20Library/Cowpea%20-%20Production%20guidelines%20for%20cowpea.pdf
-       [^ref 2]: Kew Science. “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science.” Plants of the World Online, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. Accessed 12 July 2021.
-       [^ref 3]: Herniter, Ira A., et al. “Genetic, Textual, and Archeological Evidence of the Historical Global Spread of Cowpea (Vigna Unguiculata [L.] Walp.).” Legume Science, vol. 2, no. 4, 2020, p. e57, doi:10.1002/leg3.57
+Ref 1 Davis, D. W., et al. “Cowpea.” Alternative Crops Food Manual, https://hort.purdue.edu/newcrop/afcm/cowpea.html; Mabberley, David J. Mabberley’s Plant Book. 4th ed., Cambridge University Press; Production Guidelines for Cowpeas. Dept. of Agriculture, Forestry and Fisheries, Republic of South Africa, 2011, http://www.arc.agric.za/arc-gci/Fact%20Sheets%20Library/Cowpea%20-%20Production%20guidelines%20for%20cowpea.pdf
+
+Ref 2 Kew Science. “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science.” Plants of the World Online, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. Accessed 12 July 2021.
+
+Ref 3 Herniter, Ira A., et al. “Genetic, Textual, and Archeological Evidence of the Historical Global Spread of Cowpea (Vigna Unguiculata [L.] Walp.).” Legume Science, vol. 2, no. 4, 2020, p. e57, doi:10.1002/leg3.57
 	
-	
-	
-<!--Modern production ref-->
+<!--Modern prd ref-->
 
 Matthus, Elsa. A Global Rescue: Safeguarding the World’s Crop Wild Relatives. www.cwrdiversity.org, 2019, https://www.cwrdiversity.org/wp/wp-content/uploads/2019/12/global_rescue_170x240_spread.pdf.
 
-<!--Crop wild relatives-->
+<!--Crop wild relatives refs-->
 	
 Major, Michael. “Cowpea: How to Make a Hardy Crop Even Tougher.” Crop Wild Relatives, https://www.cwrdiversity.org/cowpea/. Accessed 15 July 2021.
 
@@ -185,10 +189,6 @@ Major, Michael. “Cowpea: How to Make a Hardy Crop Even Tougher.” Crop Wild R
 
 
 
-<param ve-image fit="contain"
-       label="Vigna unguiculata (cowpea) - Vigna unguiculata in flower (Photo: ITTA Image Library)"
-       license="Public Domain via Wikipedia"
-       url="http://storage.googleapis.com/powop-assets/kew_profiles/KPPCONT_085087_fullsize.jpg">
 	
 
 
