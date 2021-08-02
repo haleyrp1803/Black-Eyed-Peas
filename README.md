@@ -77,6 +77,7 @@ For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Ge
 (Insert image: Indian Kidney Bean from Herball, or Generall historie of plants, p  1213)<!--https://www.biodiversitylibrary.org/item/285804#page/1259/mode/1up-->
 
 <param ve-iframe 
+       fit="cover"
        src="https://www.archive.org/download/herballorgeneral1633gera/page/n1258_w392">
 
 In fact, the cowpea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the <span eid="Q767253"> ‘Columbian Exchange’</span>. The African cowpea is thought to have arrived in the Americas around 1500, though this has been the subject of much debate.* What is accepted, however, is that the cowpea came to the Americas as a result of the trade of enslaved Africans. Black-eyed peas were one of the primary foodstuffs during the trans-Atlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman <span eid="Q310326"> Sir Hans Sloane </span> notes the pea in Jamaica around 1687 and created this plant herbarium specimen there. The cowpea was in Virginia by at least 1666, and Florida by around 1700. 
@@ -93,10 +94,10 @@ Throughout the <span eid="Q8676"> Civil War </span>, cowpeas remained an importa
        
 <!--Label for image -The black-eyed pea is here labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant, 1604--> 
 <param ve-image
-       label="label"
-       license="license"
-       author="author"
-       url="https://archive.org/details/indiaeorientalis00mare_1/page/n170/mode/1up"> <!--need an image link here-->
+       label="The black-eyed pea is here labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant, 1604"
+       license="Public Domain"
+       author="John Carter Brown Library via archive.org"
+       url="https://ia904500.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/indiaeorientalis00mare_1/indiaeorientalis00mare_1_jp2.zip&file=indiaeorientalis00mare_1_jp2/indiaeorientalis00mare_1_0171.jp2&id=indiaeorientalis00mare_1&scale=2&rotate=0"> 
 
 Globally, cowpeas are grown commerically in at least 33 countries, this widespread embrace of the bean uniting geographically disparate peoples, places, and cultures. As acclaimed food historian and chef Michael Twitty points out, “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories. Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is fundamental to any discussion of food as widely used across culinary traditions as black-eyed peas.
 <param ve-video 
