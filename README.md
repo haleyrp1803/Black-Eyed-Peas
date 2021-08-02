@@ -156,24 +156,20 @@ The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be
        url="https://upload.wikimedia.org/wikipedia/commons/6/67/Wild_and_cultivated_cowpea_%287856427546%29.jpg">
 
 ## Crop wild relatives
-However, even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the cowpea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions.[^ref  ] If these traits can be bred into agricultural varieties then the future may look even brighter for the cowpea. The Crop Wild Relatives Project (CWRP) has been aiming to do just that in partnership with 33 countries [^ref ] and global [seed banks](https://vimeo.com/67899663), including the International Institute of Tropical Agriculture (IITA)and <span eid="Q2603353"> Kew’s Millennium Seed Bank </span>. There are eleven primary wild relatives of the cowpea being researched. Their importance demonstrates how vital it is to protect wild plants and wild habitats for the future. In a telling [quote](https://www.cwrdiversity.org/cowpea/) from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be an unfailing friend even while the climate crisis is affecting production.”
+However, even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the cowpea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions.[^ref  ] If these traits can be bred into agricultural varieties then the future may look even brighter for the cowpea. The Crop Wild Relatives Project (CWRP) has been aiming to do just that in partnership with 33 countries [^ref ] and global seed banks, including the International Institute of Tropical Agriculture (IITA) and <span eid="Q2603353"> Kew’s Millennium Seed Bank </span>. There are currently eleven primary wild relatives of the cowpea being researched. Their importance demonstrates how vital it is to protect wild plants and wild habitats for the future. In a telling [quote](https://www.cwrdiversity.org/cowpea/) from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be an unfailing friend even while the climate crisis is affecting production.”
 
 <param ve-video
        id="pqmBsUHSkBg"
        title="Beyond the gardens, the crop wild relatives project"
        author="RBG Kew"
     
-<param ve-image
-       label="Black-eyed bean pods"
-       license="CC BY-SA 3.0"
-       author="HeraldDesa"
-       url="https://upload.wikimedia.org/wikipedia/commons/0/08/Lobia.jpg"
 	
 	
 # References
-       [^ref1]:Davis, D. W., et al. “Cowpea.” Alternative Crops Food Manual, https://hort.purdue.edu/newcrop/afcm/cowpea.html; Mabberley, David J. Mabberley’s Plant Book. 4th ed., Cambridge University Press; Production Guidelines for Cowpeas. Dept. of Agriculture, Forestry and Fisheries, Republic of South Africa, 2011, http://www.arc.agric.za/arc-gci/Fact%20Sheets%20Library/Cowpea%20-%20Production%20guidelines%20for%20cowpea.pdf
-       [^ref2]:Kew Science. “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science.” Plants of the World Online, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. Accessed 12 July 2021.
-       [^ref3]:Herniter, Ira A., et al. “Genetic, Textual, and Archeological Evidence of the Historical Global Spread of Cowpea (Vigna Unguiculata [L.] Walp.).” Legume Science, vol. 2, no. 4, 2020, p. e57, doi:10.1002/leg3.57
+       
+       [^ref 1]: Davis, D. W., et al. “Cowpea.” Alternative Crops Food Manual, https://hort.purdue.edu/newcrop/afcm/cowpea.html; Mabberley, David J. Mabberley’s Plant Book. 4th ed., Cambridge University Press; Production Guidelines for Cowpeas. Dept. of Agriculture, Forestry and Fisheries, Republic of South Africa, 2011, http://www.arc.agric.za/arc-gci/Fact%20Sheets%20Library/Cowpea%20-%20Production%20guidelines%20for%20cowpea.pdf
+       [^ref 2]: Kew Science. “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science.” Plants of the World Online, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. Accessed 12 July 2021.
+       [^ref 3]: Herniter, Ira A., et al. “Genetic, Textual, and Archeological Evidence of the Historical Global Spread of Cowpea (Vigna Unguiculata [L.] Walp.).” Legume Science, vol. 2, no. 4, 2020, p. e57, doi:10.1002/leg3.57
 	
 	
 	
