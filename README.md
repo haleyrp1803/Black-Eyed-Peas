@@ -33,8 +33,8 @@ The recording of these many monikers reveals much about the pea’s widespread u
 
 <param ve-iframe
        label="Linnaeus' Species Plantarum page detailing Dolichos unguiculatus"
-       src="https://books.google.co.uk/books?id=aHlVAAAAcAAJ&pg=PA725&output=embed">
-      
+       src=""https://books.google.co.uk/books?id=aHlVAAAAcAAJ&pg=PA725&output=embed" width=500 height=500>">
+     
 		       
 ## An easy, useful crop
 Cowpeas grow best in semi-arid conditions, poor soils and with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest within 100 days. Grown since ancient times, these (mainly annual) leguminous plants (in the plant family Fabaceae) have now become a staple part of the diets of hundreds of millions of people around the world. It is not just the seeds (the beans or peas as we call them) that are harvested however – the leaves and pods of this reliable plant are also edible and used as a vegetable, or can be used for cattle fodder or hay,[^ref2] and, being legumes, they also enrich the soil through the presence of around 21 different (bradyrhizobial) symbiotic <span eid="Q15098397"> nitrogen-fixing bacteria in nodules </span> on their roots.[^ref3]
@@ -44,12 +44,12 @@ Cowpeas grow best in semi-arid conditions, poor soils and with little help. They
        src="https://v6p9d9t4.ssl.hwcdn.net/html/3509641/index.html"
        allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr">
 
-## Food in the Deep Past <!--images needed?-->
+## Food in the Deep Past <!--images still to go in-->
 Genomic sequencing suggests that humans domesticated an earlier wild relative independently in two regions: in West Africa, with vegetation zones [1] that change based on latitude, and East Africa, with vegetation zones that change based on altitude. Even to the present day, <span eid="Q55613"> ecotones </span> are valuable sites for settlement because they allow for mixed food systems: wild gathering, hunting, fishing and aquaculture, keeping small livestock and/or building larger herds, <span eid="Q397350"> agroforestry </span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.  Because cowpeas mature quickly and produce reliably with only a little land and labor, they are useful crops the whole year round!
 
 Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in <span eid="Q190375"> historical linguistics </span> have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the <span eid="Q130251"> Bantu Expansions </span>. Comparing today’s languages with each other lets scientists reconstruct the languages of the past. Watch as the root for ‘cowpea,’ kunde, appears in languages across the continent.
 
-By 1500 BCE this unfailing friend had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent. Ancient Greek physician <span eid="Q297776"> Dioscorides’ herbal _De Materia Medica_ </span> dubs the cowpea "phasiolos". This name referred to any sort of bean or pea (these terms used interchangeably in Dioscorides' time). <!--image of de Materia Media?-->
+By 1500 BCE this unfailing friend had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent. Ancient Greek physician <span eid="Q297776"> Dioscorides’ herbal _De Materia Medica_ </span> dubs the cowpea "phasiolos". This name referred to any sort of bean or pea (these terms used interchangeably in Dioscorides' time). The native range of the cowpea in Africa and its subsequent introduction across the world can be seen in this map.
 <param ve-map zoom="2">
 <param ve-map-layer geojson 
        title="Black-Eyed Pea Distribution" 
@@ -88,7 +88,8 @@ In fact, the cowpea was one of thousands of organisms that crossed from Eurasia 
        jpid="10.5555/al.ap.specimen.bm000589657">
 
 The hard labor of enslaved peoples ensured that the black-eyed pea or cowpea was grown and cultivated as a crop largely for livestock throughout the United States, most especially in the South. Black-eyed peas were also a fixture in gardens of enslaved peoples, these beans a hearty supplement to the meagre meals allotted on plantations. The cowpea became “the third most important food crop produced on Carolina plantations between 1730 and 1776.”* <span eid="Q11812"> Thomas Jefferson </span> and <span eid="Q23"> George Washington </span> both had black-eyed peas planted on their expansive plantations, and Washington corresponded with friends and acquaintances about growth and cultivation of the plant. By the nineteenth century black-eyed peas achieved new cultural cache and graced the tables of the white ruling class. Enslaved cooks played an important role in bringing this food into rarefied homes.
-<param ve-iframe src="https://founders.archives.gov/documents/Washington/04-05-02-0442">
+<param ve-iframe 
+       src="https://founders.archives.gov/documents/Washington/04-05-02-0442">
  
 Throughout the <span eid="Q8676"> Civil War </span>, cowpeas remained an important food for all people throughout the U.S. In the late nineteenth century, American <span eid="Q2787508"> subsistence farmers </span> were encouraged to grow cowpea even if their local climate meant they didn’t get an abundant crop of beans. Its usefulness as a soil improver, for erosion control, and as a nutritious fodder for livestock meant that this easy-to-grow crop was a valuable addition to the US farming landscape. A 'Farmers Bulletin' of 1920 gave specific official advice on [growing cowpeas](https://books.google.co.uk/books?id=QiOMV1jWGiQC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=true) in the US. Cowpea was, and still is, mainly grown in southern hotter states and California, as the warm, dry conditions are more favourable for bean production there.
        
@@ -156,6 +157,11 @@ The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be
 
 ## Crop wild relatives
 However, even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the cowpea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions.[^ref  ] If these traits can be bred into agricultural varieties then the future may look even brighter for the cowpea. The Crop Wild Relatives Project (CWRP) has been aiming to do just that in partnership with 33 countries [^ref ] and global [seed banks](https://vimeo.com/67899663), including the International Institute of Tropical Agriculture (IITA)and <span eid="Q2603353"> Kew’s Millennium Seed Bank </span>. There are eleven primary wild relatives of the cowpea being researched. Their importance demonstrates how vital it is to protect wild plants and wild habitats for the future. In a telling [quote](https://www.cwrdiversity.org/cowpea/) from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be an unfailing friend even while the climate crisis is affecting production.”
+
+<param ve-iframe
+      src="https://player.vimeo.com/video/67899663
+	   allow="autoplay; fullscreen; picture-in-picture; xr" title="Beyond the Gardens, the Crop Wild Relatives Project" author="Lonely Leap">
+
 
 <param ve-image
        label="Black-eyed bean pods"
