@@ -22,9 +22,10 @@ Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient cro
        url="https://upload.wikimedia.org/wikipedia/commons/1/19/Nigeria_Cowpea_fro_F_IITA.jpg">
        
 <param ve-image fit="contain"
-       label="The pink pea-like flowers of cowpea, Vigna unguiculata"
-       license="Public Domain via IITA and Wikipedia"
-       url="http://storage.googleapis.com/powop-assets/kew_profiles/KPPCONT_085087_fullsize.jpg">
+       label="The pink pea-like flowers of wild cowpea, Vigna unguiculata"
+       license="CC BY-SA 2.0"
+       authro="Tom Rulkens"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Wild_cowpea_flowers_%286930710085%29.jpg">
 
 ## A pea by many names
 The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. <span eid="Q1043"> Linnaeus (L.) </span>  gave this plant the scientific name _Dolichos unguiculatus_ in his <span eid="Q849308"> _Species Plantarum_ </span> of 1753 from a specimen from Barbados. More recently, taxonomists have been re-classifying the genus _Vigna_ and today all cultivated cowpeas are grouped under _Vigna unguiculata_ subsp._unguiculata_. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 	   
