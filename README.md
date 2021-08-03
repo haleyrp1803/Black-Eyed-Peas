@@ -92,7 +92,6 @@ Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean
        
 Despite the changing perceptions of the cowpea from familiar to foreign, the pea also grew in some gardens throughout Northern Europe. A 1683 record of Edinburgh’s <span eid="Q7189541"> Physical Garden </span>, for example, contains a Phaseolus described as a “small white Kidney-bean with a black spot in the middle.”*       
 <param ve-image 
-       fit="cover"
        label="tbd"
        license="tbd"
        author="tbd"
