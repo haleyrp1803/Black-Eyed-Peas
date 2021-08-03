@@ -90,14 +90,18 @@ Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean
        license="Public Domain via Wikipedia"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carracci_-_Der_Bohnenesser.jpeg/1295px-Carracci_-_Der_Bohnenesser.jpeg">
        
-Despite the changing perceptions of the cowpea from familiar to foreign, the pea also grew in some gardens throughout Northern Europe. A 1683 record of Edinburgh’s <span eid="Q7189541"> Physical Garden </span>, for example, contains a Phaseolus described as a “small white Kidney-bean with a black spot in the middle.”*       
-<param ve-image
+Despite the changing perceptions of the cowpea from familiar to foreign, the pea also grew in some gardens throughout Northern Europe. A 1683 record of Edinburgh’s <span eid="Q7189541"> Physical Garden </span>, for example, contains a Phaseolus described as a “small white Kidney-bean with a black spot in the middle.”* 
+<param ve-iframe 
+       fit="cover"
+       src="https://www.biodiversitylibrary.org/page/39923628">
+
+<!-- <param ve-image
        fit="contain" 
        label="tbd"
        license="tbd"
        author="tbd"
        url = "https://ia600504.us.archive.org/BookReader/BookReaderImages.php?id=hortusmedicusedi00suth&itemPath=%2F26%2Fitems%2Fhortusmedicusedi00suth&server=ia600504.us.archive.org&page=n294_w329">
-<!-- Here is the url for the BHL site url="https://www.biodiversitylibrary.org/item/123335#pageimage/294/mode/1up"> -->
+Here is the url for the BHL site url="https://www.biodiversitylibrary.org/item/123335#pageimage/294/mode/1up"> -->
        
        
 In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the <span eid="Q699363"> 'Juliana Anicia Codex' </span> — the oldest surviving copy of Dioscorides’ herbal _De Materia Medica_. He notes that the Spanish have knowledge of the plant. <span eid="Q7322"> Christopher Columbus </span> observed kidney beans in the Americas — a white variety with a black center - which was easily confused with the black-eyed pea. Such ideas circulated throughout the seventeenth century. 
