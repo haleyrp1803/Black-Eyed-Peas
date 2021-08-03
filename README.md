@@ -96,7 +96,7 @@ Despite the changing perceptions of the cowpea from familiar to foreign, the pea
        label="tbd"
        license="tbd"
        author="tbd"
-       url = "https://ia600504.us.archive.org/BookReader/BookReaderImages.php?id=hortusmedicusedi00suth&itemPath=%2F26%2Fitems%2Fhortusmedicusedi00suth&server=ia600504.us.archive.org&page=n12_w335" >
+       url = "https://ia600504.us.archive.org/BookReader/BookReaderImages.php?id=hortusmedicusedi00suth&itemPath=%2F26%2Fitems%2Fhortusmedicusedi00suth&server=ia600504.us.archive.org&page=n294_w329" >
 <!-- Here is the url for the BHL site url="https://www.biodiversitylibrary.org/item/123335#pageimage/294/mode/1up"> -->
        
        
