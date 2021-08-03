@@ -90,7 +90,7 @@ Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean
        license="Public Domain via Wikipedia"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carracci_-_Der_Bohnenesser.jpeg/1295px-Carracci_-_Der_Bohnenesser.jpeg">
 
-<param ve-image
+<param ve-image fit="contain"
        label="tbd"
        license="tbd"
        author="tbd"
