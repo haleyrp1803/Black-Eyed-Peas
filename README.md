@@ -72,7 +72,7 @@ As we’ve seen, cowpeas had been consumed for millennia, especially in the Medi
 
 Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean Eater_, which depicts a peasant eating a bowl of black-eyed peas, also acknowledges the cowpea's status as both familiar and foreign: the man's unrefined dress and manners, alongside his entirley typical and humble meal, make him a familar though perhaps unruly part of late sixteenth-cetury Italian society. The beans, which were at least since the time of Pliny the Elder associated with excessive gas also suggest the food and the person eating it might be disruptive to the social fabric they inhabit. Despite the changing perceptions of the cowpea from familiar to foreign, the pea also grew in some gardens throughout Northern Europe. A 1683 record of Edinburgh’s <span eid="Q7189541"> Physical Garden </span>, for example, contains a Phaseolus described as a “small white Kidney-bean with a black spot in the middle.”* 
 <param ve-image fit="contain"
-       label="Carracci's Bean Eater"
+       label="Carracci's _The Bean Eater_"
        description="Painting"
        license="Public Domain via Wikipedia"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carracci_-_Der_Bohnenesser.jpeg/1295px-Carracci_-_Der_Bohnenesser.jpeg">
@@ -85,7 +85,6 @@ In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the pl
        url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Phasiolos_370v_Dioscoride_Vienne.png">
        
 For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Gerard’s _Herball_ </span>, or _Generall historie of plants_, the author references Phaseolus peregrinus IIII, describing it as the “Indian Kidney bean with small white fruit.”* 
-(Insert image: Indian Kidney Bean from Herball, or Generall historie of plants, p  1213)<!--https://www.biodiversitylibrary.org/item/285804#page/1259/mode/1up-->
 
 <param ve-iframe 
        fit="cover"
@@ -94,7 +93,7 @@ For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Ge
 In fact, the cowpea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the <span eid="Q767253"> ‘Columbian Exchange’</span>. The African cowpea is thought to have arrived in the Americas around 1500, though this has been the subject of much debate.* What is accepted, however, is that the cowpea came to the Americas as a result of the trade of enslaved Africans. Black-eyed peas were one of the primary foodstuffs during the trans-Atlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman <span eid="Q310326"> Sir Hans Sloane </span> notes the pea in Jamaica around 1687 and created this plant herbarium specimen there. The cowpea was in Virginia by at least 1666, and Florida by around 1700. 
 
 <param ve-plant-specimen
-       label="A herbarium specimen of Vigna unguiculata made by Sir Hans Sloane in Jamaica"
+       label="A herbarium specimen of _Vigna unguiculata_ made by Sir Hans Sloane in Jamaica"
        author="JSTOR Global Plants, courtesy of the Natural History Museum, London"
        jpid="10.5555/al.ap.specimen.bm000589657">
 
@@ -107,7 +106,7 @@ Throughout the <span eid="Q8676"> Civil War </span>, cowpeas remained an importa
 <param ve-iframe
        src="https://books.google.co.uk/books?id=QiOMV1jWGiQC&pg=PA1&output=embed">
 
-Globally, cowpeas are grown commerically in at least 33 countries, this widespread embrace of the bean uniting geographically disparate peoples, places, and cultures. As acclaimed food historian and chef Michael Twitty points out, “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories. Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is fundamental to any discussion of food as widely used across culinary traditions as black-eyed peas.
+Globally, cowpeas are grown commerically in at least 33 countries,* this widespread embrace of the bean uniting geographically disparate peoples, places, and cultures. As acclaimed food historian and chef Michael Twitty points out, “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories. Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is fundamental to any discussion of food as widely used across culinary traditions as black-eyed peas.
 <param ve-video 
        id="R6l8jRF-eGA"
        title="A feast of African-American culinary contributions, baked into the South’s DNA"
@@ -143,7 +142,7 @@ Although black-eyed pea was not grown as a crop in Britain (it being far too col
        url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Jamaica_at_the_Colonial_and_Indian_Exhibition%2C_London_1886.jpg">
 
 ## Modern production
-Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as cultivation is still mainly in the hands of small-holder farmers, but also because they are such a staple food that most harvests are used locally rather than being exported. The centres of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s cowpea crop.[^ref ] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains. It is the third most important pulse worldwide, an important element of sustainable agriculture, and feeds hundreds of millions of people.[^ref ]
+Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as cultivation is still mainly in the hands of small-holder farmers, but also because they are such a staple food that most harvests are used locally rather than being exported. The centres of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s cowpea crop.[^ref ] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains.[ref] It is the third most important pulse worldwide, an important element of sustainable agriculture, and feeds hundreds of millions of people.[^ref ]
 <param ve-image
        label="Smallholder farmer drying cowpeas in Ghana"
        description="A farmer in Ghana turns a pile of black-eyed pea pods to dry them"
@@ -153,7 +152,7 @@ Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as
        url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Drying_cowpeas.jpg">
        
 ## A food of the future 
-The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be more familiar with it. Legumes are emerging as ‘foods of the future’ due to their very nature of being highly nutritious and relatively easy to grow. They will play an important part in future food security – providing food in a changing climate and will continue to help small-scale farmers combat poverty and hunger and improve their livelihoods.[^ref. ] As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, and as more people aim to eat less meat, legume crops such as cowpeas, with their many virtues, will contribute to the diets of more people.
+The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be more familiar with it. Legumes are emerging as ‘foods of the future’ due to their very nature of being highly nutritious and relatively easy to grow. They will play an important part in future food security – providing food in a changing climate and will continue to help small-scale farmers combat poverty and hunger and improve their livelihoods. As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, and as more people aim to eat less meat, legume crops such as cowpeas, with their many virtues, will contribute to the diets of more people.[ref]
 
 <param ve-image
        label="Wild and cultivated cowpea beans"
@@ -163,7 +162,7 @@ The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be
        url="https://upload.wikimedia.org/wikipedia/commons/6/67/Wild_and_cultivated_cowpea_%287856427546%29.jpg">
 
 ## Crop wild relatives
-However, even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the cowpea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions.[^ref  ] If these traits can be bred into agricultural varieties then the future may look even brighter for the cowpea. The Crop Wild Relatives Project (CWRP) has been aiming to do just that in partnership with 33 countries [^ref ] and global seed banks, including the International Institute of Tropical Agriculture (IITA) and <span eid="Q2603353"> Kew’s Millennium Seed Bank </span>. There are currently eleven primary wild relatives of the cowpea being researched. Southern Africa is a hotspot for wild cowpea variation and isthought to hold the most genetic vairation. [ref] Their importance demonstrates how vital it is to protect wild plants and wild habitats for the future. In a telling [quote](https://www.cwrdiversity.org/cowpea/) from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be an unfailing friend even while the climate crisis is affecting production.”
+However, even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the cowpea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions.[^ref  ] If these traits can be bred into agricultural varieties then the future may look even brighter for the cowpea. The Crop Wild Relatives Project (CWRP) has been aiming to do just that in partnership with 33 countries [^ref ] and global seed banks, including the International Institute of Tropical Agriculture (IITA) and <span eid="Q2603353"> Kew’s Millennium Seed Bank </span>. There are currently eleven primary wild relatives of the cowpea being researched. Southern Africa is a hotspot for wild cowpea variation and is thought to hold the most genetic vairation. [ref] Their importance demonstrates how vital it is to protect wild plants and wild habitats for the future. In a telling [quote](https://www.cwrdiversity.org/cowpea/) from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be _an unfailing friend_ even while the climate crisis is affecting production.”
 
 <param ve-video
        id="pqmBsUHSkBg"
@@ -182,7 +181,13 @@ Ref 3 Herniter, Ira A., et al. “Genetic, Textual, and Archeological Evidence o
 	
 <!--Modern prd ref-->
 
+“Cowpea.” https://www.cwrdiversity.org/crop/cowpea/. Accessed 15 July 2021
+
 Matthus, Elsa. A Global Rescue: Safeguarding the World’s Crop Wild Relatives. www.cwrdiversity.org, 2019, https://www.cwrdiversity.org/wp/wp-content/uploads/2019/12/global_rescue_170x240_spread.pdf.
+
+<!--Food of the future-->
+
+https://www.cwrdiversity.org/cowpea-cracking-on-with-climate-change/
 
 <!--Crop wild relatives refs in order of appearance-->
 	
