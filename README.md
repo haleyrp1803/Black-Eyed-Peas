@@ -91,12 +91,12 @@ Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carracci_-_Der_Bohnenesser.jpeg/1295px-Carracci_-_Der_Bohnenesser.jpeg">
        
 Despite the changing perceptions of the cowpea from familiar to foreign, the pea also grew in some gardens throughout Northern Europe. A 1683 record of Edinburgh’s <span eid="Q7189541"> Physical Garden </span>, for example, contains a Phaseolus described as a “small white Kidney-bean with a black spot in the middle.”*       
-<param ve-image 
+<param ve-image
+       fit="contain" 
        label="tbd"
        license="tbd"
        author="tbd"
-       url = "https://ia600504.us.archive.org/BookReader/BookReaderImages.php?id=hortusmedicusedi00suth&itemPath=%2F26%2Fitems%2Fhortusmedicusedi00suth&server=ia600504.us.archive.org&page=n294_w329"
-       nav: [-144,77,720,585]>
+       url = "https://ia600504.us.archive.org/BookReader/BookReaderImages.php?id=hortusmedicusedi00suth&itemPath=%2F26%2Fitems%2Fhortusmedicusedi00suth&server=ia600504.us.archive.org&page=n294_w329">
 <!-- Here is the url for the BHL site url="https://www.biodiversitylibrary.org/item/123335#pageimage/294/mode/1up"> -->
        
        
