@@ -95,7 +95,8 @@ Despite the changing perceptions of the cowpea from familiar to foreign, the pea
        label="tbd"
        license="tbd"
        author="tbd"
-       url="https://www.biodiversitylibrary.org/item/123335#pageimage/294/mode/1up">
+       url = "https://ia600504.us.archive.org/BookReader/BookReaderImages.php?id=hortusmedicusedi00suth&itemPath=%2F26%2Fitems%2Fhortusmedicusedi00suth&server=ia600504.us.archive.org&page=n12_w335" >
+<!-- Here is the url for the BHL site url="https://www.biodiversitylibrary.org/item/123335#pageimage/294/mode/1up"> -->
        
        
 In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the <span eid="Q699363"> 'Juliana Anicia Codex' </span> — the oldest surviving copy of Dioscorides’ herbal _De Materia Medica_. He notes that the Spanish have knowledge of the plant. <span eid="Q7322"> Christopher Columbus </span> observed kidney beans in the Americas — a white variety with a black center - which was easily confused with the black-eyed pea. Such ideas circulated throughout the seventeenth century. 
