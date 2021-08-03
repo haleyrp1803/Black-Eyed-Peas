@@ -83,18 +83,20 @@ As we’ve seen, cowpeas had been consumed for millennia, especially in the Medi
        author="John Carter Brown Library via archive.org"
        url="https://ia904500.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/indiaeorientalis00mare_1/indiaeorientalis00mare_1_jp2.zip&file=indiaeorientalis00mare_1_jp2/indiaeorientalis00mare_1_0171.jp2&id=indiaeorientalis00mare_1&scale=2&rotate=0"> 
 
-Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean Eater_ (painted c. 1590), which depicts a peasant eating a bowl of black-eyed peas, also acknowledges the cowpea's status as both familiar and foreign: the man's unrefined dress and manners, alongside his entirely typical and humble meal, make him a familar though perhaps unruly part of late sixteenth-cetury Italian society. The beans, which were at least since the time of Pliny the Elder associated with excessive gas also suggest the food and the person eating it might be disruptive to the social fabric they inhabit. Despite the changing perceptions of the cowpea from familiar to foreign, the pea also grew in some gardens throughout Northern Europe. A 1683 record of Edinburgh’s <span eid="Q7189541"> Physical Garden </span>, for example, contains a Phaseolus described as a “small white Kidney-bean with a black spot in the middle.”* 
+Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean Eater_ (painted c. 1590), which depicts a peasant eating a bowl of black-eyed peas, also acknowledges the cowpea's status as both familiar and foreign: the man's unrefined dress and manners, alongside his entirely typical and humble meal, make him a familar though perhaps unruly part of late sixteenth-cetury Italian society. The beans, which were at least since the time of Pliny the Elder associated with excessive gas also suggest the food and the person eating it might be disruptive to the social fabric they inhabit. 
 <param ve-image fit="contain"
        label="Carracci's 'The Bean Eater' is housed in the gallery of Palazzo Colonna in Rome"
        description="Painting"
        license="Public Domain via Wikipedia"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carracci_-_Der_Bohnenesser.jpeg/1295px-Carracci_-_Der_Bohnenesser.jpeg">
-
+       
+Despite the changing perceptions of the cowpea from familiar to foreign, the pea also grew in some gardens throughout Northern Europe. A 1683 record of Edinburgh’s <span eid="Q7189541"> Physical Garden </span>, for example, contains a Phaseolus described as a “small white Kidney-bean with a black spot in the middle.”*       
 <param ve-image fit="contain"
        label="tbd"
        license="tbd"
        author="tbd"
        url="https://www.biodiversitylibrary.org/item/123335#pageimage/294/mode/1up">
+       
        
 In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the <span eid="Q699363"> 'Juliana Anicia Codex' </span> — the oldest surviving copy of Dioscorides’ herbal _De Materia Medica_. He notes that the Spanish have knowledge of the plant. <span eid="Q7322"> Christopher Columbus </span> observed kidney beans in the Americas — a white variety with a black center - which was easily confused with the black-eyed pea. Such ideas circulated throughout the seventeenth century. 
 <param ve-image fit="cover"
