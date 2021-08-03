@@ -89,11 +89,9 @@ Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean
        description="Painting"
        license="Public Domain via Wikipedia"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carracci_-_Der_Bohnenesser.jpeg/1295px-Carracci_-_Der_Bohnenesser.jpeg">
-<param ve-image fit="frame"
-       label="book"
-       description="print"
-       license="Public Domain"
-       url="https://www.biodiversitylibrary.org/item/123335#page/295/mode/1up">
+<param ve-iframe
+       fit="cover"
+       src="https://www.biodiversitylibrary.org/item/123335#page/295/mode/1up">
 
 In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the <span eid="Q699363"> 'Juliana Anicia Codex' </span> — the oldest surviving copy of Dioscorides’ herbal _De Materia Medica_. He notes that the Spanish have knowledge of the plant. <span eid="Q7322"> Christopher Columbus </span> observed kidney beans in the Americas — a white variety with a black center - which was easily confused with the black-eyed pea. Such ideas circulated throughout the seventeenth century. 
 <param ve-image fit="cover"
