@@ -71,7 +71,7 @@ By 1500 BCE the cowpea had spread through North Africa and beyond: out to the Me
        title="Black-Eyed Pea Distribution"
        description="Vegetation zones, curtain compare images between way, way back, then against ca. 1000 BCE, 1000 CE, 2000 CE. Custom layer and/or animation of Africa where the word for cowpea in different-but-related languages appear on the map in the order of the approximate date to which they’ve been reconstructed.">
 <param ve-map-layer geojson active
-       url="Distribution_4.geojson">
+       url="Distribution_5.geojson">
        
 
 ## Early Modern History
@@ -184,6 +184,8 @@ The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be
        license="CC BY-SA 2.0"
        author="Tom Rulkens"
        url="https://upload.wikimedia.org/wikipedia/commons/6/67/Wild_and_cultivated_cowpea_%287856427546%29.jpg">
+
+In this pursuit of a meatless diet, black-eyed peas and other legumes are being increasingly utilized as health foods in the growing diet culture and increasing veganism of the West. Some health-focused cookbooks are regional, aiming to transform, for example, traditional southern recipes like black-eyed peas with pork to leaner, lower-sodium alternatives. Others combine recipes across many cultures, like The Great Vegan Bean Book, which aims to give vegans more options for flavorful meatless protein. These types of recipe books often marry recipes inspired by the American South with Indian, African, and Caribbean cuisines.
 
 ## Crop wild relatives
 However, even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the cowpea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions.[^ref  ] If these traits can be bred into agricultural varieties then the future may look even brighter for the cowpea. The Crop Wild Relatives Project (CWRP) has been aiming to do just that in partnership with 33 countries [^ref ] and global seed banks, including the International Institute of Tropical Agriculture (IITA) and <span eid="Q2603353"> Kew’s Millennium Seed Bank </span>. There are currently eleven primary wild relatives of the cowpea being researched. Southern Africa is a hotspot for wild cowpea variation and is thought to hold the most genetic variation. [ref] Their importance demonstrates how vital it is to protect wild plants and wild habitats for the future. In a telling [quote](https://www.cwrdiversity.org/cowpea/) from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be _an unfailing friend_ even while the climate crisis is affecting production.”
