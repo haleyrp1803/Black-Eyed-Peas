@@ -27,7 +27,7 @@ Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient cro
        url="http://storage.googleapis.com/powop-assets/kew_profiles/KPPCONT_085087_fullsize.jpg">
 
 ## A pea by many names
-The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. <span eid="Q1043"> Linnaeus (L.) </span>  gave this plant the scientific name _Dolichos unguiculatus_ in his <span eid="Q849308"> _Species Plantarum_ </span> of 1753 from a specimen from Barbados, but this African plant was formally renamed in 1974 as _Vigna unguiculata_ subsp._unguiculata_. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 	   
+The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. <span eid="Q1043"> Linnaeus (L.) </span>  gave this plant the scientific name _Dolichos unguiculatus_ in his <span eid="Q849308"> _Species Plantarum_ </span> of 1753 from a specimen from Barbados. More recently, taxonomists have been re-classifying the genus _Vigna_ and today all cultivated cowpeas are grouped under _Vigna unguiculata_ subsp._unguiculata_. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 	   
 <param ve-image fit="contain"
        label="Vigna unguiculata, Franz von Scheidl, 1776"
        description="A botanical illustration of black-eyed pea painted in 1776 by Franz von Scheidl"
@@ -143,7 +143,7 @@ Although black-eyed pea was not grown as a crop in Britain (it being far too col
        url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Jamaica_at_the_Colonial_and_Indian_Exhibition%2C_London_1886.jpg">
 
 ## Modern production
-Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as cultivation is still mainly in the hands of small-holder farmers, but also because they are such a staple food that most harvests are used locally rather than being exported. The centres of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s cowpea crop.[^ref ] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains. It is the third most important pulse worldwide, feeding hundreds of millions of people.[^ref ]
+Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as cultivation is still mainly in the hands of small-holder farmers, but also because they are such a staple food that most harvests are used locally rather than being exported. The centres of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s cowpea crop.[^ref ] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains. It is the third most important pulse worldwide, an important element of sustainable agriculture, and feeds hundreds of millions of people.[^ref ]
 <param ve-image
        label="Smallholder farmer drying cowpeas in Ghana"
        description="A farmer in Ghana turns a pile of black-eyed pea pods to dry them"
@@ -163,7 +163,7 @@ The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be
        url="https://upload.wikimedia.org/wikipedia/commons/6/67/Wild_and_cultivated_cowpea_%287856427546%29.jpg">
 
 ## Crop wild relatives
-However, even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the cowpea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions.[^ref  ] If these traits can be bred into agricultural varieties then the future may look even brighter for the cowpea. The Crop Wild Relatives Project (CWRP) has been aiming to do just that in partnership with 33 countries [^ref ] and global seed banks, including the International Institute of Tropical Agriculture (IITA) and <span eid="Q2603353"> Kew’s Millennium Seed Bank </span>. There are currently eleven primary wild relatives of the cowpea being researched. Their importance demonstrates how vital it is to protect wild plants and wild habitats for the future. In a telling [quote](https://www.cwrdiversity.org/cowpea/) from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be an unfailing friend even while the climate crisis is affecting production.”
+However, even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the cowpea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions.[^ref  ] If these traits can be bred into agricultural varieties then the future may look even brighter for the cowpea. The Crop Wild Relatives Project (CWRP) has been aiming to do just that in partnership with 33 countries [^ref ] and global seed banks, including the International Institute of Tropical Agriculture (IITA) and <span eid="Q2603353"> Kew’s Millennium Seed Bank </span>. There are currently eleven primary wild relatives of the cowpea being researched. Southern Africa is a hotspot for wild cowpea variation and isthought to hold the most genetic vairation. [ref] Their importance demonstrates how vital it is to protect wild plants and wild habitats for the future. In a telling [quote](https://www.cwrdiversity.org/cowpea/) from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be an unfailing friend even while the climate crisis is affecting production.”
 
 <param ve-video
        id="pqmBsUHSkBg"
@@ -184,11 +184,13 @@ Ref 3 Herniter, Ira A., et al. “Genetic, Textual, and Archeological Evidence o
 
 Matthus, Elsa. A Global Rescue: Safeguarding the World’s Crop Wild Relatives. www.cwrdiversity.org, 2019, https://www.cwrdiversity.org/wp/wp-content/uploads/2019/12/global_rescue_170x240_spread.pdf.
 
-<!--Crop wild relatives refs-->
+<!--Crop wild relatives refs in order of appearance-->
 	
 Major, Michael. “Cowpea: How to Make a Hardy Crop Even Tougher.” Crop Wild Relatives, https://www.cwrdiversity.org/cowpea/. Accessed 15 July 2021.
 
 “Cowpea.” Crop Trust, https://www.croptrust.org/crop/cowpea/. Accessed 15 July 2021
+
+Singh, B.B., et al (eds). _Advances in Cowpea Research_. International Institute of Tropical Agriculture, Nigeria. 1997
 
 
 
