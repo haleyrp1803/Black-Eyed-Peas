@@ -85,7 +85,7 @@ As we’ve seen, cowpeas had been consumed for millennia, especially in the Medi
 
 Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean Eater_ (painted c. 1590), which depicts a peasant eating a bowl of black-eyed peas, also acknowledges the cowpea's status as both familiar and foreign: the man's unrefined dress and manners, alongside his entirely typical and humble meal, make him a familar though perhaps unruly part of late sixteenth-cetury Italian society. The beans, which were at least since the time of Pliny the Elder associated with excessive gas also suggest the food and the person eating it might be disruptive to the social fabric they inhabit. Despite the changing perceptions of the cowpea from familiar to foreign, the pea also grew in some gardens throughout Northern Europe. A 1683 record of Edinburgh’s <span eid="Q7189541"> Physical Garden </span>, for example, contains a Phaseolus described as a “small white Kidney-bean with a black spot in the middle.”* 
 <param ve-image fit="contain"
-       label="Carracci's _The Bean Eater_is housed in the gallery of Palazzo Colonna in Rome"
+       label="Carracci's 'The Bean Eater' is housed in the gallery of Palazzo Colonna in Rome"
        description="Painting"
        license="Public Domain via Wikipedia"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carracci_-_Der_Bohnenesser.jpeg/1295px-Carracci_-_Der_Bohnenesser.jpeg">
