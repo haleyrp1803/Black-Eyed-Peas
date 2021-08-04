@@ -53,7 +53,7 @@ Genomic sequencing suggests that humans domesticated an earlier wild relative in
 
 Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in <span eid="Q190375"> historical linguistics </span> have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the <span eid="Q130251"> Bantu Expansions </span>. Comparing today’s languages with each other lets scientists reconstruct the languages of the past. Watch as the root for ‘cowpea', _kunde_, appears in languages across the continent.
 
-By 1500 BCE the black-eyed pea had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent. Records of human use of the humble black-eyed pea in ancient history mainly comes from archeological records and it is not until the Ancient Greek physician <span eid="Q297776"> Dioscorides </span> includes it in his herbal _De Materia Medica_  under the name "phasiolos" that we start to see its usefulness being recorded. This name referred to any sort of bean or pea (these terms used interchangeably in Dioscorides' time). The native range of the black-eyed pea in Africa and its subsequent introduction of this useful plant across the world can be seen in this map.
+By 1500 BCE the black-eyed pea had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent. Records of human use of the humble black-eyed pea in ancient history mainly come from archeological records and it is not until the Ancient Greek physician <span eid="Q297776"> Dioscorides </span> includes it in his herbal _De Materia Medica_  under the name "phasiolos" that we start to see its usefulness being recorded. This name referred to any sort of bean or pea (these terms used interchangeably in Dioscorides' time). The native range of the black-eyed pea in Africa and its subsequent introduction of this useful plant across the world can be seen in this map.
 <param ve-map zoom="2"
        title="Black-Eyed Pea Distribution"
        description="Vegetation zones, curtain compare images between way, way back, then against ca. 1000 BCE, 1000 CE, 2000 CE. Custom layer and/or animation of Africa where the word for cowpea in different-but-related languages appear on the map in the order of the approximate date to which they’ve been reconstructed.">
@@ -95,7 +95,7 @@ For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Ge
 
 <param ve-iframe
        label="Linnaeus' Species Plantarum page detailing Dolichos unguiculatus"
-       src=""https://books.google.co.uk/books?id=aHlVAAAAcAAJ&pg=PA725&output=embed">
+       src="https://books.google.co.uk/books?id=aHlVAAAAcAAJ&pg=PA725&output=embed">
        
 ## The humble pea
 										      
