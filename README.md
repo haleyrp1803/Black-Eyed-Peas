@@ -47,6 +47,13 @@ Black-eyed peas grow best in semi-arid conditions, poor soils and with little he
        id="game_drop"
        src="https://v6p9d9t4.ssl.hwcdn.net/html/3509641/index.html"
        allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr">
+       
+<param ve-image fit="contain"
+       label="Vigna unguiculata, Franz von Scheidl, 1776, Wellcome Collection"
+       description="A botanical illustration of black-eyed pea painted in 1776 by Franz von Scheidl"
+       author="Wellcome Collection" 
+       license="Public Domain"
+       url="https://iiif.wellcomecollection.org/image/V0042955ER/full/full/0/default.jpg">
 
 ## Food in the Deep Past <!--images still to go in-->
 Genomic sequencing suggests that humans domesticated an earlier wild relative independently in two regions: in West Africa, with vegetation zones [1] that change based on latitude, and East Africa, with vegetation zones that change based on altitude. Even to the present day, <span eid="Q55613"> ecotones </span> are valuable sites for settlement because they allow for mixed food systems: wild gathering, hunting, fishing and aquaculture, keeping small livestock and/or building larger herds, <span eid="Q397350"> agroforestry </span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.  Because black-eyed peas mature quickly and produce reliably with only a little land and labor, they are useful crops the whole year round.
@@ -86,12 +93,6 @@ For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Ge
 
 <span eid="Q1043"> Linnaeus (L.) </span>  gave this plant the binomial scientific name _Dolichos unguiculatus_ in his <span eid="Q849308"> _Species Plantarum_ </span> of 1753, described from a specimen from Barbados. More recently, taxonomists have been re-classifying the genus _Vigna_ and today all cultivated cowpeas are grouped under _Vigna unguiculata_ subsp._unguiculata_.[ref] However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 	   
 
-<param ve-image fit="contain"
-       label="Vigna unguiculata, Franz von Scheidl, 1776, Wellcome Collection"
-       description="A botanical illustration of black-eyed pea painted in 1776 by Franz von Scheidl"
-       author="Wellcome Collection" 
-       license="Public Domain"
-       url="https://iiif.wellcomecollection.org/image/V0042955ER/full/full/0/default.jpg">
 
 <param ve-iframe
        label="Linnaeus' Species Plantarum page detailing Dolichos unguiculatus"
