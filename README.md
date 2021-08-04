@@ -108,10 +108,10 @@ Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean
        
 Despite the changing perceptions of the black-eyed pea from familiar to foreign, the pea also grew in some gardens throughout Northern Europe. A 1683 record of Edinburgh’s <span eid="Q7189541"> Physical Garden </span>, for example, contains a Phaseolus described as a “small white Kidney-bean with a black spot in the middle.”*       
 <param ve-image fit="cover"
-       label="tbd"
-       license="tbd"
-       author="tbd"
-       url="https://www.biodiversitylibrary.org/item/123335#pageimage/294/mode/1up">
+       label="Hortus medicus Edinburgensis, 1683"
+       license="Public Domain via Biodiversity Heritage Library"
+       author="James Sutherland, RBG Edinburgh"
+       url="https://www.archive.org/download/hortusmedicusedi00suth/page/n294_w307">
        
        
 In fact, the cowpea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the <span eid="Q767253"> ‘Columbian Exchange’</span>. The African 'cowpea' is thought to have arrived in the Americas around 1500, though this has been the subject of much debate.* What is accepted, however, is that the plant came to the Americas as a result of the trade of enslaved Africans. Black-eyed peas were one of the primary foodstuffs during the trans-Atlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman <span eid="Q310326"> Sir Hans Sloane </span> notes the pea in Jamaica around 1687 and created this plant herbarium specimen there. The black-eyed pea was in Virginia by at least 1666, and Florida by around 1700. 
