@@ -5,8 +5,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       banner="https://upload.wikimedia.org/wikipedia/commons/d/d0/BlackEyedPeas.JPG" 
-       license="CC BY-SA 3.0 Toby Hudson via Wikimedia Commons"
+       banner="https://newsroom.ucr.edu/images/releases/1708_0hi.jpg" 
+       license="Photo courtesy of Jeffrey Ehlers"
        title="Black-Eyed Peas: Our Unfailing Friend"
        author="Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan"
        layout="vertical">
