@@ -38,25 +38,5 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#26d92933-bff8-4235-aa7c-9e3b98ec228e"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "\"Small white Kidney-Bean with a black spot in the middle\"",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://www.archive.org/download/hortusmedicusedi00suth/page/n294_w307",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:17.76435661315918,260.6275329589844,353.2373218536377,45.2913818359375"
-      }
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#cc20bc1a-291f-437b-a54b-6ebcd912abcc"
   }
 ]
