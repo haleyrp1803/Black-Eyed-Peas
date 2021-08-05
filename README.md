@@ -85,7 +85,7 @@ Although they were not a high status item by the time Carracci's peasant sat dow
 <param ve-iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc&font=Default&lang=en&initial_zoom=3&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'">
 
 <!--Emily the url for the Clusius illustration is https://www.archive.org/download/mobot31753000810538/page/n599_w613-->
-<!--add Edinburgh catalogue page in for the 1600s?-->
+<!--add Edinburgh catalogue page in for the 1600s?--https://www.archive.org/download/hortusmedicusedi00suth/page/n294_w431>
 <!--is Linnaeus page working ok?-->
 
 ## World Traveller 
