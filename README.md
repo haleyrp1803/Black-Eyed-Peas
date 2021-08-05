@@ -98,11 +98,18 @@ The hard labor of enslaved peoples ensured that the black-eyed pea or cowpea was
        label="Letter from George Washington to Charles Carter 1787"
        author="US Library of Congress"
        url="https://tile.loc.gov/storage-services/master/mss/mgw/mgw2/014/2340228.jpg">
- 
+
 Throughout the <span eid="Q8676"> Civil War </span>, cowpeas remained an important food for all people throughout the U.S. In the late nineteenth century, American <span eid="Q2787508"> subsistence farmers </span> were encouraged to grow cowpea even if their local climate meant they didn’t get an abundant crop of beans. Its usefulness as a soil improver, for erosion control, and as a nutritious fodder for livestock meant that this easy-to-grow crop was a valuable addition to the US farming landscape. A 'Farmers Bulletin' of 1920 gave specific official advice on [growing cowpeas](https://books.google.co.uk/books?id=QiOMV1jWGiQC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=true) in the US. Cowpea was, and still is, mainly grown in southern hotter states and California, as the warm, dry conditions are more favourable for bean production there.
        
 <param ve-iframe
        src="https://books.google.co.uk/books?id=QiOMV1jWGiQC&pg=PA1&output=embed">
+
+On the other side of the world, in Japan, a copy of the extraordinary 30-volume agricultural encyclopaedia _Seikei Zuetsu_(written 1793-1804) was gifted to the German physician, botanist and plant collector Phillip von Siebold in the 1820s. Siebold arrived in Nagasaki in 1823 and started a medical school there, but spent much of his spare time studying Japanese flora and creating his own botanical garden of Japanese plants. The _Seikei Zuetsu_ detailed 109 crops of southern Japan and inside its pages can be found the 'cowpea' – most probably showing _Vigna unguiculata_ subspecies _sesquipedalis_ or the 'yard-long bean' which was and still is popular in Asia today. Its presence in this Japanese book of crops from 1800 shows how far the black-eyed pea had come and how its usefulness had been welcomed into the agricultural traditions and diets of a wide variety of cultures.
+
+<param ve-image
+       label="Vigna unguiculata subsp. sesquipedalis in the Seikei Zuetsu"
+       license="CC BY-SA 4.0 via Leiden University Library, Wikimedia Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Leiden_University_Library_-_Seikei_Zusetsu_vol._18%2C_page_032_-_%E7%99%BD%E4%B8%8D%E8%80%81_-_Vigna_unguiculata_%28L.%29_Walp._-_cv._-_group_Sesquipedalis%2C_1804.jpg">
 
 Globally, cowpeas are grown commerically in at least 33 countries,* this widespread embrace of the bean uniting geographically disparate peoples, places, and cultures. As acclaimed food historian and chef Michael Twitty points out, “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories. Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is fundamental to any discussion of food as widely used across culinary traditions as black-eyed peas.
 <param ve-video 
