@@ -192,6 +192,10 @@ Ref 2 Kew Science. “Vigna Unguiculata (L.) Walp. | Plants of the World Online 
 
 Ref 3 Herniter, Ira A., et al. “Genetic, Textual, and Archeological Evidence of the Historical Global Spread of Cowpea (Vigna Unguiculata [L.] Walp.).” Legume Science, vol. 2, no. 4, 2020, p. e57, doi:10.1002/leg3.57
 	
+<!--World Traveller-->
+Yard-long bean ref: Kongjaimun A, Kaga A, Tomooka N, Somta P, Vaughan DA, Srinives P. The genetics of domestication of yardlong bean, Vigna unguiculata (L.) Walp. ssp. unguiculata cv.-gr. sesquipedalis. Ann Bot. 2012 May;109(6):1185-200. doi: 10.1093/aob/mcs048.
+<!--Konngjaimun et al https://pubmed.ncbi.nlm.nih.gov/22419763/-->
+       
 <!--Modern prd ref-->
 
 “Cowpea.” https://www.cwrdiversity.org/crop/cowpea/. Accessed 15 July 2021
@@ -212,7 +216,7 @@ Singh, B.B., et al (eds). _Advances in Cowpea Research_. International Institute
 
 
 
-<!--Konngjaimun et al https://pubmed.ncbi.nlm.nih.gov/22419763/-->
+
 
 
 
