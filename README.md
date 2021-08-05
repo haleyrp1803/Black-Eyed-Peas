@@ -109,6 +109,7 @@ Throughout the <span eid="Q8676"> Civil War </span>, cowpeas remained an importa
 On the other side of the world, in Japan, a copy of the extraordinary 30-volume agricultural encyclopaedia _Seikei Zuetsu_(written 1793-1804) was gifted to the German physician, botanist and plant collector <span eid="Q77140">Phillip von Siebold</span> in the 1820s. Siebold arrived in Nagasaki in 1823 and started a medical school there, but spent much of his spare time studying Japanese flora and creating his own botanical garden of Japanese plants. The _Seikei Zuetsu_ detailed 109 crops of southern Japan and inside its pages can be found the 'cowpea' – most probably showing _Vigna unguiculata_ subspecies _sesquipedalis_ or the 'yard-long bean' which was and still is popular in Asia today. Its presence in this Japanese book of crops from 1800 shows how far the black-eyed pea had come and how its usefulness had been welcomed into many agricultural traditions.
 
 <param ve-image
+       fit="cover"
        label="Vigna unguiculata subsp. sesquipedalis in the Seikei Zuetsu"
        license="CC BY-SA 4.0 via Leiden University Library, Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Leiden_University_Library_-_Seikei_Zusetsu_vol._18%2C_page_032_-_%E7%99%BD%E4%B8%8D%E8%80%81_-_Vigna_unguiculata_%28L.%29_Walp._-_cv._-_group_Sesquipedalis%2C_1804.jpg">
