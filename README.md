@@ -133,7 +133,7 @@ In the American South, the vibrant legacies of African culinary traditions prese
        author="jeffreyw"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Black_eyed_peas_%2816167751712%29.jpg">
 
-Black-eyed peas are perhaps most iconic for their modern associations with New Year’s. <span eid="Q1763911"> Hoppin’ John </span> is a popular rice, bean, and pork dish that brings good luck and prosperity for the New Year. It is often served with greens to symbolize wealth and is an absolute must for any southern New Year’s celebration. [^ref ] Enslaved workers developed Hoppin’ John out of traditional West African dishes. Thieboudienne (Q1810575), a classic Senegalese dish made similarly from black-eyed peas, rice, and ham, may be the base where the recipe originated. [^ref ] 
+Black-eyed peas are perhaps most iconic for their modern associations with New Year’s. <span eid="Q1763911"> Hoppin’ John </span> is a popular rice, bean, and pork dish that brings good luck and prosperity for the New Year. It is often served with greens to symbolize wealth and is an absolute must for any southern New Year’s celebration. [^ref ] Enslaved workers developed Hoppin’ John out of traditional West African dishes. <span eid="Q1810575"> Thieboudienne,</span> a classic Senegalese dish made similarly from black-eyed peas, rice, and ham, may be the base where the recipe originated. [^ref ] 
 <param ve-video 
        id="ELtVi9ZrvAA"
        title="Akara - A Fried Snack featuring Michael Twitty"
