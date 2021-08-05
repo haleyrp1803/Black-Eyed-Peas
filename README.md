@@ -131,7 +131,7 @@ Today, cowpeas are grown commercially in at least 33 countries,[^ref ] this wide
 ## Culinary History and Cultural Celebrations
 In the American South, the vibrant legacies of African culinary traditions preserved by enslaved peoples and their descendants define the region’s cuisine and have inspired countless delicious variations of black-eyed pea-based dishes. That recipe books such as the Southern Heritage Vegetables Cookbook have entire sections dedicated solely to pea recipes, in this case - eight of them black-eyed, speaks to their primacy. [^ref ] They are key ingredients for everything from stews to salads to savory bean and rice dishes.
 <param ve-image
-       label="Bean-based dishes have become a culinary tradition in many countries"
+       label="Many dishes use Black-Eyed Peas as a key ingredient."
        description="Image showing a bean stew"
        license="CC BY 2.0 via Wikimedia Commons"
        author="jeffreyw"
@@ -145,19 +145,42 @@ Black-eyed peas are perhaps most iconic for their modern associations with New Y
        
 On brutal American plantations, Hoppin’ John was not like it is today. The enslaved grew crops from Africa in their subsistence gardens for cooking. Whites saw black-eyed peas as a lowly food meant to feed livestock and the enslaved, and so they seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [^ref ] Enslaved women were often made to cook for the planter’s family as well as their own. This is how African foodstuffs like the black-eyed pea, mustard, collard greens, etc. were introduced, and eventually accepted into, the southern diet at large. By the 19th century, white women began including black recipes in their homemaker cookbooks, of course, without crediting the women who pioneered them. [^ref ]
 <param ve-image 
-       label="stand-in text"
-       description="stand-in text"
+       label="Hoppin' John"
+       description="Close cropped image of Hoppin' John"
        fit="contain"
-       license="stand-in text"
-       url="">
-
+       license="Creative Commons Attribution 2.0"
+       author="Kristen Taylor"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hoppin%27_John.jpg/640px-Hoppin%27_John.jpg">
+<param ve-image 
+       label="Hoppin' John"
+       description="Image of Hoppin' John"
+       fit="contain"
+       license="Creative Commons Attribution-Share Alike 4.0"
+       author="Lahti213"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hoppin_John.jpg/640px-Hoppin_John.jpg">
+<param ve-image 
+       label="Hoppin' John at Brenda's Meat & Three for good luck. San Francisco, CA."
+       description="Image of Hoppin' John"
+       fit="contain"
+       license="Creative Commons Attribution 2.0"
+       author="Kathy Drasky"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg/640px-Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg">
+       
 Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed feijoada “out of scarcity and poverty” made with the black-eyed peas used to feed plantation livestock boiled with discarded pork. [^ref ] Today, however, it is a special and celebratory meal for every level of society, “which requires multiple days to prepare and, served with rice and greens, constitutes an entire meal.”[^ref ] It is especially associated with Carnival and religious ceremonies, but Brazilians across the country eat it regularly outside of these settings as well. [^ref] 
 <param ve-image 
-       label="stand-in text"
-       description="stand-in text"
+       label="Feijoada"
+       description="Feijoada with rice, fried kale, cassava starch crisps (biscoito de polvilho), cassava flour (farinha), and a mix of olive oil, alcohol vinegar, tomatoes, onions and sometimes bell peppers called vinagrete."
        fit="contain"
-       license="stand-in text"
-       url="">
+       license="Creative Commons Attribution-Share Alike 4.0"
+       author="إيان"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/فيجوادا_feijoada.jpg/640px-فيجوادا_feijoada.jpg">
+<param ve-image 
+       label="Feijoada à brasileira"
+       description="Feijoada à brasileira"
+       fit="contain"
+       license="Creative Commons Attribution-Share Alike 4.0"
+       author="Bradleyzm"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_à_brasileira_-02.jpg/640px-Feijoada_à_brasileira_-02.jpg">
 
 For both Hoppin’ John and feijoada completa, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. That’s an overly simplistic view of a complex issue, however, as Southern cooking can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, and identity in southern food and <span eid="Q555997"> soul food,</span> with white perspectives usually being prioritized over black ones. [^ref ] 
 <param ve-image 
