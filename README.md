@@ -39,18 +39,7 @@ Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient cro
        author="Harry Rose via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Vigna_unguiculata_nodules1_%2810737516253%29.jpg">
 
-## A pea by many names
-The recording of these many monikers reveals much about the pea’s widespread use as well as the history of botanical study and its formation within various colonial empires. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. <span eid="Q1043"> Linnaeus (L.) </span>  gave this plant the scientific name _Dolichos unguiculatus_ in his <span eid="Q849308"> _Species Plantarum_ </span> of 1753 from a specimen from Barbados. More recently, taxonomists have been re-classifying the genus _Vigna_ and today all cultivated cowpeas are grouped under _Vigna unguiculata_ subsp._unguiculata_. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike. 	   
-<param ve-image fit="contain"
-       label="Vigna unguiculata, Franz von Scheidl, 1776"
-       description="A botanical illustration of black-eyed pea painted in 1776 by Franz von Scheidl"
-       author="Wellcome Collection" 
-       license="Public Domain"
-       url="https://iiif.wellcomecollection.org/image/V0042955ER/full/full/0/default.jpg">
 
-<param ve-iframe
-       label="Linnaeus' Species Plantarum page detailing Dolichos unguiculatus"
-       src=""https://books.google.co.uk/books?id=aHlVAAAAcAAJ&pg=PA725&output=embed" width=500 height=500>">
      
 		       
 ## An easy, useful crop
@@ -66,7 +55,7 @@ Genomic sequencing suggests that humans domesticated an earlier wild relative in
 
 Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in <span eid="Q190375"> historical linguistics </span> have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the <span eid="Q130251"> Bantu Expansions </span>. Comparing today’s languages with each other lets scientists reconstruct the languages of the past. Watch as the root for ‘cowpea,’ kunde, appears in languages across the continent.
 
-By 1500 BCE the cowpea had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent. Ancient Greek physician <span eid="Q297776"> Dioscorides </span> knew of this plant and includes it in his herbal _De Materia Medica_  dubbing the cowpea "phasiolos". This name referred to any sort of bean or pea (these terms used interchangeably in Dioscorides' time). The native range of the cowpea in Africa and its subsequent introduction across the world can be seen in this map.
+By 1500 BCE the cowpea had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent.  The native range of the cowpea in Africa and its subsequent introduction across the world can be seen in this map.
 <param ve-map zoom="2"
        title="Black-Eyed Pea Distribution"
        description="Vegetation zones, curtain compare images between way, way back, then against ca. 1000 BCE, 1000 CE, 2000 CE. Custom layer and/or animation of Africa where the word for cowpea in different-but-related languages appear on the map in the order of the approximate date to which they’ve been reconstructed.">
@@ -75,7 +64,7 @@ By 1500 BCE the cowpea had spread through North Africa and beyond: out to the Me
        
 
 ## Early Modern History
-As we’ve seen, cowpeas had been consumed for millennia, especially in the Mediterranean. Records of their consumption and use within Europe during the middle ages (X- X), however, are relatively scarce. This likely due to the bean's humble status as a coarse food for peasants and livestock. Indeed, surviving historical documetns, for example letters or works of art from this period, very often focus on the interests of wealthier individuals who would have thought themselves too refined to consume black-eyed peas in large quantities. Likewise, indiviuals consuming such beans would have likely lacked access to the funds or education to document their thoughts on the cowpea. This MORE HERE  many Northern European botanists were somewhat uninformed about the plant, their knowledge based on others’ descriptions or on specimens entering their collection in unfamiliar conditions. Flemish Botanist <span eid="Q333372"> Carolus Clusius’s </span> influential 1601 _Rariorum Plantarum Historia_ (History of Rare Plants), for example, refers to cowpea as _Phaseolus peregrinus IIII_. This connoted a bean from the Americas considered foreign to Europe (peregrinus meaning stranger or foreigner, from the Latin _peregre_, literally per- ‘through’ + ager ‘field').Despite the millennia-old European presence of the cowpea, it was now understood there as an itinerant body. Informing such ideas was Dutchman Pieter de Marees’ 1602 book describing West Africa, which included an image of the black-eyed pea growing in the landscape.* 
+As we’ve seen, cowpeas had been consumed for millennia, especially in the Mediterranean. Records of their consumption and use within Europe during the middle ages (X- X), however, are relatively scarce. This likely due to the bean's humble status as a coarse food for peasants and livestock. Indeed, surviving historical documetns, for example letters or works of art from this period, very often focus on the interests of wealthier individuals who would have thought themselves too refined to consume black-eyed peas in large quantities. Likewise, indiviuals consuming such beans would have likely lacked access to the funds or education to document their thoughts on the cowpea. This MORE HERE  Despite the millennia-old European presence of the cowpea, it was now understood there as an itinerant body. Informing such ideas was Dutchman Pieter de Marees’ 1602 book describing West Africa, which included an image of the black-eyed pea growing in the landscape.* 
 
 <param ve-image
        label="The black-eyed pea is here labeled as letter ‘e’. Indiae Orientalis pars VI. Veram et historicam descriptionem auriferi regni Guineae, ad Africam pertinentis, quod alias littus de Mina vocant, 1604"
@@ -98,21 +87,11 @@ Despite the changing perceptions of the cowpea from familiar to foreign, the pea
        author="tbd"
        url = "https://ia600504.us.archive.org/BookReader/BookReaderImages.php?id=hortusmedicusedi00suth&itemPath=%2F26%2Fitems%2Fhortusmedicusedi00suth&server=ia600504.us.archive.org&page=n294_w329" >
 <!-- Here is the url for the BHL site url="https://www.biodiversitylibrary.org/item/123335#pageimage/294/mode/1up"> -->
-       
-       
-In Clusius’s remarks on kidney beans, he notes that he saw a drawing of the plant in the <span eid="Q699363"> 'Juliana Anicia Codex' </span> — the oldest surviving copy of Dioscorides’ herbal _De Materia Medica_. He notes that the Spanish have knowledge of the plant. <span eid="Q7322"> Christopher Columbus </span> observed kidney beans in the Americas — a white variety with a black center - which was easily confused with the black-eyed pea. Such ideas circulated throughout the seventeenth century. 
-<param ve-image fit="cover"
-       label="Vigna unguiculata from Codex Aniciae Julianae c.512 AD"
-       description="An illustration from folio 370v of the black-eyed pea plant from the Vienna Dioscorides of 512 AD, Österreichische Nationalbibliothek, Vienna"
-       license="Public Domain via Wikipedia"
-       url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Phasiolos_370v_Dioscoride_Vienne.png">
-       
-For example, in a 1636 edition of English botanist <span eid="Q1333338"> John Gerard’s _Herball_ </span>, or _Generall historie of plants_, the author references Phaseolus peregrinus IIII, describing it as the “Indian Kidney bean with small white fruit.”* 
+        
+<!--I copied all sections that were consolidated into the timeline and still have that code if desired-->
+<param ve-iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc&font=Default&lang=en&initial_zoom=3&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'">
 
-<param ve-iframe 
-       fit="cover"
-       src="https://www.archive.org/download/herballorgeneral1633gera/page/n1258_w392">
-
+## World Traveler 
 In fact, the cowpea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the <span eid="Q767253"> ‘Columbian Exchange’</span>. The African cowpea is thought to have arrived in the Americas around 1500, though this has been the subject of much debate.* What is accepted, however, is that the cowpea came to the Americas as a result of the trade of enslaved Africans. Black-eyed peas were one of the primary foodstuffs during the trans-Atlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman <span eid="Q310326"> Sir Hans Sloane </span> notes the pea in Jamaica around 1687 and created this plant herbarium specimen there. The cowpea was in Virginia by at least 1666, and Florida by around 1700. 
 
 <param ve-plant-specimen
