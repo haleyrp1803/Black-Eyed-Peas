@@ -113,7 +113,7 @@ Meanwhile, on the other side of the world, in Japan, a copy of the extraordinary
 
 <param ve-image
        fit="contain"
-       label="Cowpea in the Seikei Zuetsu"
+       label="Cowpea in the Seikei Zuetsu, Leiden University Library"
        license="CC BY-SA 4.0 via Leiden University Library, Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Leiden_University_Library_-_Seikei_Zusetsu_vol._18%2C_page_032_-_%E7%99%BD%E4%B8%8D%E8%80%81_-_Vigna_unguiculata_%28L.%29_Walp._-_cv._-_group_Sesquipedalis%2C_1804.jpg">
 
