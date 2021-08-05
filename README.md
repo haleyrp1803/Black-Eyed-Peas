@@ -135,9 +135,9 @@ In the American South, the vibrant legacies of African culinary traditions prese
 
 Black-eyed peas are perhaps most iconic for their modern associations with New Year’s. <span eid="Q1763911"> Hoppin’ John </span> is a popular rice, bean, and pork dish that brings good luck and prosperity for the New Year. It is often served with greens to symbolize wealth and is an absolute must for any southern New Year’s celebration. [^ref ] Enslaved workers developed Hoppin’ John out of traditional West African dishes. <span eid="Q1810575"> Thieboudienne,</span> a classic Senegalese dish made similarly from black-eyed peas, rice, and ham, may be the base where the recipe originated. [^ref ] 
 <param ve-video 
-       id="ELtVi9ZrvAA"
-       title="Akara - A Fried Snack featuring Michael Twitty"
-       author="Townsends">
+       id="v7HwKxDus9E"
+       title="Tiebou yapp niébé"
+       author="LA CUISINE SÉNÉGALAISE DE ASTOU">
        
 On brutal American plantations, Hoppin’ John was not like it is today. The enslaved grew crops from Africa in their subsistence gardens for cooking. Whites saw black-eyed peas as a lowly food meant to feed livestock and the enslaved, and so they seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [^ref ] Enslaved women were often made to cook for the planter’s family as well as their own. This is how African foodstuffs like the black-eyed pea, mustard, collard greens, etc. were introduced, and eventually accepted into, the southern diet at large. By the 19th century, white women began including black recipes in their homemaker cookbooks, of course, without crediting the women who pioneered them. [^ref ] 
 
