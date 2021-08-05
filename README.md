@@ -84,6 +84,8 @@ Although they were not a high status item by the time Carracci's peasant sat dow
 <!--if needed I have saved all the sections of code that I removed to create the timeline-EmK-->
 <param ve-iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc&font=Default&lang=en&initial_zoom=3&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'">
 
+<!--Emily the url for the Clusius illustration is https://www.archive.org/download/mobot31753000810538/page/n599_w613-->
+
 ## World Traveller 
 In fact, the cowpea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the <span eid="Q767253"> ‘Columbian Exchange’</span>. The African cowpea is thought to have arrived in the Americas around 1500, though this has been the subject of much debate.* What is accepted, however, is that the cowpea came to the Americas as a result of the trade of enslaved Africans. Cowpeas were one of the primary foodstuffs during the trans-Atlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman <span eid="Q310326"> Sir Hans Sloane </span> notes the pea in Jamaica around 1687 and created this plant specimen there as part of his large Jamaican herbarium. The cowpea was in Virginia by at least 1666, and Florida by around 1700. 
 
