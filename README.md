@@ -85,6 +85,8 @@ Although they were not a high status item by the time Carracci's peasant sat dow
 <param ve-iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc&font=Default&lang=en&initial_zoom=3&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'">
 
 <!--Emily the url for the Clusius illustration is https://www.archive.org/download/mobot31753000810538/page/n599_w613-->
+<!--add Edinburgh catalogue page in for the 1600s?-->
+<!--is Linnaeus page working ok?-->
 
 ## World Traveller 
 In fact, the cowpea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the <span eid="Q767253"> ‘Columbian Exchange’</span>. The African cowpea is thought to have arrived in the Americas around 1500, though this has been the subject of much debate.* What is accepted, however, is that the cowpea came to the Americas as a result of the trade of enslaved Africans. Cowpeas were one of the primary foodstuffs during the trans-Atlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman <span eid="Q310326"> Sir Hans Sloane </span> notes the pea in Jamaica around 1687 and created this plant specimen there as part of his large Jamaican herbarium. The cowpea was in Virginia by at least 1666, and Florida by around 1700. 
@@ -97,8 +99,7 @@ In fact, the cowpea was one of thousands of organisms that crossed from Eurasia 
 The hard labor of enslaved peoples ensured that the black-eyed pea or cowpea was grown and cultivated as a crop largely for livestock throughout the United States, most especially in the South. Black-eyed peas were also a fixture in gardens of enslaved peoples, these beans a hearty supplement to the meagre meals allotted on plantations. The cowpea became “the third most important food crop produced on Carolina plantations between 1730 and 1776.”* <span eid="Q11812"> Thomas Jefferson </span> and <span eid="Q23"> George Washington </span> both had black-eyed peas planted on their expansive plantations, and Washington corresponded with friends and acquaintances about growth and cultivation of the plant, which in a [letter of 1787](https://founders.archives.gov/documents/Washington/04-05-02-0442) he calls "small, and round black eyed Pease called the Gentlemans Pea". By the nineteenth century black-eyed peas achieved new cultural cache and graced the tables of the white ruling class. Enslaved cooks played an important role in bringing this food into rarefied homes.
 
 <param ve-image 
-       label="Letter from George Washington to Charles Carter 1787"
-       author="US Library of Congress"
+       label="Letter from George Washington to Charles Carter, 1787, US Library of Congress"
        url="https://tile.loc.gov/storage-services/master/mss/mgw/mgw2/014/2340228.jpg">
 
 ## Subtitle
