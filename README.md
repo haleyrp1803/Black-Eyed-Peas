@@ -54,11 +54,15 @@ Cowpeas grow best in semi-arid conditions, poor soils and with little help. They
 Genomic sequencing suggests that humans domesticated an earlier wild relative independently in two regions: in West Africa, with vegetation zones [1] that change based on latitude, and East Africa, with vegetation zones that change based on altitude. Even to the present day, <span eid="Q55613"> ecotones </span> are valuable sites for settlement because they allow for mixed food systems: wild gathering, hunting, fishing and aquaculture, keeping small livestock and/or building larger herds, <span eid="Q397350"> agroforestry </span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.  Because cowpeas mature quickly and produce reliably with only a little land and labor, they are useful crops the whole year round!
 
 Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in <span eid="Q190375"> historical linguistics </span> have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the <span eid="Q130251"> Bantu Expansions </span>. Comparing today’s languages with each other lets scientists reconstruct the languages of the past. Watch as the root for ‘cowpea,’ kunde, appears in languages across the continent.
+<param ve-map zoom="2"
+       title="Bantu Language Expansion"
+       description="Vegetation zones, curtain compare images between way, way back, then against ca. 1000 BCE, 1000 CE, 2000 CE. Custom layer and/or animation of Africa where the word for cowpea in different-but-related languages appear on the map in the order of the approximate date to which they’ve been reconstructed.">
+<param ve-map-layer geojson active>
 
 By 1500 BCE the cowpea had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent.  The native range of the cowpea in Africa and its subsequent introduction across the world can be seen in this map.
 <param ve-map zoom="2"
        title="Black-Eyed Pea Distribution"
-       description="Vegetation zones, curtain compare images between way, way back, then against ca. 1000 BCE, 1000 CE, 2000 CE. Custom layer and/or animation of Africa where the word for cowpea in different-but-related languages appear on the map in the order of the approximate date to which they’ve been reconstructed.">
+       description="The map shows the areas where black-eyed peas are cultivated today. They originated in the blue territories in Africa and were introduced ot the green territories across the globe.">
 <param ve-map-layer geojson active
        url="Distribution_5.geojson">
        
@@ -124,7 +128,7 @@ Today, cowpeas are grown commercially in at least 33 countries,[^ref ] this wide
        author="PBS NewsHour">
 
 
-## Cross-Cultural Celebrations
+## Culinary History and Cultural Celebrations
 In the American South, the vibrant legacies of African culinary traditions preserved by enslaved peoples and their descendants define the region’s cuisine and have inspired countless delicious variations of black-eyed pea-based dishes. That recipe books such as the Southern Heritage Vegetables Cookbook have entire sections dedicated solely to pea recipes, in this case - eight of them black-eyed, speaks to their primacy. [^ref ] They are key ingredients for everything from stews to salads to savory bean and rice dishes.
 <param ve-image
        label="Bean-based dishes have become a culinary tradition in many countries"
@@ -139,11 +143,29 @@ Black-eyed peas are perhaps most iconic for their modern associations with New Y
        title="Tiebou yapp niébé"
        author="LA CUISINE SÉNÉGALAISE DE ASTOU">
        
-On brutal American plantations, Hoppin’ John was not like it is today. The enslaved grew crops from Africa in their subsistence gardens for cooking. Whites saw black-eyed peas as a lowly food meant to feed livestock and the enslaved, and so they seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [^ref ] Enslaved women were often made to cook for the planter’s family as well as their own. This is how African foodstuffs like the black-eyed pea, mustard, collard greens, etc. were introduced, and eventually accepted into, the southern diet at large. By the 19th century, white women began including black recipes in their homemaker cookbooks, of course, without crediting the women who pioneered them. [^ref ] 
+On brutal American plantations, Hoppin’ John was not like it is today. The enslaved grew crops from Africa in their subsistence gardens for cooking. Whites saw black-eyed peas as a lowly food meant to feed livestock and the enslaved, and so they seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [^ref ] Enslaved women were often made to cook for the planter’s family as well as their own. This is how African foodstuffs like the black-eyed pea, mustard, collard greens, etc. were introduced, and eventually accepted into, the southern diet at large. By the 19th century, white women began including black recipes in their homemaker cookbooks, of course, without crediting the women who pioneered them. [^ref ]
+<param ve-image 
+       label="stand-in text"
+       description="stand-in text"
+       fit="contain"
+       license="stand-in text"
+       url="">
 
 Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed feijoada “out of scarcity and poverty” made with the black-eyed peas used to feed plantation livestock boiled with discarded pork. [^ref ] Today, however, it is a special and celebratory meal for every level of society, “which requires multiple days to prepare and, served with rice and greens, constitutes an entire meal.”[^ref ] It is especially associated with Carnival and religious ceremonies, but Brazilians across the country eat it regularly outside of these settings as well. [^ref] 
+<param ve-image 
+       label="stand-in text"
+       description="stand-in text"
+       fit="contain"
+       license="stand-in text"
+       url="">
 
 For both Hoppin’ John and feijoada completa, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. That’s an overly simplistic view of a complex issue, however, as Southern cooking can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, and identity in southern food and <span eid="Q555997"> soul food,</span> with white perspectives usually being prioritized over black ones. [^ref ] 
+<param ve-image 
+       label="stand-in text"
+       description="stand-in text"
+       fit="contain"
+       license="stand-in text"
+       url="">
 
 ## A Colonial Crop
 Although black-eyed pea was not grown as a crop in Britain (it being far too cold and wet), its inclusion in the [Economic Botany Collection](https://www.kew.org/science/collections-and-resources/collections/economic-botany-collection) of the <span eid="Q18748726"> Royal Botanic Gardens Kew </span> is telling.  Here, over a hundred different collections of [seeds](https://ecbot.science.kew.org/main_image.php?imageid=EBC_68901), pods, ‘fibre’ and even a [model](https://ecbot.science.kew.org/read_ecbot.php?catno=61536&search_term=vigna%20unguiculata&search_type=name&imagechecklist=Images) of cowpea are kept, mean that it was obviously studied as a useful colonial crop plant. Donations are as diverse as from Nigeria, India, Laos, China and Japan, but also from imperial exhibitions where plant products were displayed such as the <span eid="Q5148408"> Colonial and India Exhibition of 1886 </span>, the Japan/British Exhibition of 1910, the British Industries Fair of 1930, as well as the <span eid="Q10534945"> India Museum </span>, the Imperial Institute, the Jamaica Agricultural Society, and colonial expeditions including <span eid="Q183567"> Dr WB Baikie's </span> Niger Expedition of 1859. One undated individual collection was even donated by the HRH the Prince of Wales, from the ‘East Indies’. 
