@@ -79,16 +79,9 @@ Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean
        license="Public Domain via Wikipedia"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carracci_-_Der_Bohnenesser.jpeg/1295px-Carracci_-_Der_Bohnenesser.jpeg">
        
-Despite the changing perceptions of the cowpea from familiar to foreign, the pea also grew in some gardens throughout Northern Europe. A 1683 record of Edinburgh’s <span eid="Q7189541"> Physical Garden </span>, for example, contains a Phaseolus described as a “small white Kidney-bean with a black spot in the middle.”*       
-<param ve-image 
-       fit="cover"
-       label="tbd"
-       license="tbd"
-       author="tbd"
-       url = "https://ia600504.us.archive.org/BookReader/BookReaderImages.php?id=hortusmedicusedi00suth&itemPath=%2F26%2Fitems%2Fhortusmedicusedi00suth&server=ia600504.us.archive.org&page=n294_w329" >
-<!-- Here is the url for the BHL site url="https://www.biodiversitylibrary.org/item/123335#pageimage/294/mode/1up"> -->
+Although they were not a high status item by the time Carracci's peasant sat down for his meal, authors since ancient times have described cowpeas in texts on plants and the natural world. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification. More recently, taxonomists have been re-classifying the genus Vigna and today all cultivated cowpeas are grouped under <i>Vigna unguiculata</> subsp.unguiculata. However, it was well known as the cowpea throughout ancient Europe and Asia, and was understood as a nutritious source of food for humans and livestock alike.
         
-<!--I copied all sections that were consolidated into the timeline and still have that code if desired-->
+<!--if needed I have saved all the sections of code that I removed to create the timeline-EmK-->
 <param ve-iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc&font=Default&lang=en&initial_zoom=3&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'">
 
 ## World Traveler 
