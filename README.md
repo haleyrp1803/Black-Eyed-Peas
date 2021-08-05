@@ -212,7 +212,7 @@ Singh, B.B., et al (eds). _Advances in Cowpea Research_. International Institute
 
 
 
-	
+<!--Konngjaimun et al https://pubmed.ncbi.nlm.nih.gov/22419763/-->
 
 
 
