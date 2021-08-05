@@ -145,12 +145,12 @@ Black-eyed peas are perhaps most iconic for their modern associations with New Y
        
 On brutal American plantations, Hoppin’ John was not like it is today. The enslaved grew crops from Africa in their subsistence gardens for cooking. Whites saw black-eyed peas as a lowly food meant to feed livestock and the enslaved, and so they seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [^ref ] Enslaved women were often made to cook for the planter’s family as well as their own. This is how African foodstuffs like the black-eyed pea, mustard, collard greens, etc. were introduced, and eventually accepted into, the southern diet at large. By the 19th century, white women began including black recipes in their homemaker cookbooks, of course, without crediting the women who pioneered them. [^ref ]
 <param ve-image 
-       label="Hoppin' John"
-       description="Close cropped image of Hoppin' John"
+       label="Hoppin' John at Brenda's Meat & Three for good luck. San Francisco, CA."
+       description="Image of Hoppin' John"
        fit="contain"
        license="Creative Commons Attribution 2.0"
-       author="Kristen Taylor"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hoppin%27_John.jpg/640px-Hoppin%27_John.jpg">
+       author="Kathy Drasky"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg/640px-Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg">
 <param ve-image 
        label="Hoppin' John"
        description="Image of Hoppin' John"
@@ -159,13 +159,13 @@ On brutal American plantations, Hoppin’ John was not like it is today. The ens
        author="Lahti213"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hoppin_John.jpg/640px-Hoppin_John.jpg">
 <param ve-image 
-       label="Hoppin' John at Brenda's Meat & Three for good luck. San Francisco, CA."
-       description="Image of Hoppin' John"
+       label="Hoppin' John"
+       description="Close cropped image of Hoppin' John"
        fit="contain"
        license="Creative Commons Attribution 2.0"
-       author="Kathy Drasky"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg/640px-Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg">
-       
+       author="Kristen Taylor"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hoppin%27_John.jpg/640px-Hoppin%27_John.jpg">
+  
 Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed feijoada “out of scarcity and poverty” made with the black-eyed peas used to feed plantation livestock boiled with discarded pork. [^ref ] Today, however, it is a special and celebratory meal for every level of society, “which requires multiple days to prepare and, served with rice and greens, constitutes an entire meal.”[^ref ] It is especially associated with Carnival and religious ceremonies, but Brazilians across the country eat it regularly outside of these settings as well. [^ref] 
 <param ve-image 
        label="Feijoada"
@@ -184,11 +184,12 @@ Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has 
 
 For both Hoppin’ John and feijoada completa, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. That’s an overly simplistic view of a complex issue, however, as Southern cooking can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, and identity in southern food and <span eid="Q555997"> soul food,</span> with white perspectives usually being prioritized over black ones. [^ref ] 
 <param ve-image 
-       label="stand-in text"
-       description="stand-in text"
+       label="P & C Soul Food Deli, Shreveport, Louisiana"
+       description="P & C Soul Food Deli, Shreveport, Louisiana"
        fit="contain"
-       license="stand-in text"
-       url="">
+       license="Creative Commons Attribution 2.0"
+       author="Steve Snodgrass"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Soul_Food_Deli_Shreveport.jpg/640px-Soul_Food_Deli_Shreveport.jpg">
 
 ## A Colonial Crop
 Although black-eyed pea was not grown as a crop in Britain (it being far too cold and wet), its inclusion in the [Economic Botany Collection](https://www.kew.org/science/collections-and-resources/collections/economic-botany-collection) of the <span eid="Q18748726"> Royal Botanic Gardens Kew </span> is telling.  Here, over a hundred different collections of [seeds](https://ecbot.science.kew.org/main_image.php?imageid=EBC_68901), pods, ‘fibre’ and even a [model](https://ecbot.science.kew.org/read_ecbot.php?catno=61536&search_term=vigna%20unguiculata&search_type=name&imagechecklist=Images) of cowpea are kept, mean that it was obviously studied as a useful colonial crop plant. Donations are as diverse as from Nigeria, India, Laos, China and Japan, but also from imperial exhibitions where plant products were displayed such as the <span eid="Q5148408"> Colonial and India Exhibition of 1886 </span>, the Japan/British Exhibition of 1910, the British Industries Fair of 1930, as well as the <span eid="Q10534945"> India Museum </span>, the Imperial Institute, the Jamaica Agricultural Society, and colonial expeditions including <span eid="Q183567"> Dr WB Baikie's </span> Niger Expedition of 1859. One undated individual collection was even donated by the HRH the Prince of Wales, from the ‘East Indies’. 
@@ -197,7 +198,7 @@ Although black-eyed pea was not grown as a crop in Britain (it being far too col
        label="The Colonial and India Exhibition of 1886, Jamaica stand"
        description="An engraving showing the Jamaica stand at the 1886 Colonial and India Exhibition in London"
        fit="contain"
-       license="public domain"
+       license="Public Domain"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Jamaica_at_the_Colonial_and_Indian_Exhibition%2C_London_1886.jpg">
 
 ## Modern production
@@ -221,6 +222,13 @@ The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be
        url="https://upload.wikimedia.org/wikipedia/commons/6/67/Wild_and_cultivated_cowpea_%287856427546%29.jpg">
 
 In this pursuit of a meatless diet, black-eyed peas and other legumes are being increasingly utilized as health foods in the growing diet culture and increasing veganism of the West. Some health-focused cookbooks are regional, aiming to transform, for example, traditional southern recipes like black-eyed peas with pork to leaner, lower-sodium alternatives. Others combine recipes across many cultures, like _The Great Vegan Bean Book_, which aims to give vegans more options for flavorful meatless protein. These types of recipe books often marry recipes inspired by the American South with Indian, African, and Caribbean cuisines.
+<param ve-image 
+       label="FDA Image of Fiber-rich Foods for Kids"
+       description="Like adults, youngsters need dietary fiber. By helping our digestive system work effectively, fiber plays an important role in maintaining good health. Great natural sources of fiber include: Beans, like navy, pinto, kidney, and black or white. Peas, like split peas, chickpeas, and black-eyed peas. Fruit, like pears, raspberries and prunes. Vegetables, like spinach, carrots, and broccoli. Whole grain cereal, whole grain bread, and whole grain pasta."
+       fit="contain"
+       license="Public Domain"
+       author="The U.S. Food and Drug Administration"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kids_‘n_Fiber_%286120828233%29.jpg/640px-Kids_‘n_Fiber_%286120828233%29.jpg">
 
 ## Crop wild relatives
 Even though the cowpea is considered a very hardy crop, it may struggle as temperatures rise and rains become more erratic. Crop breeding can try to alleviate future potential issues and make the cowpea even more resilient, while perhaps also making them more digestible and nutritious. Hardy wild <span eid="Q1141015"> relatives </span> of the cowpea may hold genes or genetic traits that will allow this crop to survive hotter, drier conditions, and perhaps be more pest-resistant.[^ref  ] If these traits can be bred into commercial varieties then the cowpea may be one of the answers to the many agricultural challenges of the future. Over recent decades significant resources have been put into researching the cowpea and its potential. The Crop Wild Relatives Project is one such project in partnership with 33 countries [^ref ] and global seed banks including the International Institute of Tropical Agriculture (IITA) and <span eid="Q2603353"> Kew’s Millennium Seed Bank </span>. There are currently eleven primary wild relatives of the cowpea are being researched. Southern and western Africa are hotspots for wild cowpea genetic variation. The importance of such relatives demonstrates how vital it is to protect wild plants and wild habitats for the future. In a telling [quote](https://www.cwrdiversity.org/cowpea/) from a Nigerian cowpea breeder named Ousame Boukar: “The cowpea has nourished people for many centuries, but now it needs a hand to ensure it can continue to be _an unfailing friend_ even while the climate crisis is affecting production.”
