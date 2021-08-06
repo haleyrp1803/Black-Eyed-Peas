@@ -143,7 +143,7 @@ Black-eyed peas are perhaps most iconic for their modern associations with New Y
        title="Tiebou yapp niébé"
        author="LA CUISINE SÉNÉGALAISE DE ASTOU">
        
-On brutal American plantations, Hoppin’ John was not like it is today. The enslaved grew crops from Africa in their subsistence gardens for cooking. Whites saw black-eyed peas as a lowly food meant to feed livestock and the enslaved, and so they seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [^ref ] Enslaved women were often made to cook for the planter’s family as well as their own. This is how African foodstuffs like the black-eyed pea, mustard, collard greens, etc. were introduced, and eventually accepted into, the southern diet at large. By the 19th century, white women began including black recipes in their homemaker cookbooks, of course, without crediting the women who pioneered them. [^ref ]
+On brutal American plantations, Hoppin’ John was not like it is today. The enslaved grew crops from Africa in their subsistence gardens for cooking. The white ruling class saw black-eyed peas as a lowly food meant to feed livestock and the enslaved, and so they seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [^ref ] Enslaved women were often made to cook for the planter’s family as well as their own. This is how African foodstuffs like the black-eyed pea, mustard, collard greens, etc. were introduced, and eventually accepted into, the Southern diet at large. By the 19th century, white women began including Black recipes in their homemaker cookbooks, of course, without crediting the women who pioneered them. [^ref ]
 <param ve-image 
        label="Hoppin' John at Brenda's Meat & Three for good luck. San Francisco, CA."
        description="Image of Hoppin' John"
@@ -166,7 +166,7 @@ On brutal American plantations, Hoppin’ John was not like it is today. The ens
        author="Kristen Taylor"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hoppin%27_John.jpg/640px-Hoppin%27_John.jpg">
   
-Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed feijoada “out of scarcity and poverty” made with the black-eyed peas used to feed plantation livestock boiled with discarded pork. [^ref ] Today, however, it is a special and celebratory meal for every level of society, “which requires multiple days to prepare and, served with rice and greens, constitutes an entire meal.”[^ref ] It is especially associated with Carnival and religious ceremonies, but Brazilians across the country eat it regularly outside of these settings as well. [^ref] 
+Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ “out of scarcity and poverty” made with the black-eyed peas used to feed plantation livestock boiled with discarded pork. [^ref ] Today, however, it is a special and celebratory meal for every level of society, “which requires multiple days to prepare and, served with rice and greens, constitutes an entire meal.”[^ref ] It is especially associated with Carnival and religious ceremonies, but Brazilians across the country eat it regularly outside of these settings as well. [^ref] 
 <param ve-image 
        label="Feijoada"
        description="Feijoada with rice, fried kale, cassava starch crisps (biscoito de polvilho), cassava flour (farinha), and a mix of olive oil, alcohol vinegar, tomatoes, onions and sometimes bell peppers called vinagrete."
@@ -182,7 +182,7 @@ Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has 
        author="Bradleyzm"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_à_brasileira_-02.jpg/640px-Feijoada_à_brasileira_-02.jpg">
 
-For both Hoppin’ John and feijoada completa, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. That’s an overly simplistic view of a complex issue, however, as Southern cooking can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, and identity in southern food and <span eid="Q555997"> soul food,</span> with white perspectives usually being prioritized over black ones. [^ref ] 
+For both Hoppin’ John and _feijoada completa_, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. That’s an overly simplistic view of a complex issue, however, as Southern cooking can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, and identity in Southern food and <span eid="Q555997"> Soul food,</span> with white perspectives usually being unjustly prioritized over Black ones. [^ref ] 
 <param ve-image 
        label="P & C Soul Food Deli, Shreveport, Louisiana"
        description="P & C Soul Food Deli, Shreveport, Louisiana"
