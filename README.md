@@ -55,7 +55,7 @@ Cowpeas grow best in semi-arid conditions, poor soils and with little help. They
 -->
 
 <param ve-iframe
-       label="Filler for interactive Black-Eyed Pea image/game"
+       label="Interactive Black-Eyed Pea Diagragm"
        id="game_drop"
        src="https://haleyrp1803.itch.io/black-eyed-peas-interactive-diagram"
        allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr">
