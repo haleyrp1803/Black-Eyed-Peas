@@ -56,9 +56,7 @@ Cowpeas grow best in semi-arid conditions, poor soils and with little help. They
 
 <param ve-iframe
        label="Interactive Black-Eyed Pea Diagragm"
-       id="game_drop"
        src="https://haleyrp1803.itch.io/black-eyed-peas-interactive-diagram"
-       allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr">
 
 ## Food in the Deep Past <!--images still to go in-->
 Genomic sequencing suggests that humans domesticated an earlier wild relative independently in two regions: in West Africa, with vegetation zones [1] that change based on latitude, and East Africa, with vegetation zones that change based on altitude. Even to the present day, <span eid="Q55613"> ecotones </span> are valuable sites for settlement because they allow for mixed food systems: wild gathering, hunting, fishing and aquaculture, keeping small livestock and/or building larger herds, <span eid="Q397350"> agroforestry </span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.  Because cowpeas mature quickly and produce reliably with only a little land and labor, they are useful crops the whole year round!
