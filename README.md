@@ -88,7 +88,7 @@ Carraci was not the only artist to depict beans or peas. Artist throughout Europ
        label="Sumer"
        description="Painting"
        license="Public Domain via Wikipedia"
-       url="https://commons.wikimedia.org/wiki/File:Giuseppe_Arcimboldo_-_Summer_-_WGA00811.jpg#/media/File:Giuseppe_Arcimboldo_-_Summer_-_WGA00811.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/d/df/Giuseppe_Arcimboldo_-_Summer_-_WGA00811.jpg">
 
 
 This is not say that such plants were not also understood as work-a-day food for laborining classes. Indeed, peapods became synonymous with male genitalia and the term "shelling peas" became a euphamism for sexual intercourse.* The fresh green pea, however, was also a foot for the elite, and they deocrated their homes and gardens accordingly. Seventeenth-century virtuoso wood carver Grinling Gibbons produced beautifully ellaborate carved wood panelling for British aristocracy, including King Wilam and Queen Mary. The aritst famously included nestled a peapod in many of his works, this his signature motif.
