@@ -131,8 +131,8 @@ The hard labor of enslaved peoples ensured that the black-eyed pea or cowpea was
 
 ## Subtitle
 
-Throughout the <span eid="Q8676"> Civil War </span>, cowpeas remained an important food throughout the southern U.S. In the late nineteenth century, American <span eid="Q2787508"> subsistence farmers </span> were encouraged to grow cowpea even if their local climate meant they didn’t get an abundant crop of beans. Its usefulness as a soil improver, for erosion control, and as a nutritious fodder for livestock meant that this easy-to-grow crop was a valuable addition to the US farming landscape. Noted American scientist and innovative proponet of crop rotations, George Washington Carver<span eid="Q296898">--who was enslaved at birth in Missour in 1864--urged farmers in the American south to plant black-eyed peas to help replenish soil depleted by cotton farming. 
-<param ve-ifram
+Throughout the <span eid="Q8676"> Civil War </span>, cowpeas remained an important food throughout the southern U.S. In the late nineteenth century, American <span eid="Q2787508"> subsistence farmers </span> were encouraged to grow cowpea even if their local climate meant they didn’t get an abundant crop of beans. Its usefulness as a soil improver, for erosion control, and as a nutritious fodder for livestock meant that this easy-to-grow crop was a valuable addition to the US farming landscape. Noted American scientist and innovative proponet of crop rotations, <span eid="Q296898">George Washington Carver--who was enslaved at birth in Missour in 1864--urged farmers in the American south to plant black-eyed peas to help replenish soil depleted by cotton farming. 
+<param ve-iframe
        src="https://archive.org/details/CAT31355486/page/n2/mode/1up">
 	
 
