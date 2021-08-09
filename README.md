@@ -95,8 +95,7 @@ Seventeenth-century virtuoso wood carver Grinling Gibbons produced beautifully e
        label="vase"
        description="Painting"
        license="Public Domain via Wikipedia"
-       url="https://www.nga.gov/collection/art-object-page.46097.html">
-
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Jan_Davidsz_de_Heem_-_Vase_of_Flowers_-_Google_Art_Project.jpg">
 
 The Despite the millennia-old European presence of the cowpea, it was now understood there as an itinerant body. Informing such ideas were widely circultated printed books, often containing illustrations, written by European travellers visiting Africa, Asia, and the Americas. Their observations were soon understood throughout Europe as factual accounts of various peoples, places, and plants, though the information contained in these volumes was in reality not always accurate. For example, Dutchman Pieter de Marees’ 1602 book describing West Africa shows the black-eyed pea in a landscape which, while meant to represent Africa, is actually an imaginary setting. We see people and alongside plants that while native to Africa would not have grown in such close proximity.* The viewer is meant to elide the black-eyed pea with Africa's geography and peoples, this distinction diminishing the crop's long history ibeyond Africa while also revealing Europe's increasingly myopic gaze upon the rest of the world. 
 
