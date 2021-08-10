@@ -267,27 +267,27 @@ Even though the cowpea is considered a very hardy crop, it may struggle as tempe
 	
 	
 ## References
-[^ref71]: kjdhf j,rfl
-[^ref72]:df gd reg trgtrsgtg
-[^ref73]:grtgkjfkdjlfnelv
-[^ref74]:gr grtgkjfkdjlfnelv
-[^ref75]:grtgkjfkdjlfnelv
-[^ref76]:grtgkjfkdjlfnelv
-[^ref77]:grtgkjfkdjlfnelv
-[^ref78]:grtgkjfkdjlfnelv
-[^ref79]:grtgkjfkdjlfnelv
-[^ref80]:grtgkjfkdjlfnelv
-[^ref81]:,ksjfk fheriuehfrlk
-[^ref82]:df gd reg trgtrsgtg
-[^ref83]:grtgkjfkdjlfnelv
-[^ref84]:gr grtgkjfkdjlfnelv
-[^ref85]:grtgkjfkdjlfnelv
-[^ref86]:grtgkjfkdjlfnelv
-[^ref87]:grtgkjfkdjlfnelv
-[^ref88]:grtgkjfkdjlfnelv
-[^ref89]:grtgkjfkdjlfnelv
+[^ref71]: Kew Science, “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science,” Plants of the World Online, accessed July 12, 2021, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2.
+[^ref72]: "Afroculinaria – Exploring Culinary Traditions of Africa, African America and the African Diaspora.” Accessed July 23, 2021. https://afroculinaria.com/.
+[^ref73]: Ibid.
+[^ref74]: The Southern Heritage Vegetables Cookbook (Birmingham, Ala. : Oxmoor House, 1983), http://archive.org/details/southernheritage0000unse.
+[^ref75]: Michael W. Twitty, “Why Black Eyed Peas? Why Greens?,” Afroculinaria (blog), January 1, 2012, https://afroculinaria.com/2012/01/01/why-black-eyed-peas-why-greens/.
+[^ref76]: Harris, Jessica B. "Prosperity Starts with a Pea." New York Times (2010): 368-370.
+[^ref77]: 1Olivia Ware Terenzio. “Feijoada and Hoppin’ John: Dishing the African Diaspora in Brazil and the United States.” Southern Cultures 25 4 (2019): 158–75.
+[^ref78]: Ibid.
+[^ref79]: Ibid.
+[^ref80]: Sarah Rutledge. The Carolina Housewife. Charleston, South Carolina: J. Russell, 1855. https://www.loc.gov/item/07028873/.
+[^ref81]: Wilk, Richard, and Livia Barbosa. Rice and Beans: A Unique Dish in a Hundred Places. Berg, 2012.
+[^ref82]: Ibid.
+[^ref83]: Olivia Ware Terenzio. “Feijoada and Hoppin’ John: Dishing the African Diaspora in Brazil and the United States.” Southern Cultures 25 4 (2019): 158–75.
+[^ref84]: Ibid.
+[^ref85]: Wallach, Jennifer Jensen. Every Nation Has Its Dish: Black Bodies and Black Food in Twentieth-Century America. Chapel Hill, UNITED STATES: University of North Carolina Press, 2019. http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=5596573.
+[^ref86]: Wilbert Jones. The Healthy Soul Food Cookbook. Carol Pub. Group, 1998. http://archive.org/details/healthysoulfoodc00jone.
+[^ref87]: Hester, Kathy, and Renee Comet. The Great Vegan Bean Book: More than 100 Delicious Plant-Based Dishes Packed with the Kindest Protein in Town! - Includes Soy-Free and Gluten-Free Recipes! Illustrated edition. Beverly, Massachusetts: Fair Winds Press, 2013.
+[^ref88]: Medearis, Angela Shelf. The Ethnic Vegetarian: Traditional and Modern Recipes from Africa, America, and the Caribbean. Emmaus, Penn.: RODALE, 2004. http://archive.org/details/isbn_9781579546182.
+
        
-<!-- 
+## delete everything after this eventually
 
 Ref 1 Davis, D. W., et al. “Cowpea.” Alternative Crops Food Manual, https://hort.purdue.edu/newcrop/afcm/cowpea.html; Mabberley, David J. Mabberley’s Plant Book. 4th ed., Cambridge University Press; Production Guidelines for Cowpeas. Dept. of Agriculture, Forestry and Fisheries, Republic of South Africa, 2011, http://www.arc.agric.za/arc-gci/Fact%20Sheets%20Library/Cowpea%20-%20Production%20guidelines%20for%20cowpea.pdf
 
