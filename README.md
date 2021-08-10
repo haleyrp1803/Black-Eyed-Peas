@@ -268,17 +268,24 @@ Even though the cowpea is considered a very hardy crop, it may struggle as tempe
 	
 ## References
 [^ref71]: kjdhf j,rfl
-[^ref71]:df gd reg trgtrsgtg
-[^ref71]:grtgkjfkdjlfnelv
-[^ref71]:gr grtgkjfkdjlfnelv
-[^ref71]:grtgkjfkdjlfnelv
-[^ref71]:grtgkjfkdjlfnelv
-[^ref71]:grtgkjfkdjlfnelv
-[^ref71]:grtgkjfkdjlfnelv
-[^ref71]:grtgkjfkdjlfnelv
-[^ref71]:grtgkjfkdjlfnelv
-[^ref71]:,ksjfk fheriuehfrlk
-       
+[^ref72]:df gd reg trgtrsgtg
+[^ref73]:grtgkjfkdjlfnelv
+[^ref74]:gr grtgkjfkdjlfnelv
+[^ref75]:grtgkjfkdjlfnelv
+[^ref76]:grtgkjfkdjlfnelv
+[^ref77]:grtgkjfkdjlfnelv
+[^ref78]:grtgkjfkdjlfnelv
+[^ref79]:grtgkjfkdjlfnelv
+[^ref80]:grtgkjfkdjlfnelv
+[^ref81]:,ksjfk fheriuehfrlk
+[^ref82]:df gd reg trgtrsgtg
+[^ref83]:grtgkjfkdjlfnelv
+[^ref84]:gr grtgkjfkdjlfnelv
+[^ref85]:grtgkjfkdjlfnelv
+[^ref86]:grtgkjfkdjlfnelv
+[^ref87]:grtgkjfkdjlfnelv
+[^ref88]:grtgkjfkdjlfnelv
+[^ref89]:grtgkjfkdjlfnelv
        
 <!-- 
 
