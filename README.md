@@ -161,7 +161,7 @@ Black-eyed peas are a staple of the <span eid="Q49042"> Southern American </span
        title="Tiebou yapp niébé"
        author="LA CUISINE SÉNÉGALAISE DE ASTOU">
 
-Hoppin’ John’s symbolism is one of prosperity, but its origin is anything but. On brutal American plantations, enslaved workers created new meals from West African recipes and the crops they had access to in the New World. They grew black-eyed peas and other African crops in their subsistence gardens outside the long hours they were forced to labor in their enslaver’s fields. The white ruling class saw black-eyed peas as a lowly food meant to feed livestock and the enslaved. To them, the peas seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [78^ref ] 
+Hoppin’ John’s symbolism is one of prosperity, but its origin is anything but. On brutal American plantations, enslaved workers created new meals from West African recipes and the crops they had access to in the New World. They grew black-eyed peas and other African crops in their subsistence gardens outside the long hours they were forced to labor in their enslaver’s fields. The white ruling class saw black-eyed peas as a lowly food meant to feed livestock and the enslaved. To them, the peas seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [^ref78] 
 <param ve-image 
        label="Hoppin' John at Brenda's Meat & Three for good luck. San Francisco, CA."
        description="Image of Hoppin' John"
@@ -184,7 +184,7 @@ Hoppin’ John’s symbolism is one of prosperity, but its origin is anything bu
        author="Kristen Taylor"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hoppin%27_John.jpg/640px-Hoppin%27_John.jpg">
 
-In addition to field labor, enslaved women were often made to cook for the planter’s family as well as their own. This is how African foodstuffs like the black-eyed pea, mustard, collard greens, etc. were introduced to, and eventually taken up by, the Southern diet at large. By the 19th century, white women began including Black recipes in their homemaker cookbooks, of course, without crediting the women who pioneered them. [79^ref][80^ref][81^ref]
+In addition to field labor, enslaved women were often made to cook for the planter’s family as well as their own. This is how African foodstuffs like the black-eyed pea, mustard, collard greens, etc. were introduced to, and eventually taken up by, the Southern diet at large. By the 19th century, white women began including Black recipes in their homemaker cookbooks, of course, without crediting the women who pioneered them. [^ref79][^ref80][^ref81]
 <param ve-image
        label="Many dishes use Black-Eyed Peas as a key ingredient."
        description="Image showing a bean stew"
@@ -192,7 +192,7 @@ In addition to field labor, enslaved women were often made to cook for the plant
        author="jeffreyw"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Black_eyed_peas_%2816167751712%29.jpg">
 
-Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ out of very little. It was originally a simple but filling dish made with the black-eyed peas or black beans and discarded pork. Today, however, it is a complex and celebratory meal for every level of society, taking days to prepare and involving many more ingredients and side dishes. It is especially associated with Carnival and religious ceremonies, but beans and rice dishes are a national staple.[82^ref][82^ref]
+Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ out of very little. It was originally a simple but filling dish made with the black-eyed peas or black beans and discarded pork. Today, however, it is a complex and celebratory meal for every level of society, taking days to prepare and involving many more ingredients and side dishes. It is especially associated with Carnival and religious ceremonies, but simple beans and rice dishes are a national staple.[^ref82][^ref83]
 <param ve-image 
        label="Feijoada"
        description="Feijoada with rice, fried kale, cassava starch crisps (biscoito de polvilho), cassava flour (farinha), and a mix of olive oil, alcohol vinegar, tomatoes, onions and sometimes bell peppers called vinagrete."
@@ -208,7 +208,7 @@ Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has 
        author="Bradleyzm"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_à_brasileira_-02.jpg/640px-Feijoada_à_brasileira_-02.jpg">
 
-For both Hoppin’ John and _feijoada completa_, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. However, that’s an overly simplistic view of a complex issue. Southern cooking especially can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, class, race, and identity in Southern food and <span eid="Q555997"> Soul food,</span> with white perspectives usually being unjustly prioritized over Black ones. [83^ref][84^ref]
+For both Hoppin’ John and _feijoada completa_, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. However, that’s an overly simplistic view of a complex issue. Southern cooking especially can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, class, race, and identity in Southern food and <span eid="Q555997"> Soul food,</span> with white perspectives usually being unjustly prioritized over Black ones. [^ref84][^ref85]
 <param ve-image 
        label="P & C Soul Food Deli, Shreveport, Louisiana"
        description="P & C Soul Food Deli, Shreveport, Louisiana"
@@ -247,7 +247,7 @@ The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be
        author="Tom Rulkens"
        url="https://upload.wikimedia.org/wikipedia/commons/6/67/Wild_and_cultivated_cowpea_%287856427546%29.jpg">
 
-In this pursuit of a meatless diet, black-eyed peas and other legumes are being increasingly utilized as health foods in the growing diet culture and increasing veganism of the West. Some health-focused cookbooks are regional, aiming to transform, for example, traditional southern recipes like black-eyed peas with pork to leaner, lower-sodium alternatives. [85^ref] Others combine recipes across many cultures, like _The Great Vegan Bean Book_, which aims to give vegans more options for flavorful meatless protein. These types of recipe books often marry recipes inspired by the American South with Indian, African, and Caribbean cuisines. [86^ref] [87^ref]
+One can view the growing diet culture and veganism of the West alongide this increased environmental awareness. In both contexts, black-eyed peas and other legumes are growing in status as a key cooking ingredient. There are hundreds of such recipes readily available online and in cookbooks. Some health-focused cookbooks are regional, aiming to transform, for example, traditional southern recipes like black-eyed peas with pork to leaner, lower-sodium alternatives. [^ref86] Others combine recipes across many cultures, like _The Great Vegan Bean Book_, which aims to give vegans more options for flavorful meatless protein. These types of cookbooks often marry recipes inspired by the American South with Indian, African, and Caribbean cuisines. [^ref87] [^ref88]
 <param ve-image 
        label="FDA Image of Fiber-rich Foods for Kids"
        description="Like adults, youngsters need dietary fiber. By helping our digestive system work effectively, fiber plays an important role in maintaining good health. Great natural sources of fiber include: Beans, like navy, pinto, kidney, and black or white. Peas, like split peas, chickpeas, and black-eyed peas. Fruit, like pears, raspberries and prunes. Vegetables, like spinach, carrots, and broccoli. Whole grain cereal, whole grain bread, and whole grain pasta."
@@ -267,11 +267,17 @@ Even though the cowpea is considered a very hardy crop, it may struggle as tempe
 	
 	
 ## References
-       
-       
-       
-       
-       
+[^ref71]: kjdhf j,rfl
+[^ref71]:df gd reg trgtrsgtg
+[^ref71]:grtgkjfkdjlfnelv
+[^ref71]:gr grtgkjfkdjlfnelv
+[^ref71]:grtgkjfkdjlfnelv
+[^ref71]:grtgkjfkdjlfnelv
+[^ref71]:grtgkjfkdjlfnelv
+[^ref71]:grtgkjfkdjlfnelv
+[^ref71]:grtgkjfkdjlfnelv
+[^ref71]:grtgkjfkdjlfnelv
+[^ref71]:,ksjfk fheriuehfrlk
        
        
 <!-- 
