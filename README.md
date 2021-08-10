@@ -41,18 +41,14 @@ Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient cro
 ## An easy, useful crop
 Black-eyed peas grow best in semi-arid conditions, poor soils and with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest within 100 days. Grown since ancient times, these (mainly annual) leguminous plants (in the plant family Fabaceae) have now become a staple part of the diets of hundreds of millions of people around the world. It is not just the seeds (the beans or peas as we call them) that are harvested however – the leaves and pods of this reliable plant are also edible and used as a vegetable, or can be used for cattle fodder or hay,[^ref2] and, being legumes, they also enrich the soil through the presence of around 21 different (bradyrhizobial) symbiotic <span eid="Q15098397"> nitrogen-fixing bacteria in nodules </span> on their roots.[^ref3]
 
-<!-- This bit of code is how we're supposed to put the game in so let's save it for reference for now. 
-
 <param ve-iframe
        label="Filler for interactive Black-Eyed Pea image/game"
+       license="Public Domain"
+       author="Francisco Manuel Blanco (O.S.A.) via Wikimedia Commons"
        id="game_drop"
-       src="https://v6p9d9t4.ssl.hwcdn.net/html/3509641/index.html"
-       allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr"> 
--->
-
-<param ve-iframe
-       label="Interactive Black-Eyed Pea Diagram"
        src="https://haleyrp1803.itch.io/black-eyed-peas-interactive-diagram"
+       allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr"> 
+
 
 ## Food in the Deep Past
 
