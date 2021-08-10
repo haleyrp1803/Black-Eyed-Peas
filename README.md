@@ -261,10 +261,10 @@ Even though black-eyed peas are considered a very hardy crop, it may struggle as
        id="pqmBsUHSkBg"
        title="Beyond the gardens, the crop wild relatives project"
        author="RBG Kew"
-    
-	
-	
-## References
+
+## Works Cited 
+       
+## Citations
        
 [^ref1]: Davis, D. W., et al. “Cowpea.” Alternative Crops Food Manual, https://hort.purdue.edu/newcrop/afcm/cowpea.html; Mabberley, David J. Mabberley’s Plant Book. 4th ed., Cambridge University Press; Production Guidelines for Cowpeas. Dept. of Agriculture, Forestry and Fisheries, Republic of South Africa, 2011, http://www.arc.agric.za/arc-gci/Fact%20Sheets%20Library/Cowpea%20-%20Production%20guidelines%20for%20cowpea.pdf
 [^ref2]: Kew Science. “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science.” Plants of the World Online, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. Accessed 12 July 2021.
