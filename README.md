@@ -186,11 +186,11 @@ Hoppin’ John’s symbolism is one of prosperity, but its origin is anything bu
 
 In addition to field labor, enslaved women were often made to cook for the planter’s family as well as their own. This is how African foodstuffs like the black-eyed pea, mustard, collard greens, etc. were introduced to, and eventually taken up by, the Southern diet at large. By the 19th century, white women began including Black recipes in their homemaker cookbooks, of course, without crediting the women who pioneered them. [^ref79][^ref80][^ref81]
 <param ve-image
-       label="Many dishes use Black-Eyed Peas as a key ingredient."
-       description="Image showing a bean stew"
-       license="CC BY 2.0 via Wikimedia Commons"
-       author="jeffreyw"
-       url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Black_eyed_peas_%2816167751712%29.jpg">
+       label="A meal of fried chicken with macaroni and cheese, collard greens, and fried okra."
+       description="Image showing an example of soul food: A meal of fried chicken with macaroni and cheese, collard greens, and fried okra."
+       license="Creative Commons Attribution 2.0 Generic"
+       author="Jennifer Woodard Maderazo"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Soul_Food_at_Powell%27s_Place.jpg/1280px-Soul_Food_at_Powell%27s_Place.jpg">
 
 Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ out of very little. It was originally a simple but filling dish made with the black-eyed peas or black beans and discarded pork. Today, however, it is a complex and celebratory meal for every level of society, taking days to prepare and involving many more ingredients and side dishes. It is especially associated with Carnival and religious ceremonies, but simple beans and rice dishes are a national staple.[^ref82][^ref83]
 <param ve-image 
