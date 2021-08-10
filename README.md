@@ -50,7 +50,6 @@ Black-eyed peas grow best in semi-arid conditions, poor soils and with little he
 ## Food in the Deep Past
 
 Genomic sequencing suggests that humans domesticated an earlier wild relative independently in two regions: in West Africa, with vegetation zones [1] that change based on latitude, and East Africa, with vegetation zones that change based on altitude. Even to the present day, <span eid="Q55613"> ecotones </span> are valuable sites for settlement because they allow for mixed food systems: wild gathering, hunting, fishing and aquaculture, keeping small livestock and/or building larger herds, <span eid="Q397350"> agroforestry </span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.  Because black-eyed peas mature quickly and produce reliably with only a little land and labor, they are useful crops the whole year round!
-
 <param ve-image
        fit="contain"
        label="Proposed spread of cowpea from its origins of domestication, Herniter et al 2020"
@@ -58,10 +57,11 @@ Genomic sequencing suggests that humans domesticated an earlier wild relative in
        url="https://onlinelibrary.wiley.com/cms/asset/302e2d1e-bd02-4798-8a80-81195158ece3/leg357-fig-0002-m.jpg">
 
 Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in <span eid="Q190375"> historical linguistics </span> have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the <span eid="Q130251"> Bantu Expansions </span>. Comparing today’s languages with each other lets scientists reconstruct the languages of the past. Watch as the root for ‘cowpea’, _kunde_, appears in languages across the continent.
-<param ve-map zoom="2"
-       title="Bantu Language Expansion"
-       description="Vegetation zones, curtain compare images between way, way back, then against ca. 1000 BCE, 1000 CE, 2000 CE. Custom layer and/or animation of Africa where the word for cowpea in different-but-related languages appear on the map in the order of the approximate date to which they’ve been reconstructed.">
-<param ve-map-layer geojson active>
+<param ve-image
+       fit="contain"
+       label="Proposed spread of cowpea from its origins of domestication, Herniter et al 2020"
+       author="Herniter, IA, Muñoz-Amatriaín, M, Close, TJ. Genetic, textual, and archeological evidence of the historical global spread of cowpea (Vigna unguiculata [L.] Walp.). Legume Science. 2020; 2:e57. https://doi.org/10.1002/leg3.57"
+       url="https://onlinelibrary.wiley.com/cms/asset/302e2d1e-bd02-4798-8a80-81195158ece3/leg357-fig-0002-m.jpg">
 
 By 1500 BCE, the black-eyed pea or cowpea had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent.  The native range of the cowpea in Africa and its subsequent introduction across the world can be seen on this map.
 <param ve-map zoom="2"
