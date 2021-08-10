@@ -168,21 +168,21 @@ Hoppin’ John’s symbolism is one of prosperity, but its origin is anything bu
        fit="contain"
        license="Creative Commons Attribution 2.0"
        author="Kathy Drasky"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg/640px-Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg/1280px-Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg">
 <param ve-image 
        label="Hoppin' John"
        description="Image of Hoppin' John"
        fit="contain"
        license="Creative Commons Attribution-Share Alike 4.0"
        author="Lahti213"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hoppin_John.jpg/640px-Hoppin_John.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hoppin_John.jpg/1280px-Hoppin_John.jpg">
 <param ve-image 
        label="Hoppin' John"
        description="Close cropped image of Hoppin' John"
        fit="contain"
        license="Creative Commons Attribution 2.0"
        author="Kristen Taylor"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hoppin%27_John.jpg/640px-Hoppin%27_John.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hoppin%27_John.jpg/1280px-Hoppin%27_John.jpg">
 
 In addition to field labor, enslaved women were often made to cook for the planter’s family as well as their own. This is how African foodstuffs like the black-eyed pea, mustard, collard greens, etc. were introduced to, and eventually taken up by, the Southern diet at large. By the 19th century, white women began including Black recipes in their homemaker cookbooks, of course, without crediting the women who pioneered them. [^ref79][^ref80][^ref81]
 <param ve-image
@@ -199,14 +199,14 @@ Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has 
        fit="contain"
        license="Creative Commons Attribution-Share Alike 4.0"
        author="إيان"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/فيجوادا_feijoada.jpg/640px-فيجوادا_feijoada.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/فيجوادا_feijoada.jpg/1280px-فيجوادا_feijoada.jpg">
 <param ve-image 
        label="Feijoada à brasileira"
        description="Feijoada à brasileira"
        fit="contain"
        license="Creative Commons Attribution-Share Alike 4.0"
        author="Bradleyzm"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_à_brasileira_-02.jpg/640px-Feijoada_à_brasileira_-02.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_à_brasileira_-02.jpg/1280px-Feijoada_à_brasileira_-02.jpg">
 
 For both Hoppin’ John and _feijoada completa_, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. However, that’s an overly simplistic view of a complex issue. Southern cooking especially can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, class, race, and identity in Southern food and <span eid="Q555997"> Soul food,</span> with white perspectives usually being unjustly prioritized over Black ones. [^ref84][^ref85]
 <param ve-image 
@@ -215,7 +215,7 @@ For both Hoppin’ John and _feijoada completa_, what was originally a means for
        fit="contain"
        license="Creative Commons Attribution 2.0"
        author="Steve Snodgrass"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Soul_Food_Deli_Shreveport.jpg/640px-Soul_Food_Deli_Shreveport.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Soul_Food_Deli_Shreveport.jpg/1280px-Soul_Food_Deli_Shreveport.jpg">
 
 ## A Colonial Crop
 Although black-eyed pea was not grown as a crop in Britain (it being far too cold and wet), its inclusion in the [Economic Botany Collection](https://www.kew.org/science/collections-and-resources/collections/economic-botany-collection) of the <span eid="Q18748726"> Royal Botanic Gardens Kew </span> is telling.  Here, over a hundred different collections of [seeds](https://ecbot.science.kew.org/main_image.php?imageid=EBC_68901), pods, ‘fibre’ and even a [model](https://ecbot.science.kew.org/read_ecbot.php?catno=61536&search_term=vigna%20unguiculata&search_type=name&imagechecklist=Images) of cowpea are kept, mean that it was obviously studied as a useful colonial crop plant. Donations are as diverse as from Nigeria, India, Laos, China and Japan, but also from imperial exhibitions where plant products were displayed such as the <span eid="Q5148408"> Colonial and India Exhibition of 1886 </span>, the Japan/British Exhibition of 1910, the British Industries Fair of 1930, as well as the <span eid="Q10534945"> India Museum </span>, the Imperial Institute, the Jamaica Agricultural Society, and colonial expeditions including <span eid="Q183567"> Dr WB Baikie's </span> Niger Expedition of 1859. One undated individual collection was even donated by the HRH the Prince of Wales, from the ‘East Indies’. 
