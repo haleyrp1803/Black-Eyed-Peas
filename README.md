@@ -1,5 +1,3 @@
-# Test Black Eyed Peas Essay
-
 ## Use this link to preview: https://juncture-digital.org/haleyrp1803/Black-Eyed-Peas
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
@@ -22,19 +20,19 @@ Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient cro
        url="https://upload.wikimedia.org/wikipedia/commons/1/19/Nigeria_Cowpea_fro_F_IITA.jpg">
        
 <param ve-image fit="contain"
-       label="The pink pea-like flowers of wild cowpea, Vigna unguiculata"
+       label="The pink pea-like flowers of wild cowpea, _Vigna unguiculata_"
        license="CC BY-SA 2.0"
        authro="Tom Rulkens via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/d/d7/Wild_cowpea_flowers_%286930710085%29.jpg">
        
 <param ve-image fit="contain"
-       label="field of cowpeas"
+       label="A field of cowpeas"
        license="CC BY-SA 4.0 via Wikimedia Commons"
        author="Thamizhpparithi Maari"
        url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Field_of_Vigna_unguiculata.jpg">
        
 <param ve-image fit="contain"
-       label="nitrogen fixing root nodules of Vigna unguiculata"
+       label="Nitrogen-fixing root nodules of _Vigna unguiculata_"
        license="CC BY SA 2.0"
        author="Harry Rose via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Vigna_unguiculata_nodules1_%2810737516253%29.jpg">
@@ -138,7 +136,7 @@ A 'Farmers Bulletin' of 1920 gave specific official advice on [growing cowpeas](
 <param ve-iframe
        src="https://books.google.co.uk/books?id=QiOMV1jWGiQC&pg=PA1&output=embed">
 
-Meanwhile, on the other side of the world, in Japan, a copy of the extraordinary 30-volume agricultural encyclopaedia _Seikei Zuetsu_ (written 1793-1804) was gifted to the German physician, botanist and plant collector <span eid="Q77140">Philipp von Siebold</span> in the 1820s. Siebold arrived in Nagasaki in 1823 and started a medical school there, but spent much of his spare time studying Japanese flora and creating his own botanical garden of Japanese plants.[ref] The _Seikei Zuetsu_ detailed 109 crops of southern Japan and inside its beautifully illustrated pages can be found the 'cowpea' – most probably showing _Vigna unguiculata_ subsp. _unguiculata_ cv.-gr. _sesquipedalis_ or the 'yard-long bean' which was and still is popular in Asia today.[ref] Its presence in this Japanese book of crops from 1800 shows how far the black-eyed pea had come and how its usefulness had been welcomed into many agricultural traditions.
+Meanwhile, on the other side of the world, in Japan, a copy of the extraordinary 30-volume agricultural encyclopaedia _Seikei Zuetsu_ (written 1793-1804) was gifted to the German physician, botanist and plant collector <span eid="Q77140">Philipp von Siebold</span> in the 1820s. Siebold arrived in Nagasaki in 1823 and started a medical school there, but spent much of his spare time studying Japanese flora and creating his own botanical garden of Japanese plants.[^ref69] The _Seikei Zuetsu_ detailed 109 crops of southern Japan and inside its beautifully illustrated pages can be found the 'cowpea' – most probably showing _Vigna unguiculata_ subsp. _unguiculata_ cv.-gr. _sesquipedalis_ or the 'yard-long bean' which was and still is popular in Asia today.[^ref70] Its presence in this Japanese book of crops from 1800 shows how far the black-eyed pea had come and how its usefulness had been welcomed into many agricultural traditions.
 
 <param ve-image
        fit="contain"
@@ -267,6 +265,11 @@ Even though the cowpea is considered a very hardy crop, it may struggle as tempe
 	
 	
 ## References
+[^ref1]: Davis, D. W., et al. “Cowpea.” Alternative Crops Food Manual, https://hort.purdue.edu/newcrop/afcm/cowpea.html; Mabberley, David J. Mabberley’s Plant Book. 4th ed., Cambridge University Press; Production Guidelines for Cowpeas. Dept. of Agriculture, Forestry and Fisheries, Republic of South Africa, 2011, http://www.arc.agric.za/arc-gci/Fact%20Sheets%20Library/Cowpea%20-%20Production%20guidelines%20for%20cowpea.pdf
+[^ref2]: Kew Science. “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science.” Plants of the World Online, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. Accessed 12 July 2021.
+[^ref3]: Herniter, Ira A., et al. “Genetic, Textual, and Archeological Evidence of the Historical Global Spread of Cowpea (Vigna Unguiculata [L.] Walp.).” Legume Science, vol. 2, no. 4, 2020, p. e57, doi:10.1002/leg3.57
+[^ref69]: Kongjaimun A, Kaga A, Tomooka N, Somta P, Vaughan DA, Srinives P. The genetics of domestication of yardlong bean, Vigna unguiculata (L.) Walp. ssp. unguiculata cv.-gr. sesquipedalis. Ann Bot. 2012 May;109(6):1185-200. doi: 10.1093/aob/mcs048
+[^ref70]: Vaughan DA, Srinives P. The genetics of domestication of yardlong bean, Vigna unguiculata (L.) Walp. ssp. unguiculata cv.-gr. sesquipedalis. Ann Bot. 2012 May;109(6):1185-200. doi: 10.1093/aob/mcs048.
 [^ref71]: Kew Science, “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science,” Plants of the World Online, accessed July 12, 2021, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. 
 [^ref72]: "Afroculinaria – Exploring Culinary Traditions of Africa, African America and the African Diaspora.” Accessed July 23, 2021. https://afroculinaria.com/. 
 [^ref73]: Ibid. 
