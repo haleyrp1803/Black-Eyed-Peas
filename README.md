@@ -155,21 +155,13 @@ Today, cowpeas are grown commercially in at least 33 countries,[^ref71] this wid
 
 ## Culinary History and Cultural Celebrations
 
-Black-eyed peas are a staple of the Southern American diet and an iconic component of Black culinary history. The peas are key ingredients for everything from stews to salads to savory bean and rice dishes, but perhaps they are most iconic for their modern associations with New Year’s. <span eid="Q1763911"> Hoppin’ John </span> is a popular rice, bean, and pork dish that brings good luck and prosperity for the New Year. It is often served with greens to symbolize wealth and is an absolute must for any modern southern New Year’s celebration. [^ref74][^ref75] <span eid="Q1810575"> Thiebou niebe,</span> a classic Senegalese dish made similarly from black-eyed peas, rice, and ham, may be the base where the recipe originated. [^ref76][^ref77] 
+Black-eyed peas are a staple of the Southern American diet and an iconic component of Black culinary history. The peas are key ingredients for everything from stews to salads to savory bean and rice dishes, but perhaps they are most iconic for their modern associations with New Year’s. <span eid="Q1763911"> Hoppin’ John </span> is a popular rice, bean, and pork dish that brings good luck and prosperity for the New Year. It is often served with greens to symbolize wealth and is an absolute must for any modern Southern New Year’s celebration. [^ref74][^ref75] <span eid="Q1810575"> Thiebou niebe,</span> a classic Senegalese dish made similarly from black-eyed peas, rice, and ham, may be the base where the recipe originated. [^ref76][^ref77] 
 <param ve-video 
        id="v7HwKxDus9E"
        title="Tiebou yapp niébé"
        author="LA CUISINE SÉNÉGALAISE DE ASTOU">
 
-<!-- Do I need this image or not? Can I put it somewhere else?
-<param ve-image
-       label="Many dishes use Black-Eyed Peas as a key ingredient."
-       description="Image showing a bean stew"
-       license="CC BY 2.0 via Wikimedia Commons"
-       author="jeffreyw"
-       url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Black_eyed_peas_%2816167751712%29.jpg"> -->
-
-Hoppin’ John’s symbolism is one of prosperity, but its origin is anything but. On brutal American plantations, enslaved workers created new meals from West African recipes and the crops they had access to in the New World, which they grew in their subsistence gardens before and after the long hours they were made to spend laboring their enslaver’s fields. The white ruling class saw black-eyed peas as a lowly food meant to feed livestock and the enslaved. To them, black-eyed peas seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [78^ref ] In addition to field labor, enslaved women were often made to cook for the planter’s family as well as their own. This is how African foodstuffs like the black-eyed pea, mustard, collard greens, etc. were introduced to, and eventually taken up by, the Southern diet at large. By the 19th century, white women began including Black recipes in their homemaker cookbooks, of course, without crediting the women who pioneered them. [79^ref][80^ref][81^ref]
+Hoppin’ John’s symbolism is one of prosperity, but its origin is anything but. On brutal American plantations, enslaved workers created new meals from West African recipes and the crops they had access to in the New World, which they grew in their subsistence gardens before and after the long hours they were forced to spend laboring their enslaver’s fields. The white ruling class saw black-eyed peas as a lowly food meant to feed livestock and the enslaved. To them, black-eyed peas seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [78^ref ] 
 <param ve-image 
        label="Hoppin' John at Brenda's Meat & Three for good luck. San Francisco, CA."
        description="Image of Hoppin' John"
@@ -191,8 +183,16 @@ Hoppin’ John’s symbolism is one of prosperity, but its origin is anything bu
        license="Creative Commons Attribution 2.0"
        author="Kristen Taylor"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hoppin%27_John.jpg/640px-Hoppin%27_John.jpg">
-  
-Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ out of very little. It was originally a simple but filling dish made with the black-eyed peas or black beans and discarded pork. Today, however, it is a complex and celebratory meal for every level of society, taking days to prepare and involving many more ingredients and side dishes. It is especially associated with Carnival and religious ceremonies, but Brazilians across the country eat it regularly outside of these settings as well. [82^ref] 
+
+In addition to field labor, enslaved women were often made to cook for the planter’s family as well as their own. This is how African foodstuffs like the black-eyed pea, mustard, collard greens, etc. were introduced to, and eventually taken up by, the Southern diet at large. By the 19th century, white women began including Black recipes in their homemaker cookbooks, of course, without crediting the women who pioneered them. [79^ref][80^ref][81^ref]
+<param ve-image
+       label="Many dishes use Black-Eyed Peas as a key ingredient."
+       description="Image showing a bean stew"
+       license="CC BY 2.0 via Wikimedia Commons"
+       author="jeffreyw"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Black_eyed_peas_%2816167751712%29.jpg">
+
+Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ out of very little. It was originally a simple but filling dish made with the black-eyed peas or black beans and discarded pork. Today, however, it is a complex and celebratory meal for every level of society, taking days to prepare and involving many more ingredients and side dishes. It is especially associated with Carnival and religious ceremonies, but beans and rice dishes are a national staple.[82^ref][82^ref]
 <param ve-image 
        label="Feijoada"
        description="Feijoada with rice, fried kale, cassava starch crisps (biscoito de polvilho), cassava flour (farinha), and a mix of olive oil, alcohol vinegar, tomatoes, onions and sometimes bell peppers called vinagrete."
