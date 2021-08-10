@@ -224,7 +224,7 @@ Although black-eyed pea was not grown as a crop in Britain (it usually being far
        url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Jamaica_at_the_Colonial_and_Indian_Exhibition%2C_London_1886.jpg">
 
 ## Modern production
-Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as cultivation is still mainly in the hands of small-holder farmers, but also because they are such a staple food that most harvests are used locally rather than being exported. The centres of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s black-eyed pea crop.[^ref86] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains such as sorghum and millet or rice.[^ref87] It is the third most important pulse worldwide, an important element of sustainable agriculture, and feeds hundreds of millions of people.[^ref88]
+Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as cultivation is still mainly in the hands of small-holder farmers, but also because they are such a staple food that most harvests are used locally rather than being exported. However the FAO estimate around 7 million tonnes are produced annually. [^ref86] The centres of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s black-eyed pea crop.[^ref87] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains such as sorghum and millet or rice.[^ref88] It is the third most important pulse worldwide, an important element of sustainable agriculture, and feeds hundreds of millions of people.
 <param ve-image
        label="Smallholder farmer drying cowpeas in Ghana"
        description="A farmer in Ghana turns a pile of black-eyed pea pods to dry them"
@@ -283,9 +283,8 @@ Even though black-eyed peas are considered a very hardy crop, it may struggle as
 [^ref83]: Olivia Ware Terenzio. “Feijoada and Hoppin’ John: Dishing the African Diaspora in Brazil and the United States.” Southern Cultures 25 4 (2019): 158–75. 
 [^ref84]: Ibid. 
 [^ref85]: Wallach, Jennifer Jensen. Every Nation Has Its Dish: Black Bodies and Black Food in Twentieth-Century America. Chapel Hill, UNITED STATES: University of North Carolina Press, 2019. http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=5596573. 
-[^ref86]: “Cowpea.” https://www.cwrdiversity.org/crop/cowpea/. Accessed 15 July 2021
-[^ref87]: Matthus, Elsa. A Global Rescue: Safeguarding the World’s Crop Wild Relatives. www.cwrdiversity.org, 2019, https://www.cwrdiversity.org/wp/wp-content/uploads/2019/12/global_rescue_170x240_spread.pdf.							    
-[^ref88]:
+[^ref86]: Rawal, V. & Navarro, D. K., eds. 2019. The Global Economy of Pulses. Rome, FAO. http://www.fao.org/3/i7108en/i7108en.pdf				[^ref87]: “Cowpea.” https://www.cwrdiversity.org/crop/cowpea/. Accessed 15 July 2021						    
+[^ref88]: Matthus, Elsa. A Global Rescue: Safeguarding the World’s Crop Wild Relatives. www.cwrdiversity.org, 2019, https://www.cwrdiversity.org/wp/wp-content/uploads/2019/12/global_rescue_170x240_spread.pdf.	
 [^ref89]: https://www.cwrdiversity.org/cowpea-cracking-on-with-climate-change/						    
 [^ref90]: Wilbert Jones. The Healthy Soul Food Cookbook. Carol Pub. Group, 1998. http://archive.org/details/healthysoulfoodc00jone. 
 [^ref91]: Hester, Kathy, and Renee Comet. The Great Vegan Bean Book: More than 100 Delicious Plant-Based Dishes Packed with the Kindest Protein in Town! - Includes Soy-Free and Gluten-Free Recipes! Illustrated edition. Beverly, Massachusetts: Fair Winds Press, 2013. 
