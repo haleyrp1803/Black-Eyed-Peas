@@ -283,7 +283,7 @@ Even though black-eyed peas are considered a very hardy crop, it may struggle as
 [^ref83]: Olivia Ware Terenzio. “Feijoada and Hoppin’ John: Dishing the African Diaspora in Brazil and the United States.” Southern Cultures 25 4 (2019): 158–75. 
 [^ref84]: Ibid. 
 [^ref85]: Wallach, Jennifer Jensen. Every Nation Has Its Dish: Black Bodies and Black Food in Twentieth-Century America. Chapel Hill, UNITED STATES: University of North Carolina Press, 2019. http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=5596573. 
-[^ref86]: Rawal, V. & Navarro, D. K., eds. 2019. The Global Economy of Pulses. Rome, FAO. http://www.fao.org/3/i7108en/i7108en.pdf				[^ref87]: “Cowpea.” https://www.cwrdiversity.org/crop/cowpea/. Accessed 15 July 2021						    
+[^ref86]: Rawal, V. & Navarro, D. K., eds. The Global Economy of Pulses. Rome, FAO. 2019. http://www.fao.org/3/i7108en/i7108en.pdf				[^ref87]: “Cowpea.” https://www.cwrdiversity.org/crop/cowpea/. Accessed 15 July 2021						    
 [^ref88]: Matthus, Elsa. A Global Rescue: Safeguarding the World’s Crop Wild Relatives. www.cwrdiversity.org, 2019, https://www.cwrdiversity.org/wp/wp-content/uploads/2019/12/global_rescue_170x240_spread.pdf.	
 [^ref89]: https://www.cwrdiversity.org/cowpea-cracking-on-with-climate-change/						    
 [^ref90]: Wilbert Jones. The Healthy Soul Food Cookbook. Carol Pub. Group, 1998. http://archive.org/details/healthysoulfoodc00jone. 
@@ -296,33 +296,10 @@ Even though black-eyed peas are considered a very hardy crop, it may struggle as
 ## delete everything after this eventually
 ## sources notes
 
-Ref 1 Davis, D. W., et al. “Cowpea.” Alternative Crops Food Manual, https://hort.purdue.edu/newcrop/afcm/cowpea.html; Mabberley, David J. Mabberley’s Plant Book. 4th ed., Cambridge University Press; Production Guidelines for Cowpeas. Dept. of Agriculture, Forestry and Fisheries, Republic of South Africa, 2011, http://www.arc.agric.za/arc-gci/Fact%20Sheets%20Library/Cowpea%20-%20Production%20guidelines%20for%20cowpea.pdf
 
-Ref 2 Kew Science. “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science.” Plants of the World Online, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. Accessed 12 July 2021.
-
-Ref 3 Herniter, Ira A., et al. “Genetic, Textual, and Archeological Evidence of the Historical Global Spread of Cowpea (Vigna Unguiculata [L.] Walp.).” Legume Science, vol. 2, no. 4, 2020, p. e57, doi:10.1002/leg3.57
 	
-<!--World Traveller-->
-Yard-long bean ref: Kongjaimun A, Kaga A, Tomooka N, Somta P, Vaughan DA, Srinives P. The genetics of domestication of yardlong bean, Vigna unguiculata (L.) Walp. ssp. unguiculata cv.-gr. sesquipedalis. Ann Bot. 2012 May;109(6):1185-200. doi: 10.1093/aob/mcs048.
-<!--Konngjaimun et al https://pubmed.ncbi.nlm.nih.gov/22419763/-->
-       
-<!--Modern prd ref-->
 
-“Cowpea.” https://www.cwrdiversity.org/crop/cowpea/. Accessed 15 July 2021
 
-Matthus, Elsa. A Global Rescue: Safeguarding the World’s Crop Wild Relatives. www.cwrdiversity.org, 2019, https://www.cwrdiversity.org/wp/wp-content/uploads/2019/12/global_rescue_170x240_spread.pdf.
-
-<!--Food of the future-->
-
-https://www.cwrdiversity.org/cowpea-cracking-on-with-climate-change/
-
-<!--Crop wild relatives refs in order of appearance-->
-	
-Major, Michael. “Cowpea: How to Make a Hardy Crop Even Tougher.” Crop Wild Relatives, https://www.cwrdiversity.org/cowpea/. Accessed 15 July 2021.
-
-“Cowpea.” Crop Trust, https://www.croptrust.org/crop/cowpea/. Accessed 15 July 2021
-
-Singh, B.B., et al (eds). _Advances in Cowpea Research_. International Institute of Tropical Agriculture, Nigeria. 1997
 
 
 ## all of our sources
