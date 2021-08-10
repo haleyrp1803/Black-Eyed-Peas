@@ -248,7 +248,7 @@ The black-eyed pea or cowpea is an often-overlooked crop, but soon we may all be
        author="Tom Rulkens"
        url="https://upload.wikimedia.org/wikipedia/commons/6/67/Wild_and_cultivated_cowpea_%287856427546%29.jpg">
 
-In this pursuit of a meatless diet, black-eyed peas and other legumes are being increasingly utilized as health foods in the growing diet culture and increasing veganism of the West. Some health-focused cookbooks are regional, aiming to transform, for example, traditional southern recipes like black-eyed peas with pork to leaner, lower-sodium alternatives. Others combine recipes across many cultures, like _The Great Vegan Bean Book_, which aims to give vegans more options for flavorful meatless protein. These types of recipe books often marry recipes inspired by the American South with Indian, African, and Caribbean cuisines.
+In this pursuit of a meatless diet, black-eyed peas and other legumes are being increasingly utilized as health foods in the growing diet culture and increasing veganism of the West. Some health-focused cookbooks are regional, aiming to transform, for example, traditional southern recipes like black-eyed peas with pork to leaner, lower-sodium alternatives. [85^ref] Others combine recipes across many cultures, like _The Great Vegan Bean Book_, which aims to give vegans more options for flavorful meatless protein. These types of recipe books often marry recipes inspired by the American South with Indian, African, and Caribbean cuisines. [86^ref] [87^ref]
 <param ve-image 
        label="FDA Image of Fiber-rich Foods for Kids"
        description="Like adults, youngsters need dietary fiber. By helping our digestive system work effectively, fiber plays an important role in maintaining good health. Great natural sources of fiber include: Beans, like navy, pinto, kidney, and black or white. Peas, like split peas, chickpeas, and black-eyed peas. Fruit, like pears, raspberries and prunes. Vegetables, like spinach, carrots, and broccoli. Whole grain cereal, whole grain bread, and whole grain pasta."
@@ -269,6 +269,14 @@ Even though the cowpea is considered a very hardy crop, it may struggle as tempe
 	
 ## References
        
+       
+       
+       
+       
+       
+       
+<!-- 
+
 Ref 1 Davis, D. W., et al. “Cowpea.” Alternative Crops Food Manual, https://hort.purdue.edu/newcrop/afcm/cowpea.html; Mabberley, David J. Mabberley’s Plant Book. 4th ed., Cambridge University Press; Production Guidelines for Cowpeas. Dept. of Agriculture, Forestry and Fisheries, Republic of South Africa, 2011, http://www.arc.agric.za/arc-gci/Fact%20Sheets%20Library/Cowpea%20-%20Production%20guidelines%20for%20cowpea.pdf
 
 Ref 2 Kew Science. “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science.” Plants of the World Online, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. Accessed 12 July 2021.
@@ -425,3 +433,4 @@ Wilbert Jones. The Healthy Soul Food Cookbook. Carol Pub. Group, 1998, http://ar
 Williams, J’Nese. “Plantation Botany: Slavery and the Infrastructure of Government Science in the St. Vincent Botanic Garden, 1765–1820 s.” Berichte Zur Wissenschaftsgeschichte, vol. 44, no. 2, 2021, pp. 137–158, doi:10.1002/bewi.202100011.
 	
 Zavitz, C. A., et al. Peas and the Pea Weevil. L.K. Cameron, https://www.biodiversitylibrary.org/item/131260.
+--> 
