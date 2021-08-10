@@ -155,7 +155,7 @@ Today, cowpeas are grown commercially in at least 33 countries,[^ref71] this wid
 
 ## Culinary History and Cultural Celebrations
 
-Black-eyed peas are a staple of the Southern American diet and an iconic component of Black culinary history. The peas are key ingredients for everything from stews to salads to savory bean and rice dishes, but perhaps they are most iconic for their modern associations with New Year’s. <span eid="Q1763911"> Hoppin’ John </span> is a popular rice, bean, and pork dish that brings good luck and prosperity for the New Year. It is often served with greens to symbolize wealth and is an absolute must for any modern Southern New Year’s celebration. [^ref74][^ref75] <span eid="Q1810575"> Thiebou niebe,</span> a classic Senegalese dish made similarly from black-eyed peas, rice, and ham, may be the base where the recipe originated. [^ref76][^ref77] 
+Black-eyed peas are a staple of the </span> Southern American <span eid ="Q49042"> diet and an iconic component of Black culinary history. The peas are key ingredients for everything from stews to salads to savory bean and rice dishes, but perhaps they are most iconic for their modern associations with New Year’s. <span eid="Q1763911"> Hoppin’ John </span> is a popular rice, bean, and pork dish that brings good luck and prosperity for the New Year. It is often served with greens to symbolize wealth and is an absolute must for any modern Southern New Year’s celebration. [^ref74][^ref75] <span eid="Q1810575"> Thiebou niebe,</span> a classic Senegalese dish made similarly from black-eyed peas, rice, and ham, may be the base where the recipe originated. [^ref76][^ref77] 
 <param ve-video 
        id="v7HwKxDus9E"
        title="Tiebou yapp niébé"
