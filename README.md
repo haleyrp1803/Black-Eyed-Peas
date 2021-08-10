@@ -161,7 +161,7 @@ Black-eyed peas are a staple of the <span eid="Q49042"> Southern American </span
        title="Tiebou yapp niébé"
        author="LA CUISINE SÉNÉGALAISE DE ASTOU">
 
-Hoppin’ John’s symbolism is one of prosperity, but its origin is anything but. On brutal American plantations, enslaved workers created new meals from West African recipes and the crops they had access to in the New World, which they grew in their subsistence gardens before and after the long hours they were forced to spend laboring their enslaver’s fields. The white ruling class saw black-eyed peas as a lowly food meant to feed livestock and the enslaved. To them, black-eyed peas seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [78^ref ] 
+Hoppin’ John’s symbolism is one of prosperity, but its origin is anything but. On brutal American plantations, enslaved workers created new meals from West African recipes and the crops they had access to in the New World. They grew black-eyed peas and other African crops in their subsistence gardens outside the long hours they were forced to labor in their enslaver’s fields. The white ruling class saw black-eyed peas as a lowly food meant to feed livestock and the enslaved. To them, the peas seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [78^ref ] 
 <param ve-image 
        label="Hoppin' John at Brenda's Meat & Three for good luck. San Francisco, CA."
        description="Image of Hoppin' John"
