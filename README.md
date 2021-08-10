@@ -234,7 +234,7 @@ Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as
        url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Drying_cowpeas.jpg">
        
 ## A food of the future 
-The black-eyed pea is an often-overlooked crop, but soon we may all be more familiar with it. Legumes are emerging as ‘foods of the future’ due to their very nature of being highly nutritious and relatively easy to grow. They will play an important part in future food security – providing food in a changing climate and will continue to help small-scale farmers combat poverty and hunger and improve their livelihoods. As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, and as more people aim to eat less meat, legume crops such as black-eyed peas, with their many virtues, will contribute to the diets of more people.[^ref89]
+The black-eyed pea is an often-overlooked crop, but soon we may all be more familiar with it. Legumes are emerging as ‘foods of the future’ due to their very nature of being highly nutritious and relatively easy to grow. They will play an important part in future food security – providing food in a changing climate and will continue to help small-scale farmers combat poverty and hunger and improve their livelihoods.[^ref89] As the climate gets warmer and more unpredictable, and as human populations grow and resources become more limited, and as more people aim to eat less meat, legume crops such as black-eyed peas, with their many virtues, will contribute to the diets of more people.[^ref90]
 
 <param ve-image
        label="Wild and cultivated cowpea beans"
@@ -265,7 +265,8 @@ Even though black-eyed peas are considered a very hardy crop, it may struggle as
 ## References
 [^ref1]: Davis, D. W., et al. “Cowpea.” Alternative Crops Food Manual, https://hort.purdue.edu/newcrop/afcm/cowpea.html; Mabberley, David J. Mabberley’s Plant Book. 4th ed., Cambridge University Press; Production Guidelines for Cowpeas. Dept. of Agriculture, Forestry and Fisheries, Republic of South Africa, 2011, http://www.arc.agric.za/arc-gci/Fact%20Sheets%20Library/Cowpea%20-%20Production%20guidelines%20for%20cowpea.pdf
 [^ref2]: Kew Science. “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science.” Plants of the World Online, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. Accessed 12 July 2021.
-[^ref3]: Herniter, Ira A., et al. “Genetic, Textual, and Archeological Evidence of the Historical Global Spread of Cowpea (Vigna Unguiculata [L.] Walp.).” Legume Science, vol. 2, no. 4, 2020, p. e57, doi:10.1002/leg3.57
+[^ref3]: Grönemeyer JL, Hurek T, Bünger W, Reinhold-Hurek B. Bradyrhizobium vignae sp. nov., a nitrogen-fixing symbiont isolated from effective nodules of Vigna and Arachis. Int J Syst Evol Microbiol. 2016 Jan;66(1):62-69. doi: 10.1099/ijsem.0.000674.
+      
 [^ref69]: Kongjaimun A, Kaga A, Tomooka N, Somta P, Vaughan DA, Srinives P. The genetics of domestication of yardlong bean, Vigna unguiculata (L.) Walp. ssp. unguiculata cv.-gr. sesquipedalis. Ann Bot. 2012 May;109(6):1185-200. doi: 10.1093/aob/mcs048
 [^ref70]: Vaughan DA, Srinives P. The genetics of domestication of yardlong bean, Vigna unguiculata (L.) Walp. ssp. unguiculata cv.-gr. sesquipedalis. Ann Bot. 2012 May;109(6):1185-200. doi: 10.1093/aob/mcs048.
 [^ref71]: Kew Science, “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science,” Plants of the World Online, accessed July 12, 2021, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. 
@@ -284,8 +285,10 @@ Even though black-eyed peas are considered a very hardy crop, it may struggle as
 [^ref84]: Ibid. 
 [^ref85]: Wallach, Jennifer Jensen. Every Nation Has Its Dish: Black Bodies and Black Food in Twentieth-Century America. Chapel Hill, UNITED STATES: University of North Carolina Press, 2019. http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=5596573. 
 [^ref86]: Rawal, V. & Navarro, D. K., eds. The Global Economy of Pulses. Rome, FAO. 2019. http://www.fao.org/3/i7108en/i7108en.pdf				[^ref87]: “Cowpea.” https://www.cwrdiversity.org/crop/cowpea/. Accessed 15 July 2021						    
-[^ref88]: Matthus, Elsa. A Global Rescue: Safeguarding the World’s Crop Wild Relatives. www.cwrdiversity.org, 2019, https://www.cwrdiversity.org/wp/wp-content/uploads/2019/12/global_rescue_170x240_spread.pdf.	
-[^ref89]: https://www.cwrdiversity.org/cowpea-cracking-on-with-climate-change/						    
+[^ref88]: Matthus, Elsa. A Global Rescue: Safeguarding the World’s Crop Wild Relatives. www.cwrdiversity.org, 2019, https://www.cwrdiversity.org/wp/wp-content/uploads/2019/12/global_rescue_170x240_spread.pdf.
+[^ref89]:  Herniter, Ira A., et al. “Genetic, Textual, and Archeological Evidence of the Historical Global Spread of Cowpea (Vigna Unguiculata [L.] Walp.).” Legume Science, vol. 2, no. 4, 2020, p. e57, doi:10.1002/leg3.57							    
+[^ref90]: https://www.cwrdiversity.org/cowpea-cracking-on-with-climate-change/
+							    
 [^ref90]: Wilbert Jones. The Healthy Soul Food Cookbook. Carol Pub. Group, 1998. http://archive.org/details/healthysoulfoodc00jone. 
 [^ref91]: Hester, Kathy, and Renee Comet. The Great Vegan Bean Book: More than 100 Delicious Plant-Based Dishes Packed with the Kindest Protein in Town! - Includes Soy-Free and Gluten-Free Recipes! Illustrated edition. Beverly, Massachusetts: Fair Winds Press, 2013. 
 [^ref92]: Medearis, Angela Shelf. The Ethnic Vegetarian: Traditional and Modern Recipes from Africa, America, and the Caribbean. Emmaus, Penn.: RODALE, 2004. http://archive.org/details/isbn_9781579546182. 
