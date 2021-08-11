@@ -38,7 +38,6 @@ Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient cro
        author="Harry Rose via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Vigna_unguiculata_nodules1_%2810737516253%29.jpg">
 
-(Top image shows the sheer variety of black-eyed peas in culivation, image courtesy of Jeffrey Ehlers)
 
 ## An easy, useful crop
 Black-eyed peas grow best in semi-arid conditions, poor soils and with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest within 100 days. Grown since ancient times, these (mainly annual) leguminous plants (in the plant family Fabaceae) have now become a staple part of the diets of hundreds of millions of people around the world. It is not just the seeds (the beans or peas as we call them) that are harvested however – the leaves and pods of this reliable plant are also edible and used as a vegetable, or can be used for cattle fodder or hay,[^ref2] and, being legumes, they also enrich the soil through the presence of around 21 different (bradyrhizobial) symbiotic <span eid="Q15098397"> nitrogen-fixing bacteria in nodules </span> on their roots.[^ref3]
@@ -252,7 +251,7 @@ The black-eyed pea is an often-overlooked crop, but soon we may all be more fami
 <param ve-image
        label="Variety of cultivated black-eyed peas"
        author="Jeffrey Ehlers, UCR, Gates Foundation"
-       url=""https://newsroom.ucr.edu/images/releases/1708_0hi.jpg">
+       url="https://newsroom.ucr.edu/images/releases/1708_0hi.jpg">
 
 
 One can view the growing diet culture and veganism of the West alongide this increased environmental awareness. In both contexts, black-eyed peas and other legumes are growing in status as a key cooking ingredient. There are hundreds of such recipes readily available online and in cookbooks. Some health-focused cookbooks are regional, aiming to transform, for example, traditional southern recipes like black-eyed peas with pork to leaner, lower-sodium alternatives. [^ref90] Others combine recipes across many cultures, like _The Great Vegan Bean Book_, which aims to give vegans more options for flavorful meatless protein. These types of cookbooks often marry recipes inspired by the American South with Indian, African, and Caribbean cuisines. [^ref91] [^ref92]
