@@ -279,7 +279,8 @@ Even though black-eyed peas are considered a very hardy crop, it may struggle as
 [^ref1]: Davis, D. W., et al. “Cowpea.” Alternative Crops Food Manual, https://hort.purdue.edu/newcrop/afcm/cowpea.html; Mabberley, David J. Mabberley’s Plant Book. 4th ed., Cambridge University Press; Production Guidelines for Cowpeas. Dept. of Agriculture, Forestry and Fisheries, Republic of South Africa, 2011.
 [^ref2]: Kew Science. “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science.” Plants of the World Online, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. Accessed 12 July 2021.
 [^ref3]: Grönemeyer JL, Hurek T, Bünger W, Reinhold-Hurek B. Bradyrhizobium vignae sp. nov., a nitrogen-fixing symbiont isolated from effective nodules of Vigna and Arachis. Int J Syst Evol Microbiol. 2016 Jan;66(1):62-69. doi: 10.1099/ijsem.0.000674.
-      
+
+[^ref68]: Herniter, Ira A., et al. “Genetic, Textual, and Archeological Evidence of the Historical Global Spread of Cowpea (Vigna Unguiculata [L.] Walp.).” Legume Science, vol. 2, no. 4, 2020, p. e57, doi:10.1002/leg3.57
 [^ref69]: https://digitalcollections.universiteitleiden.nl/japanese_agriculture_19th_century
 [^ref70]: Vaughan DA, Srinives P. The genetics of domestication of yardlong bean, Vigna unguiculata (L.) Walp. ssp. unguiculata cv.-gr. sesquipedalis. Ann Bot. 2012 May;109(6):1185-200. doi: 10.1093/aob/mcs048.
 [^ref71]: Kew Science, “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science,” Plants of the World Online, accessed July 12, 2021, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. 
