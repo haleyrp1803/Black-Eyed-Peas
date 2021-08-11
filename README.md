@@ -68,7 +68,7 @@ Plant biologists look at the genetic structure of different specimens to determi
        author="Herniter, IA, Muñoz-Amatriaín, M, Close, TJ. Genetic, textual, and archeological evidence of the historical global spread of cowpea (Vigna unguiculata [L.] Walp.). Legume Science. 2020; 2:e57. https://doi.org/10.1002/leg3.57"
        url="https://onlinelibrary.wiley.com/cms/asset/302e2d1e-bd02-4798-8a80-81195158ece3/leg357-fig-0002-m.jpg">
 
-By 1500 BCE, the black-eyed pea or cowpea had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent.  The native range of the cowpea in Africa and its subsequent introduction across the world can be seen on this map.
+By 1500 BCE, the black-eyed pea or cowpea had spread through North Africa and beyond: out to the Mediterranean, the Arabian peninsula, central Asia, and the Indian subcontinent.  The native range of the cowpea in Africa (here shown in blue) and its subsequent introduction across the world (in green) can be seen on this map.
 <param ve-map zoom="2"
        title="Black-Eyed Pea Distribution"
        description="The map shows the areas where black-eyed peas are cultivated today. They originated in the blue territories in Africa and were introduced ot the green territories across the globe.">
