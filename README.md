@@ -13,7 +13,6 @@
 
 Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient crop and a food of the future. Also known as crowder pea, caupi, southern pea, alubia carilla, neibe and frijole, as well as chowlee in India, gubgub in the West Indies and akkerboon in South Africa;[^ref1] its many names reflect its worldwide appeal. These nourishing, protein-rich, easily-grown <span eid="Q145909"> legumes </span> are closely related to mung beans, adzuki beans and bambara groundnuts.
 
-(Top image shows the sheer variety of black-eyed peas in culivation, image courtesy of Jeffrey Ehlers)
 <param ve-image 
        label="Black-eyed peas are small distinctive white beans"
        description="Hands holding small white beans known as black-eyed peas"
@@ -39,6 +38,7 @@ Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient cro
        author="Harry Rose via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Vigna_unguiculata_nodules1_%2810737516253%29.jpg">
 
+(Top image shows the sheer variety of black-eyed peas in culivation, image courtesy of Jeffrey Ehlers)
 
 ## An easy, useful crop
 Black-eyed peas grow best in semi-arid conditions, poor soils and with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest within 100 days. Grown since ancient times, these (mainly annual) leguminous plants (in the plant family Fabaceae) have now become a staple part of the diets of hundreds of millions of people around the world. It is not just the seeds (the beans or peas as we call them) that are harvested however – the leaves and pods of this reliable plant are also edible and used as a vegetable, or can be used for cattle fodder or hay,[^ref2] and, being legumes, they also enrich the soil through the presence of around 21 different (bradyrhizobial) symbiotic <span eid="Q15098397"> nitrogen-fixing bacteria in nodules </span> on their roots.[^ref3]
@@ -82,8 +82,8 @@ As we’ve seen, black-eyed peas had been consumed for millennia, especially in 
 <param ve-image
        fit="contain"
        label="Pliny's Natural History"
-       license="Public Domain via Wikimedia Commons"
-       url="https://upload.wikimedia.org/wikipedia/commons/6/67/Naturalishistoria.jpg">
+       license="Public Domain courtesy of Smithsonian Libraries via BHL"
+       url="https://www.archive.org/download/caiipliniisecund41781plin/page/n8_w285">
 
 The oft-repeated adage 'you are what you eat,' was the rule of the day; those who ate fresh foods were understood as the wiser and healther social elite, while the consumers of dried foods were understood as less intelligent, somewhat unhealthy agents of a rough and tumble lifestyle. Such ideas persisted into the early modern period and can be seen, for example, in Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean Eater_ (painted c. 1590), which depicts a man eating a bowl of black-eyed peas. Carracci's painterly style in this work, a collection of swiftly rendered and unblended brushstrokes that give the appearance of a rough surface, acknowledges the man's status: unrefined in dress and manners, he eats an entirely typical and humble meal of black-eyed peas. This depiction shows a familiar trope of peasant life and suggests the man and his food are perhaps unruly parts of late sixteenth-century Italy's deeply heirarchical and classist society. The beans, associated with excessive gas, also suggest the food and the person eating it might be disruptive to the social fabric they inhabit. Despite the fact that black-eyed peas had been a vital part of the Southern European diet and culture for centuries, they are here presented as both marginal and familiar, this form of othering is a glimpse of what was to come for the black-eyed pea.
 <param ve-image fit="contain"
