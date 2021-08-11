@@ -81,9 +81,9 @@ As we’ve seen, black-eyed peas had been consumed for millennia, especially in 
 
 <param ve-image
        fit="contain"
-       label="'Dolichos catiang' in the _Hortus Malabaricus_, vol 8, 1688"
-       license="courtesy of Missouri Botanical Garden via plantillustrations.org"
-       url="http://www.plantillustrations.org/ILLUSTRATIONS_HD_/123123.jpg">
+       label="Pliny's Natural History"
+       license="Public Domain via Wikimedia Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/67/Naturalishistoria.jpg">
 
 The oft-repeated adage 'you are what you eat,' was the rule of the day; those who ate fresh foods were understood as the wiser and healther social elite, while the consumers of dried foods were understood as less intelligent, somewhat unhealthy agents of a rough and tumble lifestyle. Such ideas persisted into the early modern period and can be seen, for example, in Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean Eater_ (painted c. 1590), which depicts a man eating a bowl of black-eyed peas. Carracci's painterly style in this work, a collection of swiftly rendered and unblended brushstrokes that give the appearance of a rough surface, acknowledges the man's status: unrefined in dress and manners, he eats an entirely typical and humble meal of black-eyed peas. This depiction shows a familiar trope of peasant life and suggests the man and his food are perhaps unruly parts of late sixteenth-century Italy's deeply heirarchical and classist society. The beans, associated with excessive gas, also suggest the food and the person eating it might be disruptive to the social fabric they inhabit. Despite the fact that black-eyed peas had been a vital part of the Southern European diet and culture for centuries, they are here presented as both marginal and familiar, this form of othering is a glimpse of what was to come for the black-eyed pea.
 <param ve-image fit="contain"
