@@ -81,9 +81,9 @@ As we’ve seen, black-eyed peas had been consumed for millennia, especially in 
 
 <param ve-image
        fit="contain"
-       label="Pliny's Natural History"
-       license="Public Domain courtesy of Smithsonian Libraries via BHL"
-       url="https://www.archive.org/download/caiipliniisecund41781plin/page/n8_w285">
+       label="Pliny's Naturalis historia, an edition printed by Johannes Alvisius in 1499 in Venezia, Italy"
+       license="CC BY-SA 3.0"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/36/Plinius_t_y_Venezia_1499_IMG_3886.JPG">
 
 The oft-repeated adage 'you are what you eat,' was the rule of the day; those who ate fresh foods were understood as the wiser and healther social elite, while the consumers of dried foods were understood as less intelligent, somewhat unhealthy agents of a rough and tumble lifestyle. Such ideas persisted into the early modern period and can be seen, for example, in Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean Eater_ (painted c. 1590), which depicts a man eating a bowl of black-eyed peas. Carracci's painterly style in this work, a collection of swiftly rendered and unblended brushstrokes that give the appearance of a rough surface, acknowledges the man's status: unrefined in dress and manners, he eats an entirely typical and humble meal of black-eyed peas. This depiction shows a familiar trope of peasant life and suggests the man and his food are perhaps unruly parts of late sixteenth-century Italy's deeply heirarchical and classist society. The beans, associated with excessive gas, also suggest the food and the person eating it might be disruptive to the social fabric they inhabit. Despite the fact that black-eyed peas had been a vital part of the Southern European diet and culture for centuries, they are here presented as both marginal and familiar, this form of othering is a glimpse of what was to come for the black-eyed pea.
 <param ve-image fit="contain"
@@ -94,7 +94,7 @@ The oft-repeated adage 'you are what you eat,' was the rule of the day; those wh
 
 Carracci was not the only artist to depict beans or peas. Throughout Europe, there are various artworks that took inspiration from peas (be it their leaves, their delicate blossoms, or their sinuous tendril-filled vines). The peas depicted, however, were not of the black-eyed variety, but rather verdant green peas considered domestic to Europe, such as the 'English green pea'. The plant became an emblem for love, fertility, and even lust. The fresh green pea, however, was also a foot for the elite, and they decorated their homes and gardens accordingly. In painter Giuseppe Arcimboldo's allegorical portrait of_Summertime_(from 1573), a moment in the cycle of seasons when plants are at their most fertile, he uses a green peapod to represent a woman's smiling mouth. Each tooth is represented by a perfectly round pea, her spreading smile a literal show of abundance. Compared to Carraci's rought brushtrokes, Arcimboldo's work uses fine, brushwork to create a smooth surface akin to that of the round, hard vegtable rinds he depicts. Arcimboldo's paintings were made for wealthy Eropean aristocrats who would have delighted in the variety of plants (many of which they ate) contained within each painting, these works a veritable botanical garden rendered in human form. It would have been this same eschelon of patron that funded and maintained such gardens. In fact, Arcimboldo's most devoted patron, Holy Roman Emperor Rudolph II, oversaw from his seat of power in Vienna some of the finest botanical gardens in all of Europe. 
 <param ve-image fit="contain"
-       label="Sumer"
+       label="Summertime by Giuseppe Arcimboldo, 1573"
        description="Painting"
        license="Public Domain via Wikipedia"
        url="https://upload.wikimedia.org/wikipedia/commons/d/df/Giuseppe_Arcimboldo_-_Summer_-_WGA00811.jpg">
