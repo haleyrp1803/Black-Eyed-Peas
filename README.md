@@ -156,15 +156,26 @@ How black-eyed peas travelled from Africa into Asia is the subject of conjecture
        license="CC BY-SA 4.0 via Leiden University Library, Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Leiden_University_Library_-_Seikei_Zusetsu_vol._18%2C_page_032_-_%E7%99%BD%E4%B8%8D%E8%80%81_-_Vigna_unguiculata_%28L.%29_Walp._-_cv._-_group_Sesquipedalis%2C_1804.jpg">
 
+
+## A Colonial Crop
+Although black-eyed pea was not grown as a crop in Britain (it usually being far too cold and wet), its inclusion in the [Economic Botany Collection](https://www.kew.org/science/collections-and-resources/collections/economic-botany-collection) of the <span eid="Q18748726"> Royal Botanic Gardens Kew </span> is telling.  Here, over a hundred different collections of [seeds](https://ecbot.science.kew.org/main_image.php?imageid=EBC_68901), pods, ‘fibre’ and even a [model](https://ecbot.science.kew.org/read_ecbot.php?catno=61536&search_term=vigna%20unguiculata&search_type=name&imagechecklist=Images) of black-eyed peas are kept, mean that it was obviously studied as a useful colonial crop plant. Donations are as diverse as from Nigeria, India, Laos, China and Japan, but also from imperial exhibitions where plant products were displayed such as the <span eid="Q5148408"> Colonial and India Exhibition of 1886 </span>, the Japan/British Exhibition of 1910, the British Industries Fair of 1930, as well as the <span eid="Q10534945"> India Museum </span>, the Imperial Institute, the Jamaica Agricultural Society, and colonial expeditions including <span eid="Q183567"> Dr WB Baikie's </span> Niger Expedition of 1859. One undated individual collection was even donated by the HRH the Prince of Wales, from the ‘East Indies’. 
+
+<param ve-image 
+       label="The Colonial and India Exhibition of 1886, Jamaica stand"
+       description="An engraving showing the Jamaica stand at the 1886 Colonial and India Exhibition in London"
+       fit="contain"
+       license="Public Domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Jamaica_at_the_Colonial_and_Indian_Exhibition%2C_London_1886.jpg">
+       
+       
+## Culinary History and Cultural Celebrations
+
 Today, black-eyed peas are grown commercially in at least 33 countries,[^ref71] this widespread embrace of the bean uniting geographically disparate peoples, places, and cultures. As acclaimed food historian and chef Michael Twitty points out, “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories.[^ref72] Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is useful to keep in mind for any discussion of food as widely used across culinary traditions as black-eyed peas.[^ref73]
 <param ve-video 
        id="R6l8jRF-eGA"
        title="A feast of African-American culinary contributions, baked into the South’s DNA"
        author="PBS NewsHour">
-
-
-## Culinary History and Cultural Celebrations
-
+       
 Black-eyed peas are a staple of the <span eid="Q49042"> Southern American </span> diet and an iconic component of Black culinary history. The peas are key ingredients for everything from stews to salads to savory bean and rice dishes, but perhaps they are most iconic for their modern associations with New Year’s. <span eid="Q1763911"> Hoppin’ John </span> is a popular rice, bean, and pork dish that brings good luck and prosperity. It is often served with greens to symbolize wealth and is an absolute must for any modern Southern New Year’s celebration. [^ref74][^ref75] <span eid="Q1810575"> Thiebou niebe,</span> a classic Senegalese dish made similarly from black-eyed peas, rice, and ham, may be the base where the recipe originated. [^ref76][^ref77] 
 <param ve-video 
        id="v7HwKxDus9E"
@@ -227,15 +238,6 @@ For both Hoppin’ John and _feijoada completa_, what was originally a means for
        author="Steve Snodgrass"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Soul_Food_Deli_Shreveport.jpg/1280px-Soul_Food_Deli_Shreveport.jpg">
 
-## A Colonial Crop
-Although black-eyed pea was not grown as a crop in Britain (it usually being far too cold and wet), its inclusion in the [Economic Botany Collection](https://www.kew.org/science/collections-and-resources/collections/economic-botany-collection) of the <span eid="Q18748726"> Royal Botanic Gardens Kew </span> is telling.  Here, over a hundred different collections of [seeds](https://ecbot.science.kew.org/main_image.php?imageid=EBC_68901), pods, ‘fibre’ and even a [model](https://ecbot.science.kew.org/read_ecbot.php?catno=61536&search_term=vigna%20unguiculata&search_type=name&imagechecklist=Images) of black-eyed peas are kept, mean that it was obviously studied as a useful colonial crop plant. Donations are as diverse as from Nigeria, India, Laos, China and Japan, but also from imperial exhibitions where plant products were displayed such as the <span eid="Q5148408"> Colonial and India Exhibition of 1886 </span>, the Japan/British Exhibition of 1910, the British Industries Fair of 1930, as well as the <span eid="Q10534945"> India Museum </span>, the Imperial Institute, the Jamaica Agricultural Society, and colonial expeditions including <span eid="Q183567"> Dr WB Baikie's </span> Niger Expedition of 1859. One undated individual collection was even donated by the HRH the Prince of Wales, from the ‘East Indies’. 
-
-<param ve-image 
-       label="The Colonial and India Exhibition of 1886, Jamaica stand"
-       description="An engraving showing the Jamaica stand at the 1886 Colonial and India Exhibition in London"
-       fit="contain"
-       license="Public Domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Jamaica_at_the_Colonial_and_Indian_Exhibition%2C_London_1886.jpg">
 
 ## Modern production
 Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as cultivation is still mainly in the hands of small-holder farmers, but also because they are such a staple food that most harvests are used locally rather than being exported. However the FAO estimate around 7 million tonnes are produced annually. [^ref86] The centres of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s black-eyed pea crop. [^ref87] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains such as sorghum and millet or rice.[^ref88] It is the third most important pulse worldwide, an important element of sustainable agriculture, and feeds hundreds of millions of people.
