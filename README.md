@@ -52,16 +52,14 @@ Black-eyed peas grow best in semi-arid conditions, poor soils and with little he
     src="https://v6p9d9t4.ssl.hwcdn.net/html/4285918/Black_Eyed_Peas_Interactive/index.html">
 
 
-## Food in the Deep Past
-
-Genomic sequencing suggests that humans domesticated an earlier wild relative independently in two regions: in West Africa, with vegetation zones [1] that change based on latitude, and East Africa, with vegetation zones that change based on altitude. Even to the present day, <span eid="Q55613"> ecotones </span> are valuable sites for settlement because they allow for mixed food systems: wild gathering, hunting, fishing and aquaculture, keeping small livestock and/or building larger herds, <span eid="Q397350"> agroforestry </span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.  Because black-eyed peas mature quickly and produce reliably with only a little land and labor, they are useful crops the whole year round!
+Genomic sequencing suggests that humans domesticated an earlier wild relative independently in two regions: in West Africa, with vegetation zones [1] that change based on latitude, and East Africa, with vegetation zones that change based on altitude. Even to the present day, <span eid="Q55613"> ecotones </span> are valuable sites for settlement because they allow for mixed food systems: wild gathering, hunting, fishing and aquaculture, keeping small livestock and/or building larger herds, <span eid="Q397350"> agroforestry </span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.[ref^41]  Because black-eyed peas mature quickly and produce reliably with only a little land and labor, they are useful crops the whole year round!
 <param ve-image
        fit="contain"
        label="Proposed spread of cowpea from its origins of domestication, Herniter et al 2020"
        author="Herniter, IA, Muñoz-Amatriaín, M, Close, TJ. Genetic, textual, and archeological evidence of the historical global spread of cowpea (Vigna unguiculata [L.] Walp.). Legume Science. 2020; 2:e57. https://doi.org/10.1002/leg3.57"
        url="https://onlinelibrary.wiley.com/cms/asset/302e2d1e-bd02-4798-8a80-81195158ece3/leg357-fig-0002-m.jpg">
 
-Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in <span eid="Q190375"> historical linguistics </span> have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the <span eid="Q130251"> Bantu Expansions </span>. Comparing today’s languages with each other lets scientists reconstruct the languages of the past, and historians can trace the spread of the root-word for cowpea, _kunde_, as it appeared in languages across the continent.
+Plant biologists look at the genetic structure of different specimens to determine how closely related they are. Specialists in <span eid="Q190375"> historical linguistics </span> have applied a similar technique to language families. Today, over 500 Bantu languages are spoken by hundreds of millions of people across Southern Africa as the result of a process historians call the <span eid="Q130251"> Bantu Expansions </span>. Comparing today’s languages with each other lets scientists reconstruct the languages of the past, and historians can trace the spread of the root-word for cowpea, _kunde_, as it appeared in languages across the continent.[^ref42]
 <param ve-image
        fit="contain"
        label="Proposed spread of cowpea from its origins of domestication, Herniter et al 2020"
@@ -330,7 +328,8 @@ South Carolina and Georgia, as a Slave Under Various Masters, and was One Year i
 [^ref94]: Medearis, Angela Shelf. The Ethnic Vegetarian: Traditional and Modern Recipes from Africa, America, and the Caribbean. Emmaus, Penn.: RODALE, 2004. http://archive.org/details/isbn_9781579546182. 
 [^ref95]: Major, Michael. “Cowpea: How to Make a Hardy Crop Even Tougher.” Crop Wild Relatives, https://www.cwrdiversity.org/cowpea/. Accessed 15 July 2021.
 [^ref96]: “Cowpea.” Crop Trust, https://www.croptrust.org/crop/cowpea/. Accessed 15 July 2021							    
-
+[^ref41]: Logan, Amanda. The Scarcity Slot: Excavating Histories of African Food Security. University of California Press, 2020.
+[^ref42]: 
        
 <!--  
 							    
