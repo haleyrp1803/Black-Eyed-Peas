@@ -85,6 +85,7 @@ As we’ve seen, black-eyed peas had been consumed for millennia, especially in 
 
 Moreover, the stigma of eating dried foods, rather than fresh, further impinged the reputation of the bean and its eaters: while wealthy and socially powerful individuals could afford fresh foods, peasants relied upon cheaper dried foods. This imbrication of class, culture, and food is apparent, for example, in ancient Greek and Roman 'unswept floor' mosaics, which are meant to depict the scraps strewn across a floor after a lavish banquet. Pliny himself commented on such artworks. In perhaps the most famous example of this genre (completed by the ancient Greek artist <span eid="Q116658"> Sosus of Pergamon </span> in the 2nd century BCE), lobster shells, olive pits, partially eaten fish, and nuts litter the ground, but nary a bean is to be found. 
 <param ve-iframe
+       fit="contain"
        label="Herakleitos, from Sosus of Pergamon, Public domain, via Wikimedia Commons" 		 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Restes_du_banquet%2C_mosa%C3%AFque.jpg/512px-Restes_du_banquet%2C_mosa%C3%AFque.jpg">
        
 
