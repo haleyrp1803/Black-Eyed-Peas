@@ -10,6 +10,7 @@
        layout="vertical">
 
 ## Black-eyed Peas
+<!--May need to add top level 'about' eid here? have asked Ashley-->
 
 Black-eyed peas or cowpeas (_Vigna unguiculata_ L. Walp) are both an ancient crop and a food of the future. Also known as crowder pea, caupi, southern pea, alubia carilla, neibe and frijole, as well as chowlee in India, gubgub in the West Indies and akkerboon in South Africa;[^ref1] its many names reflect its worldwide appeal. These nourishing, protein-rich, easily-grown <span eid="Q145909"> legumes </span> are closely related to mung beans, adzuki beans and bambara groundnuts.
 
