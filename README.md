@@ -5,7 +5,7 @@
 <param ve-config 
        banner="https://newsroom.ucr.edu/images/releases/1708_0hi.jpg" 
        license="Photo courtesy of Jeffrey Ehlers"
-       title="Black-Eyed Peas: Crop, Culture, Class" <!--Cultural Barometers-->
+       title="Black-Eyed Peas: Crop, Culture, Class" 
        author="Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan"
        layout="vertical">
 
