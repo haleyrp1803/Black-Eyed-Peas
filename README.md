@@ -313,7 +313,8 @@ South Carolina and Georgia, as a Slave Under Various Masters, and was One Year i
 [^ref83]: Olivia Ware Terenzio. “Feijoada and Hoppin’ John: Dishing the African Diaspora in Brazil and the United States.” Southern Cultures 25 4 (2019): 158–75. 
 [^ref84]: Ibid. 
 [^ref85]: Wallach, Jennifer Jensen. Every Nation Has Its Dish: Black Bodies and Black Food in Twentieth-Century America. Chapel Hill, UNITED STATES: University of North Carolina Press, 2019. http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=5596573. 
-[^ref86]: Rawal, V. & Navarro, D. K., eds. The Global Economy of Pulses. Rome, FAO. 2019. http://www.fao.org/3/i7108en/i7108en.pdf				[^ref87]: “Cowpea.” https://www.cwrdiversity.org/crop/cowpea/. Accessed 15 July 2021						    
+[^ref86]: Rawal, V. & Navarro, D. K., eds. The Global Economy of Pulses. Rome, FAO. 2019. http://www.fao.org/3/i7108en/i7108en.pdf
+[^ref87]: “Cowpea.” https://www.cwrdiversity.org/crop/cowpea/. Accessed 15 July 2021						    
 [^ref88]: Matthus, Elsa. A Global Rescue: Safeguarding the World’s Crop Wild Relatives. www.cwrdiversity.org, 2019, https://www.cwrdiversity.org/wp/wp-content/uploads/2019/12/global_rescue_170x240_spread.pdf.
 [^ref89]:  Herniter, Ira A., et al. “Genetic, Textual, and Archeological Evidence of the Historical Global Spread of Cowpea (Vigna Unguiculata [L.] Walp.).” Legume Science, vol. 2, no. 4, 2020, p. e57, doi:10.1002/leg3.57							    
 [^ref90]: https://www.cwrdiversity.org/cowpea-cracking-on-with-climate-change/
