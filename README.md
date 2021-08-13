@@ -5,7 +5,7 @@
 <param ve-config 
        banner="https://newsroom.ucr.edu/images/releases/1708_0hi.jpg" 
        license="Photo courtesy of Jeffrey Ehlers"
-       title="Black-Eyed Peas: Culture and Community" 
+       title="Black-Eyed Peas: Culture and Community" <!--Cultural Barometers-->
        author="Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan"
        layout="vertical">
 
