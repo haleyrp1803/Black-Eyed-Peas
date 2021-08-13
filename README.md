@@ -79,7 +79,7 @@ Authors since ancient times have described black-eyed peas in texts on plants an
 <param ve-iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc&font=Default&lang=en&initial_zoom=3&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'">
 
 
-## Early Modern European History
+## Early Modern European History <!--should we change subtitle here to something like Cultural Perceptions in Europe-->
 As we’ve seen, black-eyed peas had been consumed for millennia, especially in the Mediterranean. Records of their consumption and use within Europe during the Middle Ages (roughly the fifth through to the fifteenth centuries), however, are relatively scarce. Humble beans, understood as a food for peasants and livestock, would have been considered subject matter too lowly for inclusion in the annals of history. Indeed, surviving historical documents, for example letters or works of art from this period, very often focus on the interests of wealthier individuals who would have thought themselves too refined to consume black-eyed peas. Since antiquity, the black-eyed pea has been a cultural marker of those who lacked social status. Ancient Roman chronicler <span eid="Q82778"> Pliny </span> wrote that priests should avoid eating the food for fear its rough nature would upset their delicate and finely attuned constitutions. He also notes that <span eid="Q10261"> Pythagoras </span> and his followers did not eat black-eyed peas because they “believed the souls of the dead to be contained within" the dried beans.[^ref10] 
 <param ve-image
        fit="contain"
@@ -89,6 +89,7 @@ As we’ve seen, black-eyed peas had been consumed for millennia, especially in 
 
 Moreover, the stigma of eating dried foods, rather than fresh, further impinged the reputation of the bean and its eaters: while wealthy and socially powerful individuals could afford fresh foods, peasants relied upon cheaper dried foods. This imbrication of class, culture, and food is apparent, for example, in ancient Greek and Roman 'unswept floor' mosaics, which are meant to depict the scraps strewn across a floor after a lavish banquet. Pliny himself commented on such artworks. In perhaps the most famous example of this genre (completed by the ancient Greek artist <span eid="Q116658"> Sosus of Pergamon </span> in the 2nd century BCE), lobster shells, olive pits, partially eaten fish, and nuts litter the ground, but nary a bean is to be found. 
 <param ve-iframe
+       fit="contain"
        label="Herakleitos, from Sosus of Pergamon, Public domain, via Wikimedia Commons" 		 		          
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Restes_du_banquet%2C_mosa%C3%AFque.jpg/512px-Restes_du_banquet%2C_mosa%C3%AFque.jpg">
 
@@ -142,7 +143,6 @@ A 'Farmers Bulletin' of 1920 gave specific official advice on [growing cowpeas](
 <param ve-iframe
        src="https://books.google.co.uk/books?id=QiOMV1jWGiQC&pg=PA1&output=embed">
 
-## Black-eyed peas in Asia
 How black-eyed peas travelled from Africa into Asia is the subject of conjecture as archeological evidencce is hard to come by. Many think it was simply taken along trade routes via Egypt and the Yemen and reached India by 1200 BCE. Written records of the pea appear in the 16th century in China where it is noted in the Ming Dynasty Compendium Materia Medica as (ironically) being a cure for flatulence, as well as kidney problems. In India, black-eyed peas were noted by Thomas Herbert in 1634 as "Indian pease" by which he was referencing the peas he had seen in the West Indies.[^ref68] Meanwhile, in Japan, a copy of the extraordinary 30-volume agricultural encyclopaedia _Seikei Zuetsu_ (written 1793-1804) was gifted to the German physician, botanist and plant collector <span eid="Q77140">Philipp Franz von Siebold</span> in the 1820s. Siebold arrived in Nagasaki in 1823 and started a medical school there, but spent much of his spare time studying Japanese flora and creating his own botanical garden of Japanese plants.[^ref69] The _Seikei Zuetsu_ detailed 109 crops of southern Japan and inside its beautifully illustrated pages can be found the 'cowpea' – most probably showing _Vigna unguiculata_ subsp. _unguiculata_ cv.-gr. _sesquipedalis_ or the 'yard-long bean' which was and still is popular in Asia today.[^ref70] Its presence in this Japanese book of crops from 1800 shows how far the black-eyed pea had come and how its usefulness had been welcomed into many agricultural traditions.
 
 <param ve-image
@@ -152,7 +152,7 @@ How black-eyed peas travelled from Africa into Asia is the subject of conjecture
        url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Leiden_University_Library_-_Seikei_Zusetsu_vol._18%2C_page_032_-_%E7%99%BD%E4%B8%8D%E8%80%81_-_Vigna_unguiculata_%28L.%29_Walp._-_cv._-_group_Sesquipedalis%2C_1804.jpg">
 
 
-## A Colonial Crop
+## A Colonial Crop?
 Although black-eyed pea was not grown as a crop in Britain (it usually being far too cold and wet), its inclusion in the [Economic Botany Collection](https://www.kew.org/science/collections-and-resources/collections/economic-botany-collection) of the <span eid="Q18748726"> Royal Botanic Gardens Kew </span> is telling.  Here, over a hundred different collections of [seeds](https://ecbot.science.kew.org/main_image.php?imageid=EBC_68901), pods, ‘fibre’ and even a [model](https://ecbot.science.kew.org/read_ecbot.php?catno=61536&search_term=vigna%20unguiculata&search_type=name&imagechecklist=Images) of black-eyed peas are kept, mean that it was obviously studied as a useful colonial crop plant. Donations are as diverse as from Nigeria, India, Laos, China and Japan, but also from imperial exhibitions where plant products were displayed such as the <span eid="Q5148408"> Colonial and India Exhibition of 1886 </span>, the Japan/British Exhibition of 1910, the British Industries Fair of 1930, as well as the <span eid="Q10534945"> India Museum </span>, the Imperial Institute, the Jamaica Agricultural Society, and colonial expeditions including <span eid="Q183567"> Dr WB Baikie's </span> Niger Expedition of 1859. One undated individual collection was even donated by the HRH the Prince of Wales, from the ‘East Indies’. 
 
 <param ve-image 
@@ -234,7 +234,7 @@ For both Hoppin’ John and _feijoada completa_, what was originally a means for
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Soul_Food_Deli_Shreveport.jpg/1280px-Soul_Food_Deli_Shreveport.jpg">
 
 ## A food of the future 
-Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as cultivation is still mainly in the hands of small-holder farmers, but also because they are such a staple food that most harvests are used locally rather than being exported. However the FAO estimate around 7 million tonnes are produced annually. [^ref86] The centres of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s black-eyed pea crop. [^ref87] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains such as sorghum and millet or rice.[^ref88] It is the third most important pulse worldwide, an important element of sustainable agriculture, and feeds hundreds of millions of people.
+Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as cultivation is still mainly in the hands of small-holder farmers, but also because they are such a staple food that most harvests are used locally rather than being exported. However the FAO estimate around 7 million tonnes are produced annually. [^ref86] The centres of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s black-eyed pea crop.[^ref87] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains such as sorghum and millet or rice.[^ref88] It is the third most important pulse worldwide, an important element of sustainable agriculture, and feeds hundreds of millions of people.
 <param ve-image
        label="Smallholder farmer drying cowpeas in Ghana"
        description="A farmer in Ghana turns a pile of black-eyed pea pods to dry them"
