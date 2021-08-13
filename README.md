@@ -48,7 +48,7 @@ Black-eyed peas grow best in semi-arid conditions, poor soils and with little he
        src="https://haleyrp1803.itch.io/black-eyed-peas-interactive-diagram"
        allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr"> -->
 <param ve-iframe
-       label="Interactive Black-Eyed Pea Diagram"
+       label="Interactive Black-Eyed Pea Illustration"
     src="https://v6p9d9t4.ssl.hwcdn.net/html/4285918/Black_Eyed_Peas_Interactive/index.html">
 
 
@@ -88,10 +88,11 @@ As we’ve seen, black-eyed peas had been consumed for millennia, especially in 
        url="https://upload.wikimedia.org/wikipedia/commons/3/36/Plinius_t_y_Venezia_1499_IMG_3886.JPG">
 
 Moreover, the stigma of eating dried foods, rather than fresh, further impinged the reputation of the bean and its eaters: while wealthy and socially powerful individuals could afford fresh foods, peasants relied upon cheaper dried foods. This imbrication of class, culture, and food is apparent, for example, in ancient Greek and Roman 'unswept floor' mosaics, which are meant to depict the scraps strewn across a floor after a lavish banquet. Pliny himself commented on such artworks. In perhaps the most famous example of this genre (completed by the ancient Greek artist <span eid="Q116658"> Sosus of Pergamon </span> in the 2nd century BCE), lobster shells, olive pits, partially eaten fish, and nuts litter the ground, but nary a bean is to be found. 
-<param ve-iframe
+<param ve-image
        fit="contain"
-       label="Herakleitos, from Sosus of Pergamon, Public domain, via Wikimedia Commons" 		 		          
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Restes_du_banquet%2C_mosa%C3%AFque.jpg/512px-Restes_du_banquet%2C_mosa%C3%AFque.jpg">
+       label="Banquet leftovers, or Unswept Floor, mosaic. Inspired by Sosus of Pergamon" 
+       license="Public domain via Wikimedia Commons" 		 		          
+       url="https://upload.wikimedia.org/wikipedia/commons/1/14/Restes_du_banquet%2C_mosa%C3%AFque.jpg">
 
 The oft-repeated adage 'you are what you eat,' was the rule of the day; those who ate fresh foods were understood as the wiser and healther social elite, while the consumers of dried foods were understood as less intelligent, somewhat unhealthy agents of a rough and tumble lifestyle. Such ideas persisted into the early modern period and can be seen, for example, in Italian artist <span eid="Q7824"> Annibale Carracci's </span> painting _The Bean Eater_ (painted c. 1590), which depicts a man eating a bowl of black-eyed peas. Carracci's painterly style in this work, a collection of swiftly rendered and unblended brushstrokes that give the appearance of a rough surface, acknowledges the man's status: unrefined in dress and manners, he eats a humble meal of black-eyed peas. This depiction relies on a familiar trope of peasant life and suggests the man and his food are perhaps unruly parts of late sixteenth-century Italy's deeply heirarchical and classist society. The beans, associated with excessive gas, also suggest the food and the person eating it might be disruptive to the social fabric they inhabit. Despite the fact that black-eyed peas had been a vital part of the Southern European diet and culture for centuries, they are here presented as both marginal and familiar, this form of othering a glimpse of what was to come for the black-eyed pea.
 <param ve-image fit="contain"
