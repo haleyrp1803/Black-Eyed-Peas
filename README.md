@@ -9,7 +9,7 @@
        author="Sarah Mallory, Emily Kamm, Haley Price, and Christina Hourigan"
        layout="vertical">
 
-## Introduction
+## What's in a Name?
 <!--May need to add top level 'about' eid here? have asked Ashley-->
 
 Black-eyed peas or cowpeas, _Vigna unguiculata_ (L.) Walp., are both an ancient crop and a food of the future. Also known as crowder pea, caupi, southern pea, alubia carilla, neibe and frijole, as well as chowlee in India, gubgub in the West Indies and akkerboon in South Africa;[^ref1] its many names reflect its worldwide appeal. These nourishing, protein-rich, easily-grown <span eid="Q145909"> legumes </span> are closely related to mung beans, adzuki beans and bambara groundnuts.
@@ -39,8 +39,12 @@ Black-eyed peas or cowpeas, _Vigna unguiculata_ (L.) Walp., are both an ancient 
        author="Harry Rose via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Vigna_unguiculata_nodules1_%2810737516253%29.jpg">
 
+Authors since ancient times have described black-eyed peas in texts on plants and the natural world. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification.[^ref17] These changes in nomenclature also reveal emerging European ideas about the local and the foreign. More recently, taxonomists have been re-classifying the genus _Vigna_ and today all cultivated black-eyed peas are grouped under _Vigna unguiculata_ subspecies _unguiculata_. However, it was well known by many common names throughout ancient Eurasia, and was understood as a nutritious source of food for humans and livestock alike.
+        
+<param ve-iframe 
+       src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc&font=Default&lang=en&initial_zoom=3&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'">
 
-## An easy, useful crop
+## Growth and Distribution <!-- An easy, useful crop -->
 Black-eyed peas grow best in semi-arid conditions, poor soils and with little help. They are heat-loving and drought-tolerant, and grow quickly, often giving a harvest within 100 days. Grown since ancient times, these (mainly annual) leguminous plants (in the plant family Fabaceae) have now become a staple part of the diets of hundreds of millions of people around the world. It is not just the seeds (the beans or peas as we call them) that are harvested however – the leaves and pods of this reliable plant are also edible and used as a vegetable, or can be used for cattle fodder or hay,[^ref2] and, being legumes, they also enrich the soil through the presence of around 21 different (bradyrhizobial) symbiotic <span eid="Q15098397"> nitrogen-fixing bacteria in nodules </span> on their roots.[^ref3]
 <!-- <param ve-iframe
        label="Interactive Black-Eyed Pea Diagram"
@@ -50,7 +54,6 @@ Black-eyed peas grow best in semi-arid conditions, poor soils and with little he
 <param ve-iframe
        label="Interactive Black-Eyed Pea Illustration"
     src="https://v6p9d9t4.ssl.hwcdn.net/html/4285918/Black_Eyed_Peas_Interactive/index.html">
-
 
 Genomic sequencing suggests that humans domesticated an earlier wild relative independently in two regions: in West Africa, with vegetation zones that change based on latitude, and East Africa, with vegetation zones that change based on altitude. Even to the present day, <span eid="Q55613"> ecotones </span> are valuable sites for settlement because they allow for mixed food systems: wild gathering, hunting, fishing and aquaculture, keeping small livestock and/or building larger herds, <span eid="Q397350"> agroforestry </span>, and crop cultivation. Diverse specializations protect the community by relying on different foods at different times of the year and ensuring no single crop failure will cause a famine.[^ref41] Because black-eyed peas mature quickly and produce reliably with only a little land and labor, they are useful crops the whole year round!
 <param ve-image
@@ -73,13 +76,8 @@ By 1500 BCE, the black-eyed pea or cowpea had spread through North Africa and be
 <param ve-map-layer geojson active
        url="Distribution_5.geojson">
        
-## What's in a Name?
-Authors since ancient times have described black-eyed peas in texts on plants and the natural world. In European botany there has long existed a confusion regarding the plant’s common and Latin names, some of this stemming from ever-changing ideas of the pea’s origins and classification.[^ref17] These changes in nomenclature also reveal emerging European ideas about the local and the foreign. More recently, taxonomists have been re-classifying the genus _Vigna_ and today all cultivated black-eyed peas are grouped under _Vigna unguiculata_ subspecies _unguiculata_. However, it was well known by many common names throughout ancient Eurasia, and was understood as a nutritious source of food for humans and livestock alike.
-        
-<param ve-iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1W0SMnkIazbZBjC-xTUWGr2oHYtt0yCTuwkxY9U3Dtdc&font=Default&lang=en&initial_zoom=3&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'">
+## Cultural Perceptions in Early Modern Europe <!-- previously titled Early Modern European History -->
 
-
-## Early Modern European History <!--should we change subtitle here to something like Cultural Perceptions in Europe-->
 As we’ve seen, black-eyed peas had been consumed for millennia, especially in the Mediterranean. Records of their consumption and use within Europe during the Middle Ages (roughly the fifth through to the fifteenth centuries), however, are relatively scarce. Humble beans, understood as a food for peasants and livestock, would have been considered subject matter too lowly for inclusion in the annals of history. Indeed, surviving historical documents, for example letters or works of art from this period, very often focus on the interests of wealthier individuals who would have thought themselves too refined to consume black-eyed peas. Since antiquity, the black-eyed pea has been a cultural marker of those who lacked social status. Ancient Roman chronicler <span eid="Q82778"> Pliny </span> wrote that priests should avoid eating the food for fear its rough nature would upset their delicate and finely attuned constitutions. He also notes that <span eid="Q10261"> Pythagoras </span> and his followers did not eat black-eyed peas because they “believed the souls of the dead to be contained within" the dried beans.[^ref10] 
 <param ve-image
        fit="contain"
@@ -122,13 +120,24 @@ Images of black-eyed peas and other varieties of beans and peas shaped European 
        author="John Carter Brown Library via archive.org"
        url="https://ia904500.us.archive.org/BookReader/BookReaderImages.php?zip=/34/items/indiaeorientalis00mare_1/indiaeorientalis00mare_1_jp2.zip&file=indiaeorientalis00mare_1_jp2/indiaeorientalis00mare_1_0171.jp2&id=indiaeorientalis00mare_1&scale=2&rotate=0"> 
 
-## World Traveller 
+## World Traveller
+
+How black-eyed peas travelled from Africa into Asia is the subject of conjecture as archeological evidencce is hard to come by (beans do not survive as grains do). Many think it was simply taken along trade routes via Egypt and the Yemen and reached India by 1200 BCE. Written records of the pea appear in the 16th century in China where it is noted in the Ming Dynasty Compendium Materia Medica as (ironically) being a cure for flatulence, as well as kidney problems. In India, black-eyed peas were noted by Thomas Herbert in 1634 as "Indian pease" by which he was referencing the peas he had seen in the West Indies.[^ref68] Meanwhile, in Japan, a copy of the extraordinary 30-volume agricultural encyclopaedia _Seikei Zuetsu_ (written 1793-1804) was gifted to the German physician, botanist and plant collector <span eid="Q77140">Philipp Franz von Siebold</span> in the 1820s. Siebold arrived in Nagasaki in 1823 and started a medical school there, but spent much of his spare time studying Japanese flora and creating his own botanical garden of Japanese plants.[^ref69] The _Seikei Zuetsu_ detailed 109 crops of southern Japan and inside its beautifully illustrated pages can be found the 'cowpea' – most probably showing _Vigna unguiculata_ subsp. _unguiculata_ cv.-gr. _sesquipedalis_ or the 'yard-long bean' which was and still is popular in Asia today.[^ref70] Its presence in this Japanese book of crops from 1800 shows how far the black-eyed pea had come and how its usefulness had been welcomed into many agricultural traditions.
+
+<param ve-image
+       fit="contain"
+       label="Cowpea in the Seikei Zuetsu, Leiden University Library"
+       license="CC BY-SA 4.0 via Leiden University Library, Wikimedia Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Leiden_University_Library_-_Seikei_Zusetsu_vol._18%2C_page_032_-_%E7%99%BD%E4%B8%8D%E8%80%81_-_Vigna_unguiculata_%28L.%29_Walp._-_cv._-_group_Sesquipedalis%2C_1804.jpg">
+       
 The black-eyed pea was one of thousands of organisms that crossed from Eurasia to the Americas or vice versa, a process referred to since the 1970s as the <span eid="Q767253"> ‘Columbian Exchange’</span>. The African cowpea is thought to have arrived in the Americas around 1500, though this has been the subject of much debate.[^ref13] What is accepted, however, is that the black-eyed pea came to the Americas as a result of the trade of enslaved Africans and New World plantations. In Africa, black-eyed peas were an important staple crop as well as an omen of auspicious occasions, a sign of fertility, an offering to various dieties, a force of connection between ancestors and greater spiritual forces in the world. The cowpea was an important part of many complex and bundant cultural practices as well, helping inspire and fuel the creation of artistic expressions and rituals. Black-eyed peas, however, also came to represent the supporession of culture as one of the primary foodstuffs used during the trans-Atlantic passage, these beans mixed with fatty oils and rancid meats and fed to captives. Englishman <span eid="Q310326"> Sir Hans Sloane </span> notes the pea in Jamaica around 1687 and created this plant specimen there as part of his large Jamaican herbarium. The black-eyed pea was in Virginia by at least the mid-seventeenth century, and Florida by around 1700. 
 
 <param ve-plant-specimen
        label="A herbarium specimen of _Vigna unguiculata_ made by Sir Hans Sloane in Jamaica"
        author="JSTOR Global Plants, courtesy of the Natural History Museum, London"
        jpid="10.5555/al.ap.specimen.bm000589657">
+
+## Food and Class in the Americas
 
 The hard labor of enslaved peoples ensured that the black-eyed pea or cowpea was grown and cultivated as a crop largely for livestock throughout the United States, most especially in the South. Black-eyed peas were both a food served to enslaved peoples as well as a fixture in gardens of enslaved peoples, these beans a hearty supplement to the meagre meals allotted on plantations. Numerous first-hand accounts of enslaved peoples mention black-eyed peas. In Charles Ball's memoire he recalls, "We had plenty of bread, and a supply of black-eyed peas, gathered from our garden, some of which [were] boiled in our kettle, whilst I was gone for the soup; of which there was as much as we could consume, and I believe that every one in the quarter had enough." [^ref18] Francis Fedric, also enslaved, wrote of the bean, "Slaves every Monday morning have a certain quantity of Indian corn handed out to them; this they grind with a handmill, and boil or use the meal as they like. The adult slaves have one salt herring allowed for breakfast, during the winter time. The breakfast hour is usually from ten to eleven o'clock. The dinner consists generally of black-eyed peas soup, as it is called. About a quart of peas is boiled in a large pan, and a small piece of meat, just to flavour the soup, is put into the pan. The next day it would be bean soup ...the soup being served out to the men and women in bowls; but the children feed like pigs out of troughs." [^ref19] Black-eyed peas became “the third most important food crop produced on Carolina plantations between 1730 and 1776.”[^ref16] <span eid="Q11812"> Thomas Jefferson </span> and <span eid="Q23"> George Washington </span> both had black-eyed peas planted on their expansive plantations, and Washington corresponded with friends and acquaintances about growth and cultivation of the plant, which in a [letter of 1787](https://founders.archives.gov/documents/Washington/04-05-02-0442) he calls "small, and round black eyed Pease called the Gentlemans Pea". Jefferson considered the cultivation of peas a pursuit worthy of a gentleman, harkening back to European traditions which placed greater social and cultiral status on green peas. He held yearly pea growing contests, with the first man to produce a fresh pea required to host a dinner for other genetlemen in the area. By the nineteenth century, black-eyed peas, however, achieved new cultural cache and graced the tables of the white ruling class. Enslaved cooks played an important role in bringing this food into rarefied homes.
 
@@ -143,27 +152,7 @@ Throughout the <span eid="Q8676"> Civil War </span>, black-eyed peas remained an
 A 'Farmers Bulletin' of 1920 gave specific official advice on [growing cowpeas](https://books.google.co.uk/books?id=QiOMV1jWGiQC&printsec=frontcover&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=true) in the U.S. Black-eyed peas were, and still are, mainly grown in southern hotter states and California, as the warm, dry conditions are more favourable for bean production there.    
 <param ve-iframe
        src="https://books.google.co.uk/books?id=QiOMV1jWGiQC&pg=PA1&output=embed">
-
-How black-eyed peas travelled from Africa into Asia is the subject of conjecture as archeological evidencce is hard to come by (beans do not survive as grains do). Many think it was simply taken along trade routes via Egypt and the Yemen and reached India by 1200 BCE. Written records of the pea appear in the 16th century in China where it is noted in the Ming Dynasty Compendium Materia Medica as (ironically) being a cure for flatulence, as well as kidney problems. In India, black-eyed peas were noted by Thomas Herbert in 1634 as "Indian pease" by which he was referencing the peas he had seen in the West Indies.[^ref68] Meanwhile, in Japan, a copy of the extraordinary 30-volume agricultural encyclopaedia _Seikei Zuetsu_ (written 1793-1804) was gifted to the German physician, botanist and plant collector <span eid="Q77140">Philipp Franz von Siebold</span> in the 1820s. Siebold arrived in Nagasaki in 1823 and started a medical school there, but spent much of his spare time studying Japanese flora and creating his own botanical garden of Japanese plants.[^ref69] The _Seikei Zuetsu_ detailed 109 crops of southern Japan and inside its beautifully illustrated pages can be found the 'cowpea' – most probably showing _Vigna unguiculata_ subsp. _unguiculata_ cv.-gr. _sesquipedalis_ or the 'yard-long bean' which was and still is popular in Asia today.[^ref70] Its presence in this Japanese book of crops from 1800 shows how far the black-eyed pea had come and how its usefulness had been welcomed into many agricultural traditions.
-
-<param ve-image
-       fit="contain"
-       label="Cowpea in the Seikei Zuetsu, Leiden University Library"
-       license="CC BY-SA 4.0 via Leiden University Library, Wikimedia Commons"
-       url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Leiden_University_Library_-_Seikei_Zusetsu_vol._18%2C_page_032_-_%E7%99%BD%E4%B8%8D%E8%80%81_-_Vigna_unguiculata_%28L.%29_Walp._-_cv._-_group_Sesquipedalis%2C_1804.jpg">
-
-
-## A Colonial Crop?
-Although black-eyed pea was not grown as a crop in Britain (it usually being far too cold and wet), its inclusion in the [Economic Botany Collection](https://www.kew.org/science/collections-and-resources/collections/economic-botany-collection) of the <span eid="Q18748726"> Royal Botanic Gardens Kew </span> is telling.  Here, over a hundred different collections of [seeds](https://ecbot.science.kew.org/main_image.php?imageid=EBC_68901), pods, ‘fibre’ and even a [model](https://ecbot.science.kew.org/read_ecbot.php?catno=61536&search_term=vigna%20unguiculata&search_type=name&imagechecklist=Images) of black-eyed peas are kept, mainly from the 19th century, meaning that this pea was obviously studied in Britain as a useful plant from across the colonial world. Donations are as diverse as from Nigeria, India, Laos, China and Japan, but also from imperial exhibitions where plant products were displayed such as the <span eid="Q5148408"> Colonial and India Exhibition of 1886 </span>, the Japan/British Exhibition of 1910, the British Industries Fair of 1930, as well as the <span eid="Q10534945"> India Museum </span>, the Imperial Institute, the Jamaica Agricultural Society, and colonial expeditions including <span eid="Q183567"> Dr WB Baikie's </span> Niger Expedition of 1859. One undated individual collection was even donated by the HRH the Prince of Wales, from the ‘East Indies’. 
-
-<param ve-image 
-       label="The Colonial and India Exhibition of 1886, Jamaica stand"
-       description="An engraving showing the Jamaica stand at the 1886 Colonial and India Exhibition in London"
-       fit="contain"
-       license="Public Domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Jamaica_at_the_Colonial_and_Indian_Exhibition%2C_London_1886.jpg">
-       
-       
+              
 ## Culinary History and Cultural Celebrations
 
 Today, black-eyed peas are grown commercially in at least 33 countries,[^ref71] this widespread embrace of the bean uniting geographically disparate peoples, places, and cultures. As acclaimed food historian and chef Michael Twitty points out, “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories.[^ref72] Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is useful to keep in mind for any discussion of food as widely used across culinary traditions as black-eyed peas.[^ref73]
@@ -234,7 +223,17 @@ For both Hoppin’ John and _feijoada completa_, what was originally a means for
        author="Steve Snodgrass"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Soul_Food_Deli_Shreveport.jpg/1280px-Soul_Food_Deli_Shreveport.jpg">
 
-## A food of the future 
+## Modern Europe and Colonialism <!-- A Colonial Crop -->
+Although black-eyed pea was not grown as a crop in Britain (it usually being far too cold and wet), its inclusion in the [Economic Botany Collection](https://www.kew.org/science/collections-and-resources/collections/economic-botany-collection) of the <span eid="Q18748726"> Royal Botanic Gardens Kew </span> is telling.  Here, over a hundred different collections of [seeds](https://ecbot.science.kew.org/main_image.php?imageid=EBC_68901), pods, ‘fibre’ and even a [model](https://ecbot.science.kew.org/read_ecbot.php?catno=61536&search_term=vigna%20unguiculata&search_type=name&imagechecklist=Images) of black-eyed peas are kept, mainly from the 19th century, meaning that this pea was obviously studied in Britain as a useful plant from across the colonial world. Donations are as diverse as from Nigeria, India, Laos, China and Japan, but also from imperial exhibitions where plant products were displayed such as the <span eid="Q5148408"> Colonial and India Exhibition of 1886 </span>, the Japan/British Exhibition of 1910, the British Industries Fair of 1930, as well as the <span eid="Q10534945"> India Museum </span>, the Imperial Institute, the Jamaica Agricultural Society, and colonial expeditions including <span eid="Q183567"> Dr WB Baikie's </span> Niger Expedition of 1859. One undated individual collection was even donated by the HRH the Prince of Wales, from the ‘East Indies’. 
+
+<param ve-image 
+       label="The Colonial and India Exhibition of 1886, Jamaica stand"
+       description="An engraving showing the Jamaica stand at the 1886 Colonial and India Exhibition in London"
+       fit="contain"
+       license="Public Domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d6/Jamaica_at_the_Colonial_and_Indian_Exhibition%2C_London_1886.jpg">
+       
+## A Food of the Future 
 Today, worldwide production of black-eyed peas or cowpeas is hard to estimate as cultivation is still mainly in the hands of small-holder farmers, but also because they are such a staple food that most harvests are used locally rather than being exported. However the FAO estimate around 7 million tonnes are produced annually. [^ref86] The centres of production are still in Africa, the plant’s ancestral home, with Niger, Nigeria, Burkina Faso, and Tanzania being among the world’s top producers, accounting for 80% of the world’s black-eyed pea crop.[^ref87] It is estimated that it is grown on more than 12 million hectares in many different countries, where it is often intercropped with grains such as sorghum and millet or rice.[^ref88] It is the third most important pulse worldwide, an important element of sustainable agriculture, and feeds hundreds of millions of people.
 <param ve-image
        label="Smallholder farmer drying cowpeas in Ghana"
@@ -250,7 +249,6 @@ The black-eyed pea is an often-overlooked 'minor' crop, but soon we may all be m
        label="There are thousands of different varieties of black-eyed peas. Image courtesy of Jeffrey Ehlers"
        author="Jeffrey Ehlers, UCR, Gates Foundation"
        url="https://newsroom.ucr.edu/images/releases/1708_0hi.jpg">
-
 
 One can view the growing diet culture and veganism of the West alongide this increased environmental awareness. In both contexts, black-eyed peas and other legumes are growing in status as a key cooking ingredient. There are hundreds of such recipes readily available online and in cookbooks. Some health-focused cookbooks are regional, aiming to transform, for example, traditional southern recipes like black-eyed peas with pork to leaner, lower-sodium alternatives. [^ref92] Others combine recipes across many cultures, like _The Great Vegan Bean Book_, which aims to give vegans more options for flavorful meatless protein. These types of cookbooks often marry recipes inspired by the American South with Indian, African, and Caribbean cuisines. [^ref93] [^ref94]
 <param ve-image 
