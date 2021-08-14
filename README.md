@@ -274,8 +274,6 @@ Over recent decades, significant resources have been put into researching black-
        id="pqmBsUHSkBg"
        title="Beyond the gardens, the crop wild relatives project"
        author="RBG Kew">
-
-## Works Cited 
        
 ## Citations
        
