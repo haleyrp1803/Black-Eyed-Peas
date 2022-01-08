@@ -151,7 +151,7 @@ A 'Farmers Bulletin' of 1920 gave specific official advice on [growing cowpeas](
               
 ## Culinary History and Cultural Celebrations
 
-Today, black-eyed peas are grown commercially in at least 33 countries,[^ref61] reflecting the widespread embrace of the bean among geographically disparate peoples, places and cultures. As acclaimed food historian and chef Michael Twitty points out: “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories.[^ref62] Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is useful to keep in mind for any discussion of food as widely used across culinary traditions as black-eyed peas.[^ref63]
+Today, black-eyed peas are grown commercially in at least 33 countries,[^ref61] reflecting the widespread embrace of the bean among geographically disparate peoples, places, and cultures. As acclaimed food historian and chef Michael Twitty points out: “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories.[^ref62] Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is useful to keep in mind for any discussion of food as widely used across culinary traditions as black-eyed peas.[^ref63]
 <param ve-video 
        id="R6l8jRF-eGA"
        title="A feast of African-American culinary contributions, baked into the South’s DNA"
