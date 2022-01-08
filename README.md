@@ -186,7 +186,7 @@ Hoppin’ John has become symbolic of prosperity for the year ahead, but it orig
        author="Kristen Taylor"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hoppin%27_John.jpg/1280px-Hoppin%27_John.jpg">
 
-Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ on plantations out of black beans and scrap pork. [^ref72][^ref73] It was a meal of necessity for workers as it used the food on hand and could be left simmering unattended during the long day’s work. [^ref74] Today, simple bean and rice dishes are a national staple, but feijoada completa is a celebratory meal for every sector of society, taking days to prepare and requiring better meat, collard greens, rice, orange slices, and manioc flour. [^ref75][^ref76]
+Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ on plantations out of black beans and scrap pork. [^ref72][^ref73] It was a meal of necessity for workers as it used the food on hand and could be left simmering unattended during the long day’s work. [^ref74] Today, simple bean and rice dishes are a national staple, but feijoada completa is a celebratory meal for every sector of society, taking days to prepare and requiring better meat, collard greens, rice, orange slices, and manioc flour. [^ref75] [^ref76]
 <param ve-image 
        label="Feijoada"
        description="Feijoada with rice, fried kale, cassava starch crisps (biscoito de polvilho), cassava flour (farinha), and a mix of olive oil, alcohol vinegar, tomatoes, onions and sometimes bell peppers called vinagrete."
@@ -202,7 +202,7 @@ Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has 
        author="Bradleyzm"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_à_brasileira_-02.jpg/1280px-Feijoada_à_brasileira_-02.jpg">
 
-For both Hoppin’ John and _feijoada completa_, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. However, that’s an overly simplistic view of a complex issue. Southern cooking especially can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, class, race and identity in Southern food and <span eid="Q555997"> Soul Food,</span> with white perspectives usually being unjustly prioritized over Black ones. [^ref77][^ref78]
+For both Hoppin’ John and _feijoada completa_, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. However, that’s an overly simplistic view of a complex issue. Southern cooking especially can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, class, race and identity in Southern food and <span eid="Q555997"> Soul Food,</span> with white perspectives usually being unjustly prioritized over Black ones. [^ref77] [^ref78] 
 <param ve-image 
        label="P & C Soul Food Deli, Shreveport, Louisiana"
        description="P & C Soul Food Deli, Shreveport, Louisiana"
@@ -289,7 +289,7 @@ South Carolina and Georgia, as a Slave Under Various Masters, and was One Year i
 [^ref75]: Ibid. 
 [^ref76]: Terenzio, “Feijoada and Hoppin’ John."
 [^ref77]: Ibid. 
-[^ref85]: Wallach, Jennifer Jensen. Every Nation Has Its Dish: Black Bodies and Black Food in Twentieth-Century America. Chapel Hill, UNITED STATES: University of North Carolina Press, 2019. http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=5596573. 
+[^ref78]: Wallach, Jennifer Jensen. Every Nation Has Its Dish: Black Bodies and Black Food in Twentieth-Century America. Chapel Hill, UNITED STATES: University of North Carolina Press, 2019. http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=5596573. 
 [^ref86]: Rawal, V. & Navarro, D. K., eds. The Global Economy of Pulses. Rome, FAO. 2019. http://www.fao.org/3/i7108en/i7108en.pdf
 [^ref87]: “Cowpea.” https://www.cwrdiversity.org/crop/cowpea/. Accessed 15 July 2021						    
 [^ref88]: Matthus, Elsa. A Global Rescue: Safeguarding the World’s Crop Wild Relatives. www.cwrdiversity.org, 2019, https://www.cwrdiversity.org/wp/wp-content/uploads/2019/12/global_rescue_170x240_spread.pdf.
