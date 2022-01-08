@@ -185,14 +185,8 @@ Hoppin’ John has become symbolic of prosperity for the year ahead, but it orig
        license="Creative Commons Attribution 2.0"
        author="Kristen Taylor"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hoppin%27_John.jpg/1280px-Hoppin%27_John.jpg">
-<param ve-image
-       label="A meal of fried chicken with macaroni and cheese, collard greens, and fried okra."
-       description="Image showing an example of soul food: A meal of fried chicken with macaroni and cheese, collard greens, and fried okra."
-       license="Creative Commons Attribution 2.0 Generic"
-       author="Jennifer Woodard Maderazo"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Soul_Food_at_Powell%27s_Place.jpg/1280px-Soul_Food_at_Powell%27s_Place.jpg">
 
-Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ on plantations out of black beans and scrap pork. [^ref72][^ref73] It was a meal of necessity for workers. It used what food was on hand and could be left simmering unattended during the long day’s work. [^ref74] Today, simple bean and rice dishes are a national staple, but feijoada completa, is a celebratory meal for every sector of society, taking days to prepare and requiring better meat, collard greens, rice, orange slices, and manioc flour. [^ref75][^ref76]
+Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ on plantations out of black beans and scrap pork. [^ref72][^ref73] It was a meal of necessity for workers as it used the food on hand and could be left simmering unattended during the long day’s work. [^ref74] Today, simple bean and rice dishes are a national staple, but feijoada completa is a celebratory meal for every sector of society, taking days to prepare and requiring better meat, collard greens, rice, orange slices, and manioc flour. [^ref75][^ref76]
 <param ve-image 
        label="Feijoada"
        description="Feijoada with rice, fried kale, cassava starch crisps (biscoito de polvilho), cassava flour (farinha), and a mix of olive oil, alcohol vinegar, tomatoes, onions and sometimes bell peppers called vinagrete."
