@@ -151,19 +151,19 @@ A 'Farmers Bulletin' of 1920 gave specific official advice on [growing cowpeas](
               
 ## Culinary History and Cultural Celebrations
 
-Today, black-eyed peas are grown commercially in at least 33 countries,[^ref61] reflecting the widespread embrace of the bean among geographically disparate peoples, places, and cultures. As acclaimed food historian and chef Michael Twitty points out: “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories.[^ref62] Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is useful to keep in mind for any discussion of food as widely used across culinary traditions as black-eyed peas.[^ref63]
+Today, black-eyed peas are grown commercially in at least 33 countries,[^ref161] reflecting the widespread embrace of the bean among geographically disparate peoples, places, and cultures. As acclaimed food historian and chef Michael Twitty points out: “Very few people in the modern West eat one cuisine or live within one culinary construct,” but rather enjoy a multiplicity of culinary histories.[^ref162] Twitty coined the term “identity cooking” to characterize “how we construct complex identities and then express them through how we eat,” an idea that is useful to keep in mind for any discussion of food as widely used across culinary traditions as black-eyed peas.[^ref163]
 <param ve-video 
        id="R6l8jRF-eGA"
        title="A feast of African-American culinary contributions, baked into the South’s DNA"
        author="PBS NewsHour">
        
-Black-eyed peas are a staple of the <span eid="Q49042"> Southern American </span> diet and an iconic component of African American culinary history. The peas are key ingredients for everything from stews to salads to savory bean and rice dishes, but perhaps they are most iconic for their modern associations with New Year’s celebrations. <span eid="Q1763911"> Hoppin’ John </span> is a popular rice, bean, and pork dish that brings good luck and prosperity. It is often served with greens to symbolize wealth and is an absolute must for any modern Southern New Year’s celebration. [^ref64][^ref65] <span eid="Q1810575"> Thiebou niebe,</span> a classic Senegalese dish made similarly from black-eyed peas, rice, and ham, may be the base where the recipe originated. [^ref66][^ref67] 
+Black-eyed peas are a staple of the <span eid="Q49042"> Southern American </span> diet and an iconic component of African American culinary history. The peas are key ingredients for everything from stews to salads to savory bean and rice dishes, but perhaps they are most iconic for their modern associations with New Year’s celebrations. <span eid="Q1763911"> Hoppin’ John </span> is a popular rice, bean, and pork dish that brings good luck and prosperity. It is often served with greens to symbolize wealth and is an absolute must for any modern Southern New Year’s celebration. [^ref164][^ref165] <span eid="Q1810575"> Thiebou niebe,</span> a classic Senegalese dish made similarly from black-eyed peas, rice, and ham, may be the base where the recipe originated. [^ref166][^ref167] 
 <param ve-video 
        id="v7HwKxDus9E"
        title="Tiebou yapp niébé"
        author="LA CUISINE SÉNÉGALAISE DE ASTOU">
 
-Hoppin’ John has become symbolic of prosperity for the year ahead, but it originated in the brutal conditions of American plantations. Enslaved workers created new meals from West African recipes and the crops they had access to in the New World. They grew black-eyed peas and other African crops in their subsistence gardens outside the long hours they were forced to labor in their enslaver’s fields. Additionally, enslaved women were often made to cook for the planter’s family as well as their own. White southerners at first saw black-eyed peas as a lowly food meant to feed livestock and the enslaved. To them, the peas seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [^ref68] However, by the nineteenth century, white women began including recipes from African descendants in their homemaker cookbooks, of course, without crediting the women who pioneered them. [^ref69][^ref70][^ref71]
+Hoppin’ John has become symbolic of prosperity for the year ahead, but it originated in the brutal conditions of American plantations. Enslaved workers created new meals from West African recipes and the crops they had access to in the New World. They grew black-eyed peas and other African crops in their subsistence gardens outside the long hours they were forced to labor in their enslaver’s fields. Additionally, enslaved women were often made to cook for the planter’s family as well as their own. White southerners at first saw black-eyed peas as a lowly food meant to feed livestock and the enslaved. To them, the peas seemed to fit in alongside the pork scraps used to cook Hoppin’ John. [^ref168] However, by the nineteenth century, white women began including recipes from African descendants in their homemaker cookbooks, of course, without crediting the women who pioneered them. [^ref169][^ref170][^ref171]
 <param ve-image 
        label="Hoppin' John at Brenda's Meat & Three for good luck. San Francisco, CA."
        description="Image of Hoppin' John"
@@ -186,7 +186,7 @@ Hoppin’ John has become symbolic of prosperity for the year ahead, but it orig
        author="Kristen Taylor"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hoppin%27_John.jpg/1280px-Hoppin%27_John.jpg">
 
-Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ on plantations out of black beans and scrap pork. [^ref72][^ref73] It was a meal of necessity for workers as it used the food on hand and could be left simmering unattended during the long day’s work. [^ref74] Today, simple bean and rice dishes are a national staple, but feijoada completa is a celebratory meal for every sector of society, taking days to prepare and requiring better meat, collard greens, rice, orange slices, and manioc flour. [^ref75] [^ref76]
+Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ on plantations out of black beans and scrap pork. [^ref172][^ref173] It was a meal of necessity for workers as it used the food on hand and could be left simmering unattended during the long day’s work. [^ref174] Today, simple bean and rice dishes are a national staple, but feijoada completa is a celebratory meal for every sector of society, taking days to prepare and requiring better meat, collard greens, rice, orange slices, and manioc flour. [^ref175] [^ref176]
 <param ve-image 
        label="Feijoada"
        description="Feijoada with rice, fried kale, cassava starch crisps (biscoito de polvilho), cassava flour (farinha), and a mix of olive oil, alcohol vinegar, tomatoes, onions and sometimes bell peppers called vinagrete."
@@ -202,7 +202,7 @@ Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has 
        author="Bradleyzm"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_à_brasileira_-02.jpg/1280px-Feijoada_à_brasileira_-02.jpg">
 
-For both Hoppin’ John and _feijoada completa_, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. However, that’s an overly simplistic view of a complex issue. Southern cooking especially can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, class, race and identity in Southern food and <span eid="Q555997"> Soul Food,</span> with white perspectives usually being unjustly prioritized over Black ones. [^ref77] [^ref78] 
+For both Hoppin’ John and _feijoada completa_, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. However, that’s an overly simplistic view of a complex issue. Southern cooking especially can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, class, race and identity in Southern food and <span eid="Q555997"> Soul Food,</span> with white perspectives usually being unjustly prioritized over Black ones. [^ref177] [^ref178] 
 <param ve-image 
        label="P & C Soul Food Deli, Shreveport, Louisiana"
        description="P & C Soul Food Deli, Shreveport, Louisiana"
@@ -272,24 +272,24 @@ South Carolina and Georgia, as a Slave Under Various Masters, and was One Year i
 [^ref68]: Herniter, Ira A., et al. “Genetic, Textual, and Archeological Evidence of the Historical Global Spread of Cowpea (Vigna Unguiculata [L.] Walp.).” Legume Science, vol. 2, no. 4, 2020, p. e57, doi:10.1002/leg3.57
 [^ref69]: Andel, Tinde. 2016. Crop Diversity in 19th Century Japan: An Analysis of the Seikei Zusetsu agricultural encyclopedia gifted to Philipp Franz von Siebold; https://digitalcollections.universiteitleiden.nl/japanese_agriculture_19th_century
 [^ref70]: Andel, Tinde. 2016. Crop Diversity in 19th Century Japan: An Analysis of the Seikei Zusetsu agricultural encyclopedia gifted to Philipp Franz von Siebold; Vaughan DA, Srinives P. The genetics of domestication of yardlong bean, Vigna unguiculata (L.) Walp. ssp. unguiculata cv.-gr. sesquipedalis. Ann Bot. 2012 May;109(6):1185-200. doi: 10.1093/aob/mcs048.
-[^ref61]: Kew Science, “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science,” Plants of the World Online, accessed July 12, 2021, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. 
-[^ref62]: "Afroculinaria – Exploring Culinary Traditions of Africa, African America and the African Diaspora.” Accessed July 23, 2021. https://afroculinaria.com/. 
-[^ref63]: Ibid. 
-[^ref64]: The Southern Heritage Vegetables Cookbook (Birmingham, Ala. : Oxmoor House, 1983), http://archive.org/details/southernheritage0000unse. 
-[^ref65]: Michael W. Twitty, “Why Black Eyed Peas? Why Greens?,” Afroculinaria (blog), January 1, 2012, https://afroculinaria.com/2012/01/01/why-black-eyed-peas-why-greens/. 
-[^ref66]: Harris, Jessica B. "Prosperity Starts with a Pea." New York Times (2010): 368-370. 
-[^ref67]: Olivia Ware Terenzio. “Feijoada and Hoppin’ John: Dishing the African Diaspora in Brazil and the United States.” Southern Cultures 25 4 (2019): 158–75. 
-[^ref68]: Ibid. 
-[^ref69]: Ibid. 
-[^ref70]: Sarah Rutledge. The Carolina Housewife. Charleston, South Carolina: J. Russell, 1855. https://www.loc.gov/item/07028873/. 
-[^ref71]: Wilk, Richard, and Livia Barbosa. Rice and Beans: A Unique Dish in a Hundred Places. Berg, 2012. 
-[^ref72]: Terenzio, “Feijoada and Hoppin’ John."
-[^ref73]: Lam, Francis. “Brazilian Soul Food.” The New York Times, May 27, 2015, sec. Magazine. https://www.nytimes.com/2015/05/31/magazine/brazilian-soul-food.html.
-[^ref74]: Ibid.
-[^ref75]: Ibid. 
-[^ref76]: Terenzio, “Feijoada and Hoppin’ John."
-[^ref77]: Ibid. 
-[^ref78]: Wallach, Jennifer Jensen. Every Nation Has Its Dish: Black Bodies and Black Food in Twentieth-Century America. Chapel Hill, UNITED STATES: University of North Carolina Press, 2019. http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=5596573. 
+[^ref161]: Kew Science, “Vigna Unguiculata (L.) Walp. | Plants of the World Online | Kew Science,” Plants of the World Online, accessed July 12, 2021, http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1127257-2. 
+[^ref162]: "Afroculinaria – Exploring Culinary Traditions of Africa, African America and the African Diaspora.” Accessed July 23, 2021. https://afroculinaria.com/. 
+[^ref163]: Ibid. 
+[^ref164]: The Southern Heritage Vegetables Cookbook (Birmingham, Ala. : Oxmoor House, 1983), http://archive.org/details/southernheritage0000unse. 
+[^ref165]: Michael W. Twitty, “Why Black Eyed Peas? Why Greens?,” Afroculinaria (blog), January 1, 2012, https://afroculinaria.com/2012/01/01/why-black-eyed-peas-why-greens/. 
+[^ref166]: Harris, Jessica B. "Prosperity Starts with a Pea." New York Times (2010): 368-370. 
+[^ref167]: Olivia Ware Terenzio. “Feijoada and Hoppin’ John: Dishing the African Diaspora in Brazil and the United States.” Southern Cultures 25 4 (2019): 158–75. 
+[^ref168]: Ibid. 
+[^ref169]: Ibid. 
+[^ref170]: Sarah Rutledge. The Carolina Housewife. Charleston, South Carolina: J. Russell, 1855. https://www.loc.gov/item/07028873/. 
+[^ref171]: Wilk, Richard, and Livia Barbosa. Rice and Beans: A Unique Dish in a Hundred Places. Berg, 2012. 
+[^ref172]: Terenzio, “Feijoada and Hoppin’ John."
+[^ref173]: Lam, Francis. “Brazilian Soul Food.” The New York Times, May 27, 2015, sec. Magazine. https://www.nytimes.com/2015/05/31/magazine/brazilian-soul-food.html.
+[^ref174]: Ibid.
+[^ref175]: Ibid. 
+[^ref176]: Terenzio, “Feijoada and Hoppin’ John."
+[^ref177]: Ibid. 
+[^ref178]: Wallach, Jennifer Jensen. Every Nation Has Its Dish: Black Bodies and Black Food in Twentieth-Century America. Chapel Hill, UNITED STATES: University of North Carolina Press, 2019. http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=5596573. 
 [^ref86]: Rawal, V. & Navarro, D. K., eds. The Global Economy of Pulses. Rome, FAO. 2019. http://www.fao.org/3/i7108en/i7108en.pdf
 [^ref87]: “Cowpea.” https://www.cwrdiversity.org/crop/cowpea/. Accessed 15 July 2021						    
 [^ref88]: Matthus, Elsa. A Global Rescue: Safeguarding the World’s Crop Wild Relatives. www.cwrdiversity.org, 2019, https://www.cwrdiversity.org/wp/wp-content/uploads/2019/12/global_rescue_170x240_spread.pdf.
