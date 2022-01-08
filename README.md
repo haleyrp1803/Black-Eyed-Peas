@@ -170,7 +170,8 @@ Hoppin’ John has become symbolic of prosperity for the year ahead, but it orig
        fit="contain"
        license="Creative Commons Attribution 2.0"
        author="Kathy Drasky"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg/1280px-Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg">
+       url= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg/1280px-Hoppin%27_John_at_Brenda%27s_Meat_%26_Three_for_good_luck._San_Francisco%2C_CA._%2839570682392%29.jpg">
+                            
 <param ve-image 
        label="Hoppin' John"
        description="Image of Hoppin' John"
@@ -188,19 +189,19 @@ Hoppin’ John has become symbolic of prosperity for the year ahead, but it orig
 
 Brazil’s national dish, <span eid="Q878189"> _feijoada completa_, </span> has a very similar origin story to Hoppin’ John. Enslaved West Africans in colonial Brazil developed _feijoada_ on plantations out of black beans and scrap pork. [^ref72][^ref73] It was a meal of necessity for workers as it used the food on hand and could be left simmering unattended during the long day’s work. [^ref74] Today, simple bean and rice dishes are a national staple, but feijoada completa is a celebratory meal for every sector of society, taking days to prepare and requiring better meat, collard greens, rice, orange slices, and manioc flour. [^ref75][^ref76]
 <param ve-image 
-       label="Feijoada"
-       description="Feijoada with rice, fried kale, cassava starch crisps (biscoito de polvilho), cassava flour (farinha), and a mix of olive oil, alcohol vinegar, tomatoes, onions and sometimes bell peppers called vinagrete."
-       fit="contain"
-       license="Creative Commons Attribution-Share Alike 4.0"
-       author="إيان"
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/فيجوادا_feijoada.jpg/1280px-فيجوادا_feijoada.jpg">
-<param ve-image 
        label="Feijoada à brasileira"
        description="Feijoada à brasileira"
        fit="contain"
        license="Creative Commons Attribution-Share Alike 4.0"
        author="Bradleyzm"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Feijoada_à_brasileira_-02.jpg/1280px-Feijoada_à_brasileira_-02.jpg">
+<param ve-image 
+       label="Feijoada"
+       description="Feijoada with rice, fried kale, cassava starch crisps (biscoito de polvilho), cassava flour (farinha), and a mix of olive oil, alcohol vinegar, tomatoes, onions and sometimes bell peppers called vinagrete."
+       fit="contain"
+       license="Creative Commons Attribution-Share Alike 4.0"
+       author="إيان"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/فيجوادا_feijoada.jpg/1280px-فيجوادا_feijoada.jpg">
 
 For both Hoppin’ John and _feijoada completa_, what was originally a means for survival became a meal for prosperity and celebration, as well as a symbol of unity across racial lines. However, that’s an overly simplistic view of a complex issue. Southern cooking especially can only be viewed as culturally unifying at the surface level. In reality, there is still much tension in questions of representation, ownership, class, race and identity in Southern food and <span eid="Q555997"> Soul Food,</span> with white perspectives usually being unjustly prioritized over Black ones. [^ref77][^ref78]
 <param ve-image 
