@@ -305,4 +305,4 @@ South Carolina and Georgia, as a Slave Under Various Masters, and was One Year i
 [^ref40]: A. C. D’Andrea et al., “Early Domesticated Cowpea (Vigna Unguiculata) from Central Ghana,” Antiquity 81, no. 313 (September 2007): 686–98, https://doi.org/10.1017/S0003598X00095661.
 [^ref43]: Stephanie E. Smallwood, Saltwater Slavery: A Middle Passage from Africa to American Diaspora (Cambridge, Mass.: Harvard University Press, 2007).
 [^ref44]: Judith Ann Carney, In the Shadow of Slavery: Africa’s Botanical Legacy in the Atlantic World (Berkeley: University of California Press, 2009).
-[^ref45]: Summary Statistics, https://www.slavevoyages.org/voyage/database#statistics Slave Voyages: The Trans-Atlantic Slave Trade Database.
+[^ref45]: Summary Statistics, Slave Voyages: The Trans-Atlantic Slave Trade Database.  https://www.slavevoyages.org/voyage/database#statistics
