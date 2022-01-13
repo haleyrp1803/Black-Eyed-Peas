@@ -262,7 +262,7 @@ Over recent decades, significant resources have been put into researching black-
 [^ref12]: Judith Ann Carney, In the Shadow of Slavery: Africa’s Botanical Legacy in the New World (University of California Press: Berkely, 2009), 74.
 [^ref13]: See section 3.1.2 Medeterranian Basin, in Ira A. Herniter, María Muñoz-Amatriaín, and Timothy J. Close, “Genetic, textual, and archeological evidence of the historical global spread of cowpea (Vigna unguiculata [L.] Walp.),” Legume Science 2, no. 4 (Dec., 2020), https://doi.org/10.1002/leg3.57. 
 [^ref15]: George Washington Carver, "Some Possibilities of the Cowpea in Macon County, Alabama," Experiment Station Tuskegee Normal and Industrial Institute Tuskegee Institute, Alabama, Bulletin No. 19 (Tuskegee Institute Press: 1910), 5.
-[^ref16]: Judith Ann Carney, In the Shadow of Slavery: Africa’s Botanical Legacy in the New World (University of California Press: Berkely, 2009), 267 fn 35.
+[^ref16]: Judith Ann Carney, In the Shadow of Slavery: Africa’s Botanical Legacy in the New World (University of California Press: Berkely, 2009), 220 fn 35.
 [^ref17]: Jules Janick and Kime E. Hummer, “The 1500th Anniversary (512-2012) of the Juliana Anicia Codex: An Illustrated Dioscordiean Recension,” Chronica Horticulturae 52, no. 3 (2012), 15. 
 [^ref18]: Charles Ball, Slavery in the United States.A Narrative of the Life and Adventures of Charles Ball, a Black Man, Who Lived Forty Years in Maryland,
 South Carolina and Georgia, as a Slave Under Various Masters, and was One Year in the Navy with Commodore Barney, During the Late War (New York: John S. Taylor, 1837), 200. Accessed online: https://docsouth.unc.edu/neh/ballslavery/ball.html.
